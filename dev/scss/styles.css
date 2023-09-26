@@ -414,12 +414,7 @@ body {
 }
 @media (min-width: 768px) {
   .hiyori_tea {
-    scale: 80%;
-  }
-}
-@media (min-width: 992px) {
-  .hiyori_tea {
-    scale: 80%;
+    display: none;
   }
 }
 
@@ -434,7 +429,7 @@ body {
 
 .footer-block {
   overflow: hidden;
-  background-color: #F49696;
+  background-color: #820404;
   font-style: normal;
   font-weight: 400;
   font-size: 11px;
@@ -474,13 +469,12 @@ body {
   }
 }
 
-.back {
+.wback {
   background-image: url("../img/bg.jpg");
   background-position: center;
   background-size: cover;
-  height: 100%;
+  height: max-content;
   display: flex;
-  flex-direction: column;
   text-align: center;
   align-items: center;
   justify-content: center;
@@ -492,33 +486,56 @@ body {
   overflow-x: hidden;
 }
 
-.panels {
-  align-items: left;
+.wpanels {
   padding-top: 8%;
   padding-bottom: 1%;
 }
 @media (min-width: 768px) {
-  .panels {
+  .wpanels {
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
     align-items: center;
-    justify-content: left;
+    justify-content: space-around;
     padding-top: 5%;
+    margin: auto;
   }
 }
-@media (min-width: 992px) {
-  .panels {
-    padding-top: 5%;
-  }
-}
-
-.yesnote {
+.wyesnote {
   scale: 40%;
   cursor: pointer;
+  display: flex;
 }
 
-.back {
+.commssheetws_panel {
+  position: relative;
+  scale: 90%;
+}
+@media (min-width: 768px) {
+  .commssheetws_panel {
+    display: none;
+  }
+}
+.commssheetw_panel {
+  display: none;
+}
+@media (min-width: 768px) {
+  .commssheetw_panel {
+    display: flex;
+    position: relative;
+    scale: 100%;
+  }
+}
+@media (min-width: 992px) {
+  .commssheetw_panel {
+    padding-top: 4%;
+    padding-bottom: 10%;
+    padding-left: 30%;
+    padding-right: 30%;
+  }
+}
+
+.aback {
   background-image: url("../img/bg.jpg");
   background-position: center;
   background-size: cover;
@@ -536,13 +553,13 @@ body {
   overflow-x: hidden;
 }
 
-.panels {
+.apanels {
   align-items: left;
   padding-top: 8%;
   padding-bottom: 1%;
 }
 @media (min-width: 768px) {
-  .panels {
+  .apanels {
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
@@ -552,12 +569,12 @@ body {
   }
 }
 @media (min-width: 992px) {
-  .panels {
+  .apanels {
     padding-top: 5%;
   }
 }
 
-.yesnote {
+.ayesnote {
   scale: 40%;
   cursor: pointer;
 }

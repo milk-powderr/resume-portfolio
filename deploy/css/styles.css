@@ -312,6 +312,60 @@ h1, h2, h3, h4, h5, h6 {
   padding: 0;
 }
 
+.header {
+  padding-top: 25px;
+  padding-left: 16px;
+  padding-right: 17px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+@media (min-width: 768px) {
+  .header {
+    padding-top: 19px;
+    padding-left: 16px;
+    padding-right: 17px;
+  }
+}
+@media (min-width: 992px) {
+  .header {
+    padding-top: 8.9px;
+  }
+}
+
+.header__logo {
+  width: 180px;
+}
+@media (min-width: 768px) {
+  .header__logo {
+    width: 260px;
+  }
+}
+@media (min-width: 992px) {
+  .header__logo {
+    width: 317px;
+  }
+}
+
+.header__link {
+  color: #000000;
+  font-size: 14px;
+  text-decoration: none;
+}
+.header__link:hover {
+  opacity: 0.5;
+}
+@media (min-width: 768px) {
+  .header__link {
+    font-size: 16px;
+  }
+}
+@media (min-width: 992px) {
+  .header__link {
+    font-size: 29.25px;
+  }
+}
+
 .back {
   background-image: url("../img/bg.jpg");
   background-position: center;
@@ -429,7 +483,7 @@ body {
 
 .footer-block {
   overflow: hidden;
-  background-color: #F49696;
+  background-color: #ffffff;
   font-style: normal;
   font-weight: 400;
   font-size: 11px;
@@ -454,7 +508,7 @@ body {
 }
 
 .footer_word {
-  color: #C24444;
+  color: #000000;
   font-size: 22px;
   font-family: "DotGothic16", sans-serif;
   animation: marquee 1.5s infinite linear;

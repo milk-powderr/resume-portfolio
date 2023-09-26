@@ -1,0 +1,48 @@
+.header {
+    padding-top: 25px;
+    padding-left: 16px;
+    padding-right: 17px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    @include md {
+        padding-top: 19px;
+        padding-left: 16px;
+        padding-right: 17px;
+    }
+
+    @include lg {
+        padding-top: 8.9px;
+    }
+}
+
+.header__logo {
+    width: 180px;
+
+    @include md {
+        width: 260px;
+    }
+
+    @include lg {
+        width: 317px;
+    }
+}
+
+.header__link {
+    color: $black;
+    font-size: 14px;
+    text-decoration: none;
+
+    &:hover {
+        opacity: 0.5;
+    }
+
+    @include md {
+        font-size: 16px;
+    }
+
+    @include lg {
+        font-size: 29.25px;
+    }
+}
