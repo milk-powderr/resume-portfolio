@@ -313,7 +313,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .header {
-  padding-top: 25px;
+  padding-top: 20px;
   padding-left: 16px;
   padding-right: 17px;
   display: flex;
@@ -329,7 +329,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 @media (min-width: 992px) {
   .header {
-    padding-top: 8.9px;
+    padding-top: 1%;
   }
 }
 
@@ -343,7 +343,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 @media (min-width: 992px) {
   .header__logo {
-    width: 317px;
+    width: 200px;
   }
 }
 
