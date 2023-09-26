@@ -3,7 +3,7 @@
     padding-left: 16px;
     padding-right: 17px;
     display: flex;
-    justify-content: space-between;
+   // justify-content: space-between;
     align-items: center;
 
     @include md {
@@ -14,6 +14,7 @@
 
     @include lg {
         padding-top: 1%;
+        padding-left: 26px;
     }
 }
 
@@ -26,17 +27,76 @@
 
     @include lg {
         width: 200px;
+
     }
 }
 
-.header__link {
+//.header__link {
+//    color: $black;
+//    font-size: 14px;
+//    text-decoration: none;
+//
+//    &:hover {//
+//        opacity: 0.5;
+//    }
+//
+//    @include md {
+//        font-size: 16px;
+//    }
+//
+//    @include lg {
+//        font-size: 29.25px;
+//    }
+//}
+
+.new__page {
+    font-size: 14px;
+    font-family: 'DotGothic16', sans-serif;
+    color: #000000;
+    text-decoration: none;
+    padding-left: 30%;
+//    flex-direction: row;
+display: flex;
+justify-content: space-between;
+//    &:hover {
+//        opacity: 0.5;
+//    }
+
+    @include md {
+        font-size: 16px;
+    }
+
+    @include lg {
+        font-size: 29.25px;
+    }
+}
+
+.new__page1 {
     color: $black;
     font-size: 14px;
     text-decoration: none;
+    padding-right: 20%;
+    flex-direction: row;
+//    justify-content: space-between;
 
-    &:hover {
-        opacity: 0.5;
+
+    @include md {
+        font-size: 16px;
     }
+
+    @include lg {
+        font-size: 29.25px;
+    }
+}
+
+.new__page2 {
+    color: $black;
+    font-size: 14px;
+    text-decoration: none;
+    padding-right: 30%;
+    flex-direction: row;
+//    justify-content: space-between;
+
 
     @include md {
         font-size: 16px;
