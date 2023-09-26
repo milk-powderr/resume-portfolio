@@ -352,9 +352,8 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "DotGothic16", sans-serif;
   color: #000000;
   text-decoration: none;
-  padding-left: 30%;
+  padding-left: 28%;
   display: flex;
-  justify-content: space-between;
 }
 @media (min-width: 768px) {
   .new__page {
@@ -371,7 +370,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #000000;
   font-size: 14px;
   text-decoration: none;
-  padding-right: 20%;
+  padding-right: 40%;
   flex-direction: row;
 }
 @media (min-width: 768px) {
@@ -389,7 +388,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #000000;
   font-size: 14px;
   text-decoration: none;
-  padding-right: 30%;
+  padding-right: 40%;
   flex-direction: row;
 }
 @media (min-width: 768px) {
@@ -399,6 +398,23 @@ h1, h2, h3, h4, h5, h6 {
 }
 @media (min-width: 992px) {
   .new__page2 {
+    font-size: 29.25px;
+  }
+}
+
+.new__page3 {
+  color: #000000;
+  font-size: 14px;
+  text-decoration: none;
+  flex-direction: row;
+}
+@media (min-width: 768px) {
+  .new__page3 {
+    font-size: 16px;
+  }
+}
+@media (min-width: 992px) {
+  .new__page3 {
     font-size: 29.25px;
   }
 }
