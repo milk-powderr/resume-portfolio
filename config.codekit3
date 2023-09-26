@@ -441,33 +441,33 @@
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
+      "oA" : 0,
       "oAP" : "\/dev\/components\/arthero.html",
-      "oF" : 0
+      "oF" : 1
     },
     "\/dev\/components\/footer.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
+      "oA" : 0,
       "oAP" : "\/dev\/components\/footer.html",
-      "oF" : 0
+      "oF" : 1
     },
     "\/dev\/components\/hero.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
+      "oA" : 0,
       "oAP" : "\/dev\/components\/hero.html",
-      "oF" : 0
+      "oF" : 1
     },
     "\/dev\/components\/writehero.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
+      "oA" : 0,
       "oAP" : "\/dev\/components\/writehero.html",
-      "oF" : 0
+      "oF" : 1
     },
     "\/dev\/fantastic.mp3" : {
       "cB" : 0,
