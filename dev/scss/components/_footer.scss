@@ -1,0 +1,44 @@
+.footer-block {
+   
+    overflow: hidden;
+    background-color: #F49696;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 20px;
+    text-align: center;
+    gap: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding-top: 13px;
+    padding-bottom: 7px;
+
+    @include md {
+        font-size: 11px;
+        line-height: 20px;
+        font-weight: 400;
+        gap: 10px;
+    }
+}
+
+.footer_word {
+    
+    color: #C24444;
+    font-size: 22px;
+    font-family: 'DotGothic16', sans-serif;
+
+        animation: marquee 1.5s infinite linear;
+        flex-shrink: 0;
+      
+      @keyframes scrolling {
+        0% {
+          transform: translateX(0);
+        }
+        100% {
+          transform: translateX(-100%);
+        }     
+}
+}

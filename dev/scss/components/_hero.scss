@@ -1,0 +1,108 @@
+.back {
+    background-image: url('../img/bg.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background-repeat: no-repeat;
+}
+
+html,
+body {
+    overflow-x: hidden;
+}
+
+.panels {
+    align-items: left;
+    padding-top: 8%;
+    padding-bottom: 1%;
+
+    @include md {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+        align-items: center;
+        justify-content: left;
+        padding-top: 5%;
+    }
+
+    @include lg {
+        padding-top: 5%;
+    }
+}
+
+.click_panel {
+    position: relative;
+}
+
+.click {
+    scale: 65%;
+
+    @include md {
+        scale: 100%;
+    }
+
+    @include lg {
+        scale: 100%;
+    }
+}
+
+.arashi_panel {
+    position: absolute;
+    scale: 25%;
+    top: 0;
+    left: 0%;
+
+    @include md {
+        scale: 38%;
+        left: -10.5%;
+    }
+}
+
+.niki_panel {
+    position: absolute;
+    scale: 25%;
+    top: 0;
+    left: 17.5%;
+    padding-bottom: -20px;
+
+
+    @include md {
+        scale: 38%;
+    }
+}
+
+.hiyorig_panel {
+    position: absolute;
+    scale: 25%;
+    top: 0;
+    right: 3%;
+    bottom: -14%;
+
+    @include md {
+        scale: 38%;
+        right: -4%;
+    }
+}
+
+.hiyori_tea {
+    scale: 70%;
+
+    @include md {
+      display: none;
+    }
+}
+
+.byf_panel {
+    scale: 90%;
+}
+
+.yesnote {
+    scale: 40%;
+    cursor: pointer;
+
+}

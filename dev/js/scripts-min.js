@@ -1,0 +1,1 @@
+function togglePlay(){var e=document.getElementById("myAudio");return e.paused?e.play():e.pause()}
