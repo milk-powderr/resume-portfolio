@@ -352,7 +352,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "DotGothic16", sans-serif;
   color: #000000;
   text-decoration: none;
-  padding-left: 28%;
+  padding-left: 27%;
   display: flex;
 }
 @media (min-width: 768px) {
