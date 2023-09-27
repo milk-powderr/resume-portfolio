@@ -33,74 +33,74 @@ body {
     }
 }
 
-.click_panel {
-    position: relative;
-}
+// .click_panel {
+//     position: relative;
+// }
 
-.click {
-    scale: 65%;
+// .click {
+//     scale: 65%;
 
-    @include md {
-        scale: 100%;
-    }
+//     @include md {
+//         scale: 100%;
+//     }
 
-    @include lg {
-        scale: 100%;
-    }
-}
+//     @include lg {
+//         scale: 100%;
+//     }
+// }
 
-.arashi_panel {
-    position: absolute;
-    scale: 25%;
-    top: 0;
-    left: 0%;
+// .arashi_panel {
+//     position: absolute;
+//     scale: 25%;
+//     top: 0;
+//     left: 0%;
 
-    @include md {
-        scale: 38%;
-        left: -10.5%;
-    }
-}
+//     @include md {
+//         scale: 38%;
+//         left: -10.5%;
+//     }
+// }
 
-.niki_panel {
-    position: absolute;
-    scale: 25%;
-    top: 0;
-    left: 17.5%;
-    padding-bottom: -20px;
+// .niki_panel {
+//     position: absolute;
+//     scale: 25%;
+//     top: 0;
+//     left: 17.5%;
+//     padding-bottom: -20px;
 
 
-    @include md {
-        scale: 38%;
-    }
-}
+//     @include md {
+//         scale: 38%;
+//     }
+// }
 
-.hiyorig_panel {
-    position: absolute;
-    scale: 25%;
-    top: 0;
-    right: 3%;
-    bottom: -14%;
+// .hiyorig_panel {
+//     position: absolute;
+//     scale: 25%;
+//     top: 0;
+//     right: 3%;
+//     bottom: -14%;
 
-    @include md {
-        scale: 38%;
-        right: -4%;
-    }
-}
+//     @include md {
+//         scale: 38%;
+//         right: -4%;
+//     }
+// }
 
-.hiyori_tea {
-    scale: 70%;
+// .hiyori_tea {
+//     scale: 70%;
 
-    @include md {
-      display: none;
-    }
-}
+//     @include md {
+//       display: none;
+//     }
+// }
 
-.byf_panel {
-    scale: 90%;
-}
+// .byf_panel {
+//     scale: 90%;
+// }
 
-.yesnote {
-    scale: 40%;
-    cursor: pointer;
+// .yesnote {
+//     scale: 40%;
+//     cursor: pointer;
 
-}
+// }
