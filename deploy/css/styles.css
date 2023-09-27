@@ -419,19 +419,6 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-.back {
-  background-image: url("../img/bg.jpg");
-  background-position: center;
-  background-size: cover;
-  height: 100%;
-  display: flex;
-  flex-direction: column;
-  text-align: center;
-  align-items: center;
-  justify-content: center;
-  background-repeat: no-repeat;
-}
-
 html,
 body {
   overflow-x: hidden;
@@ -439,22 +426,19 @@ body {
 
 .panels {
   align-items: left;
-  padding-top: 8%;
-  padding-bottom: 1%;
+  scale: 20%;
 }
 @media (min-width: 768px) {
   .panels {
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
-    align-items: center;
     justify-content: left;
-    padding-top: 5%;
   }
 }
 @media (min-width: 992px) {
   .panels {
-    padding-top: 5%;
+    padding-left: 0%;
   }
 }
 

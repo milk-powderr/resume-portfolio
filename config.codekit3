@@ -283,6 +283,19 @@
       "oAP" : "\/deploy\/img\/little.mp3",
       "oF" : 0
     },
+    "\/deploy\/img\/magazine.jpg" : {
+      "ft" : 16384,
+      "iS" : 649186,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/magazine.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/img\/makotools.png" : {
       "ft" : 32768,
       "iS" : 4973,
@@ -526,6 +539,14 @@
       "oA" : 1,
       "oAP" : "\/dev\/components\/header.html",
       "oF" : 1
+    },
+    "\/dev\/components\/hero.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/components\/hero.html",
+      "oF" : 0
     },
     "\/dev\/components\/hero.kit" : {
       "cB" : 0,
