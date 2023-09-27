@@ -17,19 +17,18 @@ body {
 }
 
 .panels {
-    align-items: left;
-    scale: 20%;
+    scale: 10%;
 
     @include md {
-        display: flex;
-        flex-wrap: wrap;
-        flex-direction: row;
-    //    align-items: center;
-        justify-content: left;
+        // display: flex;
+        // flex-wrap: wrap;
+        // flex-direction: row;
+        // align-items: center;
+        // justify-content: left;
     }
 
     @include lg {
-   padding-left: 0%;
+
     }
 }
 

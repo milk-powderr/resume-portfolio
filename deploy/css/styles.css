@@ -425,23 +425,8 @@ body {
 }
 
 .panels {
-  align-items: left;
-  scale: 20%;
+  scale: 10%;
 }
-@media (min-width: 768px) {
-  .panels {
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: row;
-    justify-content: left;
-  }
-}
-@media (min-width: 992px) {
-  .panels {
-    padding-left: 0%;
-  }
-}
-
 .footer-block {
   overflow: hidden;
   background-color: #ffffff;
