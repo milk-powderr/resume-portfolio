@@ -840,6 +840,14 @@
       "pg" : 0,
       "sct" : 0
     },
+    "\/dev\/writecomms.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/writecomms.html",
+      "oF" : 0
+    },
     "\/dev\/writecomms.kit" : {
       "cB" : 0,
       "ft" : 2048,
