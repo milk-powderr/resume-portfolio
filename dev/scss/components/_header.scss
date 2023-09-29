@@ -17,7 +17,7 @@
     }
 }
 
-.header__logo {
+.header_logo {
     width: 180px;
 
     @include md {
@@ -30,7 +30,7 @@
     }
 }
 
-.new_page-block__grid {
+.new_page-block_grid {
     justify-content: center;
     font-size: 14px;
     font-family: 'DotGothic16', sans-serif;
@@ -51,7 +51,7 @@
     }
 }
 
-.new__page1 {
+.new_page1 {
     color: $black;
     font-size: 14px;
     text-decoration: none;
@@ -73,7 +73,7 @@
     }}
 
 
-.new__page2 {
+.new_page2 {
     color: $black;
     font-size: 14px;
     text-decoration: none;
@@ -91,7 +91,7 @@
     }
 }
 
-.new__page3 {
+.new_page3 {
     color: $black;
     font-size: 14px;
     text-decoration: none;
