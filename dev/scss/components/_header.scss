@@ -5,11 +5,9 @@
     align-items: center;
 
     @include md {
-
     }
 
     @include lg {
-
     }
 }
 
@@ -22,7 +20,6 @@
 
     @include lg {
         width: 200px;
-
     }
 }
 
@@ -33,9 +30,6 @@
     text-decoration: none;
     padding-left: 27%;
     display: flex;
-//    &:hover {
-//        opacity: 0.5;
-//    }
 
     @include md {
         font-size: 16px;
@@ -53,11 +47,9 @@
     padding-right: 40%;
     flex-direction: row;
  
-   &:hover {
-   // text-shadow: 2px 2px 8px #FFC700;
-   }
-
-
+//    &:hover {
+//    text-shadow: 2px 2px 8px #FFC700;
+//    }
 
     @include md {
         font-size: 16px;
@@ -75,8 +67,6 @@
     text-decoration: none;
     padding-right: 40%;
     flex-direction: row;
-//    justify-content: space-between;
-
 
     @include md {
         font-size: 16px;
@@ -92,8 +82,6 @@
     font-size: 14px;
     text-decoration: none;
     flex-direction: row;
-//    justify-content: space-between;
-
 
     @include md {
         font-size: 16px;
