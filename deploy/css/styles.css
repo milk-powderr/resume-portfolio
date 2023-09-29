@@ -347,7 +347,7 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-.new__page {
+.new_page-block__grid {
   justify-content: center;
   font-size: 14px;
   font-family: "DotGothic16", sans-serif;
@@ -357,12 +357,12 @@ h1, h2, h3, h4, h5, h6 {
   display: flex;
 }
 @media (min-width: 768px) {
-  .new__page {
+  .new_page-block__grid {
     font-size: 16px;
   }
 }
 @media (min-width: 992px) {
-  .new__page {
+  .new_page-block__grid {
     font-size: 29.25px;
   }
 }
