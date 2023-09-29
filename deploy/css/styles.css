@@ -303,7 +303,7 @@ template {
 }
 
 body {
-  font-family: "Inter", sans-serif;
+  font-family: "Alumni Sans", sans-serif;
   font-size: 16px;
 }
 
@@ -335,7 +335,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .new_page-block {
   justify-content: space-between;
-  font-family: "DotGothic16", sans-serif;
+  font-family: "Alumni Sans", sans-serif;
   text-decoration: none;
   padding-left: 27%;
   display: flex;
