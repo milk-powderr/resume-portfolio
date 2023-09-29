@@ -317,6 +317,7 @@ h1, h2, h3, h4, h5, h6 {
   padding-left: 26px;
   display: flex;
   align-items: center;
+  padding-bottom: 30px;
 }
 .header_logo {
   width: 180px;
