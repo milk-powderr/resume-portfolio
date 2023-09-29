@@ -2,14 +2,17 @@ body {
     overflow-x: hidden;
 }
 
-.works-grid-container {
+.works {
 
 // gap: 70px;
+
 display: grid;
+
 grid-template-columns:  auto auto;
+
 align-items: flex-start;
 }
 
 .grid-magazine_panels {
-    scale: 40%;
+    max-width: max-content;
 }
