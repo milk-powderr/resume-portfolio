@@ -437,6 +437,8 @@ body {
   width: 100%;
   padding-top: 13px;
   padding-bottom: 7px;
+  position: fixed;
+  bottom: 0;
 }
 @media (min-width: 768px) {
   .footer-block {
