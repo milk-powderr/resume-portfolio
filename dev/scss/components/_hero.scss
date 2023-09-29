@@ -4,15 +4,15 @@ body {
 
 .works {
 
-// gap: 70px;
+    display: grid;
 
-display: grid;
-
-grid-template-columns:  auto auto;
-
-align-items: flex-start;
+    grid-template-columns:  50% auto;
 }
 
 .grid-magazine_panels {
-    max-width: max-content;
+    width: 100%;
+}
+
+.magazine_panel {
+width: 100%;
 }
