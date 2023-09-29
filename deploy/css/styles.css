@@ -415,7 +415,7 @@ body {
 }
 
 .grid-magazine_panels {
-  max-width: max-content;
+  scale: 40%;
 }
 
 .footer-block {

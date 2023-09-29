@@ -298,7 +298,7 @@
     },
     "\/deploy\/img\/magazine.png" : {
       "ft" : 32768,
-      "iS" : 0,
+      "iS" : 2613815,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/magazine.png",
       "oF" : 0,
@@ -529,14 +529,6 @@
       "oAP" : "\/dev\/components\/arthero.html",
       "oF" : 1
     },
-    "\/dev\/components\/footer.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/components\/footer.html",
-      "oF" : 0
-    },
     "\/dev\/components\/footer.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -552,14 +544,6 @@
       "oA" : 1,
       "oAP" : "\/dev\/components\/header.html",
       "oF" : 1
-    },
-    "\/dev\/components\/hero.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/components\/hero.html",
-      "oF" : 0
     },
     "\/dev\/components\/hero.kit" : {
       "cB" : 0,
@@ -873,14 +857,6 @@
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
-    },
-    "\/dev\/writecomms.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/writecomms.html",
-      "oF" : 0
     },
     "\/dev\/writecomms.kit" : {
       "cB" : 0,
