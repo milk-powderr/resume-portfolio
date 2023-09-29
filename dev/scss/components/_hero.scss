@@ -2,20 +2,14 @@ body {
     overflow-x: hidden;
 }
 
-.works-block__grid {
-display: flex;
-scale: 15%;
-flex-direction: row;
-margin-top: -1070px;
+.works-grid-container {
+
 // gap: 70px;
+display: grid;
+grid-template-columns:  auto auto;
+align-items: flex-start;
+}
 
-
-
-    @include md {
-
-    }
-
-    @include lg {
-
-    }
+.grid-magazine_panels {
+    max-width: max-content;
 }

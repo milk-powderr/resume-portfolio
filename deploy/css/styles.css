@@ -407,12 +407,16 @@ body {
   overflow-x: hidden;
 }
 
-.works-block__grid {
-  display: flex;
-  scale: 15%;
-  flex-direction: row;
-  margin-top: -1070px;
+.works-grid-container {
+  display: grid;
+  grid-template-columns: auto auto;
+  align-items: flex-start;
 }
+
+.grid-magazine_panels {
+  max-width: max-content;
+}
+
 .footer-block {
   overflow: hidden;
   background-color: #ffffff;
