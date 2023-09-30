@@ -3,11 +3,22 @@ body {
 }
 
 .works {
-
     display: grid;
-    grid-template-columns:  50% auto;
+ //   grid-template-columns:  50% auto;
+// grid-template-columns: repeat(50% auto) ;
+grid-template-columns: repeat(2, 1fr);
 }
 
 .magazine_panel {
 width: 100%;
+}
+
+.hallway-painting_panel {
+    width: 100%;
+    object-fit: cover;
+    height: 300px;
+}
+
+.music-poster_panel {
+    width: 100%;
 }
