@@ -1,9 +1,11 @@
-.header-block__grid {
+.header {
     padding-top: 1%;
     padding-left: 26px;
     display: flex;
     align-items: center;
     padding-bottom: 30px;
+    justify-content: space-between;
+    margin-right: 200px;
 
     @include md {
     }
@@ -25,9 +27,7 @@
 }
 
 .new_page-block {
-    // justify-content: space-between;
     font-family: 'Alumni Sans', sans-serif;
-    padding-left: 27%;
     display: flex;
 
     @include md {

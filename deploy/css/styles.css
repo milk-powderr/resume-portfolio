@@ -312,12 +312,14 @@ h1, h2, h3, h4, h5, h6 {
   padding: 0;
 }
 
-.header-block__grid {
+.header {
   padding-top: 1%;
   padding-left: 26px;
   display: flex;
   align-items: center;
   padding-bottom: 30px;
+  justify-content: space-between;
+  margin-right: 200px;
 }
 .header_logo {
   width: 180px;
@@ -335,7 +337,6 @@ h1, h2, h3, h4, h5, h6 {
 
 .new_page-block {
   font-family: "Alumni Sans", sans-serif;
-  padding-left: 27%;
   display: flex;
 }
 .new_page1 {

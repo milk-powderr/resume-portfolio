@@ -191,20 +191,20 @@
       "oAP" : "\/dev\/components\/header.html",
       "oF" : 1
     },
-    "\/dev\/components\/hero.html" : {
+    "\/dev\/components\/intro.kit" : {
       "cB" : 0,
-      "ft" : 8192,
+      "ft" : 2048,
       "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/components\/hero.html",
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/intro.html",
       "oF" : 0
     },
-    "\/dev\/components\/hero.kit" : {
+    "\/dev\/components\/work.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/dev\/components\/hero.html",
+      "oAP" : "\/dev\/components\/work.html",
       "oF" : 1
     },
     "\/dev\/components\/writehero.kit" : {
@@ -395,7 +395,7 @@
       "pg" : 0,
       "sct" : 0
     },
-    "\/dev\/scss\/components\/_hero.scss" : {
+    "\/dev\/scss\/components\/_intro.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -404,7 +404,7 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/scss\/components\/_hero.css",
+      "oAP" : "\/dev\/scss\/components\/_intro.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
@@ -435,6 +435,21 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/scss\/components\/_navigation.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/dev\/scss\/components\/_work.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_work.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
