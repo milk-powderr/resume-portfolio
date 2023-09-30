@@ -91,7 +91,7 @@
     },
     "\/deploy\/img\/music-poster-mockup.jpg" : {
       "ft" : 16384,
-      "iS" : 0,
+      "iS" : 698730,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/music-poster-mockup.jpg",
@@ -108,6 +108,19 @@
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/music-poster.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/oreo.jpg" : {
+      "ft" : 16384,
+      "iS" : 0,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/oreo.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,

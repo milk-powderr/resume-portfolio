@@ -1,10 +1,9 @@
 body {
-    // overflow-x: hidden;
     overflow-y: hidden; /* Hide horizontal scrollbar */
 }
 
 .works {
-    display: grid;
+display: grid;
  //   grid-template-columns:  50% auto;
 // grid-template-columns: repeat(50% auto) ;
 grid-template-columns: repeat(2, 1fr);
@@ -24,6 +23,12 @@ object-fit: cover;
 }
 
 .music-poster_panel {
+    width: 100%;
+    object-fit: cover;
+    height: 550px;
+}
+
+.oreo_panel {
     width: 100%;
     object-fit: cover;
     height: 550px;

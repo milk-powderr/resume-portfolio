@@ -440,6 +440,12 @@ body {
   height: 550px;
 }
 
+.oreo_panel {
+  width: 100%;
+  object-fit: cover;
+  height: 550px;
+}
+
 .footer-block {
   overflow: hidden;
   background-color: #ffffff;
