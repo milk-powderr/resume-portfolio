@@ -413,12 +413,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 body {
-  overflow-x: hidden;
+  overflow-y: hidden; /* Hide horizontal scrollbar */
 }
 
 .works {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: 550px 550px 1fr 1fr;
 }
 
 .magazine_panel {
@@ -435,6 +436,8 @@ body {
 
 .music-poster_panel {
   width: 100%;
+  object-fit: cover;
+  height: 550px;
 }
 
 .footer-block {

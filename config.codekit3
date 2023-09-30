@@ -89,6 +89,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/img\/music-poster-mockup.jpg" : {
+      "ft" : 16384,
+      "iS" : 0,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/music-poster-mockup.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/img\/music-poster.jpg" : {
       "ft" : 16384,
       "iS" : 411489,
