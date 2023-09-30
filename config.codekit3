@@ -191,6 +191,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/img\/pill-print.jpg" : {
+      "ft" : 16384,
+      "iS" : 238884,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/pill-print.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/img\/Screen Recording 2023-03-12 at 6.27.45 PM.mov" : {
       "cB" : 0,
       "ft" : 8192,
