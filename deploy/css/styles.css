@@ -334,23 +334,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .new_page-block {
-  justify-content: space-between;
   font-family: "Alumni Sans", sans-serif;
-  text-decoration: none;
   padding-left: 27%;
   display: flex;
 }
-@media (min-width: 768px) {
-  .new_page-block {
-    font-size: 16px;
-  }
-}
-@media (min-width: 992px) {
-  .new_page-block {
-    font-size: 29.25px;
-  }
-}
-
 .new_page1 {
   color: #000000;
   font-size: 19px;
@@ -365,7 +352,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 @media (min-width: 992px) {
   .new_page1 {
-    font-size: 32px;
+    font-size: 39px;
   }
 }
 
@@ -383,7 +370,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 @media (min-width: 992px) {
   .new_page2 {
-    font-size: 32px;
+    font-size: 39px;
   }
 }
 
@@ -400,7 +387,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 @media (min-width: 992px) {
   .new_page3 {
-    font-size: 32px;
+    font-size: 39px;
   }
 }
 
