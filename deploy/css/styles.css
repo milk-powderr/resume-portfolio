@@ -317,7 +317,7 @@ h1, h2, h3, h4, h5, h6 {
   padding-left: 26px;
   display: flex;
   align-items: center;
-  padding-bottom: 30px;
+  padding-bottom: 0px;
   justify-content: space-between;
   margin-right: 200px;
 }
@@ -390,6 +390,11 @@ h1, h2, h3, h4, h5, h6 {
   .new_page3 {
     font-size: 39px;
   }
+}
+
+.intro {
+  padding-left: 30px;
+  font-size: 60px;
 }
 
 body {
