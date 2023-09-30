@@ -50,6 +50,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/img\/hallway-painting.png" : {
+      "ft" : 32768,
+      "iS" : 478574,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/hallway-painting.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/img\/iba.jpg" : {
       "ft" : 16384,
       "iS" : 22649,
@@ -197,6 +210,14 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/components\/intro.html",
+      "oF" : 0
+    },
+    "\/dev\/components\/work.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/components\/work.html",
       "oF" : 0
     },
     "\/dev\/components\/work.kit" : {

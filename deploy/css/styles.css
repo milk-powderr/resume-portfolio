@@ -367,6 +367,9 @@ h1, h2, h3, h4, h5, h6 {
   padding-right: 40%;
   flex-direction: row;
 }
+.new_page2:hover {
+  text-shadow: -2px 2px #FFC700;
+}
 @media (min-width: 768px) {
   .new_page2 {
     font-size: 16px;
@@ -383,6 +386,9 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 14px;
   text-decoration: none;
   flex-direction: row;
+}
+.new_page3:hover {
+  text-shadow: -2px 2px #FFC700;
 }
 @media (min-width: 768px) {
   .new_page3 {
@@ -413,10 +419,6 @@ body {
 .works {
   display: grid;
   grid-template-columns: 50% auto;
-}
-
-.grid-magazine_panels {
-  width: 100%;
 }
 
 .magazine_panel {
