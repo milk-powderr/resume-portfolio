@@ -71,6 +71,19 @@
       "oAP" : "\/deploy\/img\/bred.mov",
       "oF" : 0
     },
+    "\/deploy\/img\/cake-menu.jpg" : {
+      "ft" : 16384,
+      "iS" : 68669,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/cake-menu.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/img\/cake.jpg" : {
       "ft" : 16384,
       "iS" : 161503,
