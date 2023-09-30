@@ -37,6 +37,19 @@
       "oF" : 0,
       "pg" : 0
     },
+    "\/deploy\/img\/bartram.jpg" : {
+      "ft" : 16384,
+      "iS" : 0,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/bartram.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/img\/bologo.png" : {
       "ft" : 32768,
       "iS" : 1082,
@@ -117,7 +130,7 @@
     },
     "\/deploy\/img\/oreo.jpg" : {
       "ft" : 16384,
-      "iS" : 0,
+      "iS" : 182577,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/oreo.jpg",
