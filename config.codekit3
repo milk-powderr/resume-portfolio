@@ -39,7 +39,7 @@
     },
     "\/deploy\/img\/bartram.jpg" : {
       "ft" : 16384,
-      "iS" : 0,
+      "iS" : 2639903,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/bartram.jpg",
@@ -63,6 +63,35 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/img\/bred.mov" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/bred.mov",
+      "oF" : 0
+    },
+    "\/deploy\/img\/cake.jpg" : {
+      "ft" : 16384,
+      "iS" : 161503,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/cake.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/cake.mov" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/cake.mov",
+      "oF" : 0
+    },
     "\/deploy\/img\/hallway-painting.png" : {
       "ft" : 32768,
       "iS" : 478574,
@@ -75,6 +104,14 @@
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
+    },
+    "\/deploy\/img\/heart.mov" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/heart.mov",
+      "oF" : 0
     },
     "\/deploy\/img\/iba.jpg" : {
       "ft" : 16384,
@@ -140,6 +177,14 @@
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
+    },
+    "\/deploy\/img\/Screen Recording 2023-03-12 at 6.27.45 PM.mov" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/Screen Recording 2023-03-12 at 6.27.45 PM.mov",
+      "oF" : 0
     },
     "\/deploy\/index.html" : {
       "cB" : 0,
