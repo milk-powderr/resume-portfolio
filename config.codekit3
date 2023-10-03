@@ -515,6 +515,14 @@
       "sC" : 3,
       "tS" : 0
     },
+    "\/deploy\/work.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/work.html",
+      "oF" : 0
+    },
     "\/deploy\/writecomms.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -608,21 +616,13 @@
       "oAP" : "\/dev\/components\/intro.html",
       "oF" : 0
     },
-    "\/dev\/components\/work.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/components\/work.html",
-      "oF" : 0
-    },
     "\/dev\/components\/work.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/dev\/components\/work.html",
-      "oF" : 1
+      "oAP" : "\/deploy\/work.html",
+      "oF" : 3
     },
     "\/dev\/components\/writehero.kit" : {
       "cB" : 0,
