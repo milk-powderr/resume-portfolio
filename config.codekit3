@@ -63,13 +63,39 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/bred.mov" : {
+    "\/deploy\/img\/bread.jpg" : {
+      "ft" : 16384,
+      "iS" : 46658,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/bread.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/bread.mov" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/bred.mov",
+      "oAP" : "\/deploy\/img\/bread.mov",
       "oF" : 0
+    },
+    "\/deploy\/img\/business-cards.jpg" : {
+      "ft" : 16384,
+      "iS" : 471205,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/business-cards.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
     },
     "\/deploy\/img\/cake-menu.jpg" : {
       "ft" : 16384,
@@ -104,6 +130,19 @@
       "oA" : 0,
       "oAP" : "\/deploy\/img\/cake.mov",
       "oF" : 0
+    },
+    "\/deploy\/img\/exhibition-cover.jpg" : {
+      "ft" : 16384,
+      "iS" : 1626891,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/exhibition-cover.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
     },
     "\/deploy\/img\/hallway-painting-1.jpg" : {
       "ft" : 16384,

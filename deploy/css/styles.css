@@ -419,7 +419,7 @@ body {
 .works {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  grid-template-rows: 550px 550px 550px 1fr;
+  grid-template-rows: 550px 550px 550px 550px 550px 1fr;
 }
 
 .magazine_panel {
@@ -465,6 +465,24 @@ body {
 }
 
 .pill-print_panel {
+  width: 100%;
+  object-fit: cover;
+  height: 550px;
+}
+
+.emmelina_panel {
+  width: 100%;
+  object-fit: cover;
+  height: 550px;
+}
+
+.bread_panel {
+  width: 100%;
+  object-fit: cover;
+  height: 550px;
+}
+
+.exhibition_panel {
   width: 100%;
   object-fit: cover;
   height: 550px;
