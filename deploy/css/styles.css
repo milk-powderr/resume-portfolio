@@ -490,7 +490,8 @@ body {
 
 .details {
   padding-left: 20px;
-  padding-bottom: 50px;
+  padding-bottom: 20px;
+  padding-top: 30px;
   font-size: 20px;
   width: 200px;
   color: #6e6e6e;
@@ -498,6 +499,10 @@ body {
 
 #copyright {
   font-size: 15px;
+}
+
+.linkedin-logo {
+  width: 20px;
 }
 
 .footer-block {

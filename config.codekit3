@@ -295,6 +295,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/img\/linkedin-logo.png" : {
+      "ft" : 32768,
+      "iS" : 38423,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/linkedin-logo.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/img\/magazine.jpg" : {
       "ft" : 16384,
       "iS" : 649186,
