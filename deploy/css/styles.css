@@ -497,8 +497,18 @@ body {
   color: #6e6e6e;
 }
 
+.icons {
+  display: flex;
+  flex-direction: row;
+}
+
 #copyright {
   font-size: 15px;
+}
+
+.linkedin {
+  padding-right: 10px;
+  align-items: center;
 }
 
 .linkedin-logo {
