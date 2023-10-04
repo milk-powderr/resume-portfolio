@@ -17,20 +17,12 @@
       "oAP" : "\/.gitattributes",
       "oF" : 0
     },
-    "\/deploy\/artcomms.html" : {
+    "\/deploy\/about.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/artcomms.html",
-      "oF" : 0
-    },
-    "\/deploy\/arthero.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/arthero.html",
+      "oAP" : "\/deploy\/about.html",
       "oF" : 0
     },
     "\/deploy\/css\/styles.css" : {
@@ -523,28 +515,20 @@
       "sC" : 3,
       "tS" : 0
     },
-    "\/deploy\/work.html" : {
+    "\/deploy\/play.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/work.html",
+      "oAP" : "\/deploy\/play.html",
       "oF" : 0
     },
-    "\/deploy\/writecomms.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/writecomms.html",
-      "oF" : 0
-    },
-    "\/dev\/artcomms.kit" : {
+    "\/dev\/about.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/artcomms.html",
+      "oAP" : "\/deploy\/about.html",
       "oF" : 2
     },
     "\/dev\/base\/_base.scss" : {
@@ -592,14 +576,6 @@
       "pg" : 0,
       "sct" : 0
     },
-    "\/dev\/components\/arthero.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/arthero.html",
-      "oF" : 3
-    },
     "\/dev\/components\/details.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -636,7 +612,7 @@
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 0,
+      "oA" : 1,
       "oAP" : "\/deploy\/work.html",
       "oF" : 3
     },
@@ -699,6 +675,14 @@
       "oF" : 0,
       "sC" : 3,
       "tS" : 0
+    },
+    "\/dev\/play.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/play.html",
+      "oF" : 2
     },
     "\/dev\/scss\/base\/_base.scss" : {
       "aP" : 0,
@@ -966,14 +950,6 @@
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
-    },
-    "\/dev\/writecomms.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/writecomms.html",
-      "oF" : 2
     }
   },
   "hooks" : [
