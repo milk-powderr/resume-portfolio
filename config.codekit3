@@ -7,7 +7,7 @@
       "uuidString" : "3EAADFA8-8105-4BBC-904D-6B3FFDB57B82"
     }
   ],
-  "creatorBuild" : "34484",
+  "creatorBuild" : "34513",
   "files" : {
     "\/.gitattributes" : {
       "cB" : 0,
@@ -23,6 +23,14 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/artcomms.html",
+      "oF" : 0
+    },
+    "\/deploy\/arthero.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/arthero.html",
       "oF" : 0
     },
     "\/deploy\/css\/styles.css" : {
@@ -589,8 +597,8 @@
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/dev\/components\/arthero.html",
-      "oF" : 1
+      "oAP" : "\/deploy\/arthero.html",
+      "oF" : 3
     },
     "\/dev\/components\/details.kit" : {
       "cB" : 0,
@@ -631,14 +639,6 @@
       "oA" : 0,
       "oAP" : "\/deploy\/work.html",
       "oF" : 3
-    },
-    "\/dev\/components\/writehero.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/components\/writehero.html",
-      "oF" : 1
     },
     "\/dev\/helpers\/_mixins.scss" : {
       "aP" : 0,
@@ -1882,9 +1882,6 @@
       "no-return-assign" : {
         "active" : 0,
         "optionString" : "'except-parens'"
-      },
-      "no-return-await" : {
-        "active" : 0
       },
       "no-script-url" : {
         "active" : 0
