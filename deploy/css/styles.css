@@ -488,6 +488,13 @@ body {
   height: 550px;
 }
 
+.details {
+  padding-left: 20px;
+  padding-bottom: 50px;
+  font-size: 20px;
+  width: 1000px;
+}
+
 .footer-block {
   overflow: hidden;
   background-color: #ffffff;
