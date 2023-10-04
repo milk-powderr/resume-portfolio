@@ -505,6 +505,10 @@ body {
   width: 20px;
 }
 
+.email-logo {
+  width: 30px;
+}
+
 .footer-block {
   overflow: hidden;
   background-color: #ffffff;
