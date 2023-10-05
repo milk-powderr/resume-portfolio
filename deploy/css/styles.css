@@ -497,6 +497,11 @@ h1, h2, h3, h4, h5, h6 {
   object-fit: cover;
 }
 
+.aboutpic_panel {
+  width: 300px;
+  object-fit: cover;
+}
+
 .details {
   padding-left: 20px;
   padding-bottom: 20px;
