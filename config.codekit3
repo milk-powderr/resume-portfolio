@@ -131,6 +131,58 @@
       "oAP" : "\/deploy\/img\/cake.mov",
       "oF" : 0
     },
+    "\/deploy\/img\/crotchet-1.jpg" : {
+      "ft" : 16384,
+      "iS" : 4588583,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/crotchet-1.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/crotchet-2.jpg" : {
+      "ft" : 16384,
+      "iS" : 3600383,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/crotchet-2.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/crotchet-3.jpg" : {
+      "ft" : 16384,
+      "iS" : 3772984,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/crotchet-3.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/crotchet-4.jpg" : {
+      "ft" : 16384,
+      "iS" : 0,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/crotchet-4.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/img\/email-logo.png" : {
       "ft" : 32768,
       "iS" : 23018,
