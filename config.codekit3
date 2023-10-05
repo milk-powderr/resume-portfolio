@@ -565,13 +565,13 @@
     },
     "\/deploy\/img\/self.jpg" : {
       "ft" : 16384,
-      "iS" : 4519632,
+      "iS" : 3099936,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/self.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 1,
+      "opt" : 0,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
