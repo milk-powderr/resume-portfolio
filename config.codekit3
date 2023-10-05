@@ -563,6 +563,19 @@
       "oAP" : "\/deploy\/img\/Screen Recording 2023-03-12 at 6.27.45 PM.mov",
       "oF" : 0
     },
+    "\/deploy\/img\/self.jpg" : {
+      "ft" : 16384,
+      "iS" : 4519632,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/self.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -653,6 +666,14 @@
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
+    },
+    "\/dev\/components\/aboutpic.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/aboutpic.html",
+      "oF" : 0
     },
     "\/dev\/components\/details.kit" : {
       "cB" : 0,
@@ -810,6 +831,21 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/scss\/base\/_typography.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/dev\/scss\/components\/_aboutpic.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_aboutpic.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
