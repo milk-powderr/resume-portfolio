@@ -1,11 +1,5 @@
-// body {
-//     overflow-y: hidden; /* Hide horizontal scrollbar */
-// }
-
 .works {
 display: grid;
- //   grid-template-columns:  50% auto;
-// grid-template-columns: repeat(50% auto) ;
 grid-template-columns: repeat(2, 1fr);
 grid-template-rows: 550px 550px 550px 550px 550px 1fr;
 }
