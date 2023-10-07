@@ -616,6 +616,11 @@ hr {
   font-size: 20px;
 }
 
+.resub {
+  text-decoration: none;
+  color: #000000;
+}
+
 .details {
   padding-left: 20px;
   padding-bottom: 20px;
