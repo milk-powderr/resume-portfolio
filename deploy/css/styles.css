@@ -528,6 +528,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .paragraph {
   font-size: 23px;
+  font-weight: 250;
   padding-left: 2px;
 }
 
