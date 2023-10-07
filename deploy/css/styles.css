@@ -557,12 +557,14 @@ hr {
   margin-right: 50px;
 }
 
-.achievements {
+.bottom-block {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
+}
+
+.achievements {
   padding-top: 30px;
-  padding-left: 60px;
-  display: block;
+  padding-left: 59px;
   list-style-type: none;
 }
 

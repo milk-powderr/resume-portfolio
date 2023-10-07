@@ -59,12 +59,20 @@ hr {
 
 }
 
-.achievements {
+.bottom-block{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
+
+
+}
+
+
+.achievements {
+    // display: grid;
+    // grid-template-columns: repeat(2, 1fr);
     padding-top: 30px;
-    padding-left: 60px;
-    display: block;
+    padding-left: 59px;
+    // display: block;
     list-style-type: none;
 }
 
@@ -82,3 +90,4 @@ hr {
     font-weight: 250;
     padding-left: 1.5px;
 }
+
