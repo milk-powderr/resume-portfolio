@@ -1,1 +1,1 @@
-import{gsap}from"gsap";import{DrawSVGPlugin}from"gsap/DrawSVGPlugin";import{GSDevTools}from"gsap/GSDevTools";gsap.registerPlugin(DrawSVGPlugin,GSDevTools);
+import{gsap}from"gsap";import{DrawSVGPlugin}from"gsap/DrawSVGPlugin";import{GSDevTools}from"gsap/GSDevTools";function oreozoomout(){var o=gsap.timeline();return gsap.set("#oreo_panel",{opacity:1},"trigger"),o.to("#oreo_panel",{opacity:0}),o}gsap.registerPlugin(DrawSVGPlugin,GSDevTools);var mainTL=gsap.timeline();mainTL.add(oreozoomout()),GSDevTools.create();
