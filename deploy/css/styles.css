@@ -513,7 +513,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .aboutintro {
-  padding-top: 76px;
+  padding-top: 16px;
   padding-left: 30px;
   font-size: 60px;
   width: 1000px;
@@ -527,7 +527,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .paragraph {
-  font-size: 10px;
+  font-size: 23px;
+  padding-left: 2px;
 }
 
 .details {
