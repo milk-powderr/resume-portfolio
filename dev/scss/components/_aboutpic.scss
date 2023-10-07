@@ -25,7 +25,7 @@
 
 #name {
     color: #FFC700;
-    text-shadow: -2px 2px  #000000;
+    text-shadow: -2px 2px #000000;
 }
 
 .paragraph1 {
@@ -66,4 +66,19 @@ hr {
     padding-left: 60px;
     display: block;
     list-style-type: none;
+}
+
+.education-title {
+    font-size: 27px;
+    font-weight: 400;
+    color: #FFC700;
+    text-shadow: -1px 1px #000000;
+    padding-left: 1.5px;
+    padding-bottom: 10px;
+}
+
+.education-2 {
+    font-size: 23px;
+    font-weight: 250;
+    padding-left: 1.5px;
 }
