@@ -62,18 +62,17 @@ hr {
 .bottom-block{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-
-
 }
 
 
-.achievements {
+.education {
     // display: grid;
     // grid-template-columns: repeat(2, 1fr);
     padding-top: 30px;
     padding-left: 59px;
     // display: block;
     list-style-type: none;
+
 }
 
 .education-title {
@@ -89,5 +88,9 @@ hr {
     font-size: 23px;
     font-weight: 250;
     padding-left: 1.5px;
+}
+
+.skills {
+    list-style-type: none;
 }
 
