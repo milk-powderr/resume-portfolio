@@ -10,7 +10,7 @@
 
 .aboutpic_panels {
     padding-top: 150px;
-    padding-left: 100px;
+    padding-left: 60px;
 }
 
 .aboutintro {
@@ -18,9 +18,15 @@
     padding-left: 30px;
     font-size: 60px;
     width: 1000px;
+    display: block;
+    list-style-type: none
 }
 
 #name {
     color: #FFC700;
     text-shadow: -2px 2px  #000000;
+}
+
+.paragraph {
+    font-size: 10px;
 }
