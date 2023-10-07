@@ -61,7 +61,7 @@ hr {
 
 .bottom-block{
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(2, 2fr);
 }
 
 
@@ -93,5 +93,11 @@ hr {
 .skills {
     list-style-type: none;
     padding-top: 30px;
+}
+
+.honors {
+    list-style-type: none;
+    padding-top: 30px;
+    padding-left: 59px;
 }
 
