@@ -1,6 +1,7 @@
 .aboutstuff {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
+    padding-bottom: 30px;
 }
 
 .aboutpic_panel {
@@ -61,4 +62,13 @@
 .email-logop {
     width: 30px;
     margin-bottom: -13px;
+}
+
+hr {
+    height: 2px;
+    border: 0;
+    background-color:#FFC700;
+    margin-left: 50px;
+    margin-right: 50px;
+
 }
