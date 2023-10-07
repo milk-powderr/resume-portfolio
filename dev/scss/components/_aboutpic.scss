@@ -30,21 +30,21 @@
 .paragraph1 {
     font-size: 22px;
     font-weight: 250;
-    padding-left: 2px;
+    padding-left: 1.5px;
     padding-top: 12px;
 }
 
 .paragraph2 {
     font-size: 22px;
     font-weight: 250;
-    padding-left: 2px;
+    padding-left: 1.5px;
     padding-top: 17px;
 }
 
 .paragraph3 {
     font-size: 22px;
     font-weight: 250;
-    padding-left: 2px;
+    padding-left: 1.5px;
     padding-top: 17px;
 }
 
@@ -52,6 +52,10 @@
     display: flex;
     flex-direction: row;
     padding-left: 2px;
+}
+
+.linkedinp {
+    padding-left: 2.5px;
 }
 
 .email-logop {
