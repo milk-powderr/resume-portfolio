@@ -534,20 +534,6 @@ h1, h2, h3, h4, h5, h6 {
   padding-top: 12px;
 }
 
-.paragraph2 {
-  font-size: 22px;
-  font-weight: 250;
-  padding-left: 1.5px;
-  padding-top: 17px;
-}
-
-.paragraph3 {
-  font-size: 22px;
-  font-weight: 250;
-  padding-left: 1.5px;
-  padding-top: 17px;
-}
-
 .iconsp {
   display: flex;
   flex-direction: row;
@@ -569,6 +555,15 @@ hr {
   background-color: #FFC700;
   margin-left: 50px;
   margin-right: 50px;
+}
+
+.achievements {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  padding-top: 30px;
+  padding-left: 60px;
+  display: block;
+  list-style-type: none;
 }
 
 .details {
