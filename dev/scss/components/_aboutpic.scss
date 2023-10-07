@@ -90,6 +90,13 @@ hr {
     padding-left: 1.5px;
 }
 
+.education-3 {
+    font-size: 23px;
+    font-weight: 250;
+    padding-left: 1.5px;
+    padding-bottom: 30px;
+}
+
 .skills {
     list-style-type: none;
     padding-top: 30px;
@@ -104,4 +111,14 @@ hr {
 .programs {
     list-style-type: none;
     padding-top: 30px;
+}
+
+.resume-button {
+    color: #000000;
+    transition: 0.25s;
+    padding: 10px 20px;
+    border-radius: 30px;
+    border: solid 2px #000000;
+    width: fit-content;
+    font-size: 20px;
 }
