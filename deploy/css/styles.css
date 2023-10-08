@@ -436,7 +436,7 @@ h1, h2, h3, h4, h5, h6 {
 .magazine-cover:hover {
   opacity: 1;
   transition: 0.3s ease;
-  background-color: rgba(255, 200, 0, 0.8196078431);
+  background-color: #FFC700;
 }
 
 .magazine-title {
@@ -520,6 +520,31 @@ h1, h2, h3, h4, h5, h6 {
   width: 100%;
   height: 550px;
   object-fit: cover;
+}
+
+.magazine-cover {
+  position: absolute;
+  opacity: 0;
+  list-style-type: none;
+  width: 50%;
+  height: 550px;
+  margin-top: 0px;
+  color: #ffffff;
+}
+.magazine-cover:hover {
+  opacity: 1;
+  transition: 0.3s ease;
+  background-color: rgba(255, 200, 0, 0.8196078431);
+}
+
+.magazine-title {
+  padding-top: 20px;
+  font-size: 50px;
+  font-weight: 500;
+}
+
+.magazine-title-2 {
+  font-size: 30px;
 }
 
 .aboutstuff {
