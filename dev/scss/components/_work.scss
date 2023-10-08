@@ -8,34 +8,32 @@ grid-template-rows: 550px 550px 550px 550px 550px 1fr;
 width: 100%;
 height: 550px;
 object-fit: cover;
-
-// &:hover {
-
-//     opacity: 0;
-//     transition: .3s ease;
-//     }
-
-    // background-position: center;
-    // background-size: cover;
-    // height: max-content;
 }
 
 .magazine-cover {
     position: absolute;
     opacity: 0;
-    color: #000000;
-    font-size: 20px;
+    list-style-type: none;
     width: 50%;
-height: 550px;
-margin-top: 0px;
+    height: 550px;
+    margin-top: 0px;
+    color: #ffffff;
 
     &:hover {
-
         opacity: 1;
         transition: .3s ease;
-        background-color: #d5d5d5;
-        
+        background-color: #ffc800d1;
         }
+}
+
+.magazine-title {
+    padding-top: 20px;
+    font-size: 50px;
+    font-weight: 500;
+}
+
+.magazine-title-2 {
+    font-size: 30px;
 }
 
 .hallway-painting_panel {
