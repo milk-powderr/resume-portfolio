@@ -424,7 +424,7 @@ h1, h2, h3, h4, h5, h6 {
   object-fit: cover;
 }
 
-.iba {
+.magazine-cover {
   position: absolute;
   opacity: 0;
   color: #000000;
@@ -433,7 +433,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 550px;
   margin-top: 0px;
 }
-.iba:hover {
+.magazine-cover:hover {
   opacity: 1;
   transition: 0.3s ease;
   background-color: #d5d5d5;
