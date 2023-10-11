@@ -538,6 +538,14 @@ h1, h2, h3, h4, h5, h6 {
   list-style-type: none;
 }
 
+.objective-3 {
+  padding-top: 20px;
+  font-size: 30px;
+  color: #000000;
+  list-style-type: none;
+  text-shadow: -0.8px 0.8px #FFC700;
+}
+
 .play {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
