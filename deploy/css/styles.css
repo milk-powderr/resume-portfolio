@@ -511,9 +511,17 @@ h1, h2, h3, h4, h5, h6 {
 
 .title {
   padding-top: 50px;
-  padding-left: 31.5px;
   font-size: 60px;
+  font-weight: 450;
   color: #000000;
+  list-style-type: none;
+  text-shadow: -2px 2px #FFC700;
+}
+
+.title-2 {
+  font-size: 25px;
+  color: #000000;
+  list-style-type: none;
 }
 
 .play {
