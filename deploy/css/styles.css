@@ -509,6 +509,13 @@ h1, h2, h3, h4, h5, h6 {
   height: 550px;
 }
 
+.title {
+  padding-top: 50px;
+  padding-left: 31.5px;
+  font-size: 60px;
+  color: #000000;
+}
+
 .play {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
