@@ -513,13 +513,27 @@ h1, h2, h3, h4, h5, h6 {
   padding-top: 50px;
   font-size: 60px;
   font-weight: 450;
-  color: #000000;
+  color: #FFC700;
   list-style-type: none;
-  text-shadow: -2px 2px #FFC700;
+  text-shadow: -2px 2px #000000;
 }
 
 .title-2 {
   font-size: 25px;
+  color: #000000;
+  list-style-type: none;
+}
+
+.objective {
+  padding-top: 50px;
+  font-size: 30px;
+  color: #000000;
+  list-style-type: none;
+  text-shadow: -0.8px 0.8px #FFC700;
+}
+
+.objective-2 {
+  font-size: 20px;
   color: #000000;
   list-style-type: none;
 }
