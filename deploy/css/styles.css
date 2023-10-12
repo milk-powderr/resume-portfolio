@@ -595,18 +595,24 @@ h1, h2, h3, h4, h5, h6 {
 .bits {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  grid-template-rows: 550px 550px 550px 1fr;
+  grid-template-rows: 550px 550px 517px 1fr;
   gap: 11px;
 }
 
 .alt-spreads {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  grid-template-rows: 550px 550px 550px 1fr;
+  grid-template-rows: 415px 1fr;
   gap: 11px;
 }
 
 .alt-spread-1a {
+  width: 100%;
+  object-fit: cover;
+  column-gap: 30px;
+}
+
+.alt-spread-1b {
   width: 100%;
   object-fit: cover;
   column-gap: 30px;

@@ -58,6 +58,32 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/img\/alt-spread-2.jpg" : {
+      "ft" : 16384,
+      "iS" : 994489,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/alt-spread-2.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/alt-spread-3.jpg" : {
+      "ft" : 16384,
+      "iS" : 661993,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/alt-spread-3.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/img\/bartram.jpg" : {
       "ft" : 16384,
       "iS" : 2639903,
