@@ -648,19 +648,17 @@ h1, h2, h3, h4, h5, h6 {
   width: 740px;
 }
 
-.objective-3 {
-  padding-top: 20px;
-  font-size: 30px;
-  color: #000000;
-  list-style-type: none;
-  text-shadow: -0.8px 0.8px #FFC700;
-}
-
 .magazine-image1 {
   width: 100%;
   display: flex;
   padding-top: 40px;
-  padding-bottom: 20px;
+  padding-bottom: 11px;
+}
+
+.magazine-image2 {
+  width: 100%;
+  display: flex;
+  padding-bottom: 11px;
 }
 
 .magazine-cover-spread {

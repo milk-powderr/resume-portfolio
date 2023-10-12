@@ -532,19 +532,6 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/hallway-painting.png" : {
-      "ft" : 32768,
-      "iS" : 478574,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/hallway-painting.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
     "\/deploy\/img\/heart.mov" : {
       "cB" : 0,
       "ft" : 8192,
