@@ -971,6 +971,14 @@
       "sC" : 3,
       "tS" : 0
     },
+    "\/deploy\/new-world-symphony.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/new-world-symphony.html",
+      "oF" : 0
+    },
     "\/deploy\/play.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -1054,6 +1062,14 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/components\/desc-flushed-hall.html",
+      "oF" : 0
+    },
+    "\/dev\/components\/desc-new-world-symphony.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/desc-new-world-symphony.html",
       "oF" : 0
     },
     "\/dev\/components\/details.kit" : {
@@ -1180,6 +1196,14 @@
       "sC" : 3,
       "tS" : 0
     },
+    "\/dev\/new-world-symphony.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/new-world-symphony.html",
+      "oF" : 2
+    },
     "\/dev\/play.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -1263,21 +1287,6 @@
       "pg" : 0,
       "sct" : 0
     },
-    "\/dev\/scss\/components\/_crit-hit.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/scss\/components\/_crit-hit.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
     "\/dev\/scss\/components\/_desc-crit-hit.scss" : {
       "aP" : 0,
       "bl" : 0,
@@ -1303,6 +1312,21 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/scss\/components\/_desc-flushed-hall.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/dev\/scss\/components\/_desc-new-world-symphony.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_desc-new-world-symphony.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
@@ -1408,21 +1432,6 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/scss\/components\/_playpics.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/dev\/scss\/components\/_resume.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/scss\/components\/_resume.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
