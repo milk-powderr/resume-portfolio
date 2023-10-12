@@ -547,6 +547,11 @@ h1, h2, h3, h4, h5, h6 {
   text-shadow: -0.8px 0.8px #FFC700;
 }
 
+.magazine-image1 {
+  width: 100%;
+  display: flex;
+}
+
 .play {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
