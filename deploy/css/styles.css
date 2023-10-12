@@ -599,6 +599,19 @@ h1, h2, h3, h4, h5, h6 {
   gap: 11px;
 }
 
+.alt-spreads {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: 550px 550px 550px 1fr;
+  gap: 11px;
+}
+
+.alt-spread-1a {
+  width: 100%;
+  object-fit: cover;
+  column-gap: 30px;
+}
+
 .play {
   display: grid;
   grid-template-columns: repeat(2, 1fr);

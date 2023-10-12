@@ -45,6 +45,19 @@
       "oF" : 0,
       "pg" : 0
     },
+    "\/deploy\/img\/alt-spread-1.jpg" : {
+      "ft" : 16384,
+      "iS" : 1027388,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/alt-spread-1.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/img\/bartram.jpg" : {
       "ft" : 16384,
       "iS" : 2639903,
@@ -687,14 +700,6 @@
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
-    },
-    "\/deploy\/img\/mastheads 3.pdf" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/mastheads 3.pdf",
-      "oF" : 0
     },
     "\/deploy\/img\/medicine-1.jpg" : {
       "ft" : 16384,
