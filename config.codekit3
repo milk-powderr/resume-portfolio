@@ -7,7 +7,7 @@
       "uuidString" : "3EAADFA8-8105-4BBC-904D-6B3FFDB57B82"
     }
   ],
-  "creatorBuild" : "34513",
+  "creatorBuild" : "34484",
   "files" : {
     "\/.gitattributes" : {
       "cB" : 0,
@@ -2035,6 +2035,9 @@
       "no-return-assign" : {
         "active" : 0,
         "optionString" : "'except-parens'"
+      },
+      "no-return-await" : {
+        "active" : 0
       },
       "no-script-url" : {
         "active" : 0
