@@ -136,6 +136,45 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/img\/bit-7.jpg" : {
+      "ft" : 16384,
+      "iS" : 103465,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/bit-7.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/bit-8.jpg" : {
+      "ft" : 16384,
+      "iS" : 173517,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/bit-8.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/bit-9.jpg" : {
+      "ft" : 16384,
+      "iS" : 295002,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/bit-9.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/img\/bologo.png" : {
       "ft" : 32768,
       "iS" : 1082,
