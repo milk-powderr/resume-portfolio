@@ -998,6 +998,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/img\/pattern.jpg" : {
+      "ft" : 16384,
+      "iS" : 698441,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/pattern.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/img\/pill-print.jpg" : {
       "ft" : 16384,
       "iS" : 238884,
@@ -1032,6 +1045,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/img\/storyboard.jpg" : {
+      "ft" : 16384,
+      "iS" : 392101,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/storyboard.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/img\/symphony-animation.mp4" : {
       "cB" : 0,
       "ft" : 8192,
@@ -1039,6 +1065,19 @@
       "oA" : 0,
       "oAP" : "\/deploy\/img\/symphony-animation.mp4",
       "oF" : 0
+    },
+    "\/deploy\/img\/symphony-palette.jpg" : {
+      "ft" : 16384,
+      "iS" : 46794,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/symphony-palette.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
     },
     "\/deploy\/index.html" : {
       "cB" : 0,
