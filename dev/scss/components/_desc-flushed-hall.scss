@@ -1,4 +1,4 @@
-.title {
+.title-flushed-hall {
     padding-top: 50px;
     font-size: 60px;
     font-weight: 450;
@@ -7,13 +7,13 @@
     text-shadow: -2px 2px  #000000;
 }
 
-.title-2 {
+.title-2-flushed-hall {
     font-size: 25px;
     color: #000000;
     list-style-type: none;
 }
 
-.objective {
+.objective-flushed-hall {
     padding-top: 50px;
     font-size: 30px;
     color: #000000;
@@ -21,87 +21,24 @@
     text-shadow: -0.8px 0.8px  #FFC700;
 }
 
-.objective-2 {
+.objective-2-flushed-hall {
     font-size: 20px;
     color: #000000;
     list-style-type: none;
     width: 740px;
 }
 
-.magazine-image1 {
+.hallway-image1 {
     width: 100%;
     display: flex;
     padding-top: 40px;
     padding-bottom: 11px;
 }
 
-.magazine-image2 {
+.hallway-image2 {
     width: 100%;
     display: flex;
     // padding-top: 40px;
     padding-bottom: 11px;
 }
 
-.magazine-cover-spread {
-  width: 50%;
-  padding-bottom: 11px;
-}
-
-.magazine-spread-1 {
-     width: 100%;
-     padding-bottom: 11px;
-   }
-
-.bit-1a {
-    width: 33%;
-    padding-bottom: 11px;
-  }
-
-.bit-1b {
-    width: 49%;
-    padding-bottom: 11px;
-  }
-
-.bit-1c {
-    width: 100%;
-    object-fit: cover;
-    column-gap: 30px;
-  }
-
-.bit-1d {
-    width: 100%;
-    object-fit: cover;
-    column-gap: 30px;
-  }
-
-.bit-1e {
-    width: 100%;
-    object-fit: cover;
-    column-gap: 30px;
-  }
-
-  .bits {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    grid-template-rows: 550px 550px 517px 1fr;
-    gap: 11px;
-    }
-
- .alt-spreads {
-        display: grid;
-        grid-template-columns: repeat(2, 1fr);
-        grid-template-rows: 415px 1fr;
-        gap: 11px;
-        }
-
-.alt-spread-1a {
-            width: 100%;
-            object-fit: cover;
-            column-gap: 30px;
-          }
-
-.alt-spread-1b {
-            width: 100%;
-            object-fit: cover;
-            column-gap: 30px;
-          }
