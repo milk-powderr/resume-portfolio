@@ -49,31 +49,38 @@ justify-content: center;
     width: 100%;
   }
 
-.bit-1d {
-    width: 100%;
-    object-fit: cover;
-  }
+// .bit-1d {
+//     width: 100%;
+//     object-fit: cover;
+//   }
 
-.bit-1e {
-    width: 100%;
-    object-fit: cover;
-  }
+// .bit-1e {
+//     width: 100%;
+//     object-fit: cover;
+//   }
 
-  .bits {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 11px;
-    }
+//   .bits {
+//     display: grid;
+//     grid-template-columns: repeat(3, 1fr);
+//     gap: 11px;
+//     }
 
- .symphony-animation {
+//  .symphony-animation {
+//     display: grid;
+//     grid-template-columns: repeat(2, 1fr);
+//     gap: 11px;
+//  }
+
+.symphony-palette {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 11px;
- }
+}
 
-.symphony-palette {
-    width: 80%;
-    object-fit: cover;
+.oreo-palette {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 11px;
 }
 
 .vid {
