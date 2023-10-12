@@ -394,6 +394,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/img\/magazine-front.jpg" : {
+      "ft" : 16384,
+      "iS" : 483047,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/magazine-front.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/img\/magazine-spine.jpg" : {
       "ft" : 16384,
       "iS" : 25137,
