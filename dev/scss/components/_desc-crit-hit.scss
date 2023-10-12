@@ -64,11 +64,29 @@
   }
 
 .bit-1c {
-    width: 33%;
-    padding-bottom: 11px;
+    width: 100%;
+    object-fit: cover;
+    height: 550px;
+    column-gap: 30px;
   }
 
 .bit-1d {
-    width: 33%;
-    padding-bottom: 11px;
+    width: 100%;
+    object-fit: cover;
+    height: 550px;
+    column-gap: 30px;
   }
+
+.bit-1e {
+    width: 100%;
+    object-fit: cover;
+    height: 550px;
+    column-gap: 30px;
+  }
+
+  .bits {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: 550px 550px 550px  1fr;
+    gap: 11px;
+    }
