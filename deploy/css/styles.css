@@ -793,6 +793,22 @@ h1, h2, h3, h4, h5, h6 {
   gap: 11px;
 }
 
+.symphony-animation {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 11px;
+}
+
+.symphony-palette {
+  width: 80%;
+  object-fit: cover;
+}
+
+.vid {
+  width: 90%;
+  object-fit: cover;
+}
+
 .play {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
