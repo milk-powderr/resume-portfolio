@@ -726,6 +726,77 @@ h1, h2, h3, h4, h5, h6 {
   padding-bottom: 11px;
 }
 
+.title {
+  padding-top: 50px;
+  font-size: 60px;
+  font-weight: 450;
+  color: #FFC700;
+  list-style-type: none;
+  text-shadow: -2px 2px #000000;
+}
+
+.title-2 {
+  font-size: 25px;
+  color: #000000;
+  list-style-type: none;
+}
+
+.objective {
+  padding-top: 50px;
+  font-size: 30px;
+  color: #000000;
+  list-style-type: none;
+  text-shadow: -0.8px 0.8px #FFC700;
+}
+
+.objective-2 {
+  font-size: 20px;
+  color: #000000;
+  list-style-type: none;
+  width: 740px;
+}
+
+.objective-3 {
+  padding-top: 20px;
+  font-size: 30px;
+  color: #000000;
+  list-style-type: none;
+  text-shadow: -0.8px 0.8px #FFC700;
+}
+
+.magazine-image1 {
+  width: 100%;
+  display: flex;
+  padding-top: 40px;
+  padding-bottom: 11px;
+}
+
+.bit-1c {
+  object-fit: cover;
+  width: 100%;
+}
+
+.bit-1d {
+  width: 100%;
+  object-fit: cover;
+}
+
+.bit-1e {
+  width: 100%;
+  object-fit: cover;
+}
+
+.bits {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 11px;
+}
+
+.symphony-animation {
+  padding-left: 11px;
+  padding-bottom: 11px;
+}
+
 .play {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
