@@ -551,7 +551,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 100%;
   display: flex;
   padding-top: 40px;
-  padding-bottom: 20px;
+  padding-bottom: 11px;
 }
 
 .magazine-cover-spread {
@@ -598,13 +598,13 @@ h1, h2, h3, h4, h5, h6 {
 .alt-spreads {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  grid-template-rows: 423px 500px 1fr;
   gap: 11px;
 }
 
 .alt-spread-1a {
   width: 100%;
   object-fit: cover;
+  padding-top: 11px;
 }
 
 .alt-spread-1b {
