@@ -769,6 +769,7 @@ h1, h2, h3, h4, h5, h6 {
   display: flex;
   padding-top: 40px;
   padding-bottom: 11px;
+  justify-content: center;
 }
 
 .bit-1c {
@@ -790,11 +791,6 @@ h1, h2, h3, h4, h5, h6 {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 11px;
-}
-
-.symphony-animation {
-  padding-left: 11px;
-  padding-bottom: 11px;
 }
 
 .play {
