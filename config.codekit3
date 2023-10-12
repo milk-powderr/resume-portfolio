@@ -381,6 +381,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/img\/magazine-cover-spread.jpg" : {
+      "ft" : 16384,
+      "iS" : 512974,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/magazine-cover-spread.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/img\/magazine-cropped.jpg" : {
       "ft" : 16384,
       "iS" : 1402359,
@@ -413,6 +426,19 @@
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/magazine-spine.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/magazine-spread-1.jpg" : {
+      "ft" : 16384,
+      "iS" : 824057,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/magazine-spread-1.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,

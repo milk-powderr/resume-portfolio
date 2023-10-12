@@ -33,22 +33,21 @@
     font-size: 30px;
     color: #000000;
     list-style-type: none;
-    text-shadow: -0.8px 0.8px  #FFC700;
+    text-shadow: -0.8px 0.8px #FFC700;
 }
 
 .magazine-image1 {
-    padding-top: 40px;
     width: 100%;
     display: flex;
+    padding-top: 40px;
+    padding-bottom: 20px;
 }
 
-.magazine-spine {
-    padding-top: 20px;
-    height: 800px;
+.magazine-cover-spread {
+  width: 50%;
+  padding-bottom: 15px;
 }
 
-.magazine-front {
-    padding-top: 20px;
-    padding-left: 20px;
-    height: 800px;
-}
+.magazine-spread-1 {
+     width: 100%;
+   }
