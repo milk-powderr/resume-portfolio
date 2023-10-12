@@ -222,6 +222,32 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/img\/bit-13.jpg" : {
+      "ft" : 16384,
+      "iS" : 325302,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/bit-13.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/bit-14.jpg" : {
+      "ft" : 16384,
+      "iS" : 422442,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/bit-14.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/img\/bologo.png" : {
       "ft" : 32768,
       "iS" : 1082,
