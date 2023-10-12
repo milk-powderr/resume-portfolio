@@ -125,7 +125,7 @@
     },
     "\/deploy\/img\/bit-6.jpg" : {
       "ft" : 16384,
-      "iS" : 407330,
+      "iS" : 221749,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/bit-6.jpg",
@@ -149,9 +149,17 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/img\/bit-7.pdf" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/bit-7.pdf",
+      "oF" : 0
+    },
     "\/deploy\/img\/bit-8.jpg" : {
       "ft" : 16384,
-      "iS" : 173517,
+      "iS" : 130800,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/bit-8.jpg",
@@ -164,10 +172,36 @@
     },
     "\/deploy\/img\/bit-9.jpg" : {
       "ft" : 16384,
-      "iS" : 295002,
+      "iS" : 155256,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/bit-9.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/bit-10.jpg" : {
+      "ft" : 16384,
+      "iS" : 238718,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/bit-10.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/bit-11.jpg" : {
+      "ft" : 16384,
+      "iS" : 156124,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/bit-11.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -614,6 +648,14 @@
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
+    },
+    "\/deploy\/img\/mastheads 3.pdf" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/mastheads 3.pdf",
+      "oF" : 0
     },
     "\/deploy\/img\/medicine-1.jpg" : {
       "ft" : 16384,
