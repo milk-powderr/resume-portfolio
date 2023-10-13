@@ -849,11 +849,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .bartram-image1 {
+  object-fit: cover;
   width: 100%;
-  display: flex;
-  padding-top: 40px;
-  padding-bottom: 11px;
-  justify-items: center;
 }
 
 .magazine-cover-spread {
@@ -912,6 +909,13 @@ h1, h2, h3, h4, h5, h6 {
 .alt-spread-1b {
   width: 100%;
   object-fit: cover;
+}
+
+.logo-ani {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 11px;
+  align-items: center;
 }
 
 .play {
