@@ -113,6 +113,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/img\/big-logo.jpg" : {
+      "ft" : 16384,
+      "iS" : 78632,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/big-logo.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/img\/bit-1.jpg" : {
       "ft" : 16384,
       "iS" : 5742268,
@@ -1092,6 +1105,14 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/img\/Week10_FINAL_Brand Presentation 4.pdf" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/Week10_FINAL_Brand Presentation 4.pdf",
+      "oF" : 0
+    },
     "\/deploy\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -1153,6 +1174,14 @@
       "oA" : 0,
       "oAP" : "\/deploy\/about.html",
       "oF" : 2
+    },
+    "\/dev\/bartram.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/bartram.html",
+      "oF" : 0
     },
     "\/dev\/bartram.kit" : {
       "cB" : 0,

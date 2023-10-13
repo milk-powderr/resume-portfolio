@@ -793,13 +793,13 @@ h1, h2, h3, h4, h5, h6 {
   object-fit: cover;
 }
 
-.symphony-palette {
+.symphonyy-palette {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   gap: 11px;
 }
 
-.symphony-palette-2 {
+.oreo-palette {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   gap: 11px;
@@ -848,11 +848,12 @@ h1, h2, h3, h4, h5, h6 {
   text-shadow: -0.8px 0.8px #FFC700;
 }
 
-.magazine-image1 {
+.bartram-image1 {
   width: 100%;
   display: flex;
   padding-top: 40px;
   padding-bottom: 11px;
+  justify-items: center;
 }
 
 .magazine-cover-spread {
