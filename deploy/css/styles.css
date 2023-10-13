@@ -722,8 +722,19 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .symphony-animation {
-  padding-left: 11px;
-  padding-bottom: 11px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 11px;
+}
+
+.symphony-palette {
+  object-fit: cover;
+  width: 100%;
+}
+
+.vid {
+  object-fit: cover;
+  width: 100%;
 }
 
 .title {
