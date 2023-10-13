@@ -43,6 +43,26 @@
     padding-bottom: 11px;
 }
 
+.magazine-cover-spread {
+  width: 50%;
+  padding-bottom: 11px;
+}
+
+.magazine-spread-1 {
+     width: 100%;
+     padding-bottom: 11px;
+   }
+
+.bit-1a {
+    width: 33%;
+    padding-bottom: 11px;
+  }
+
+.bit-1b {
+    width: 49%;
+    padding-bottom: 11px;
+  }
+
 .bit-1c {
     object-fit: cover;
     width: 100%;
@@ -64,18 +84,20 @@
     gap: 11px;
     }
 
-.symphony-animation {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 11px;
-}
+ .alt-spreads {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 11px;
+        }
 
-.symphony-palette {
-    object-fit: cover;
-    width: 85%;
-}
+.alt-spread-1a {
+            width: 100%;
+            object-fit: cover;
+padding-top: 11px;
+          }
 
-.vid {
-    object-fit: cover;
-    width: 100%;
-}
+.alt-spread-1b {
+            width: 100%;
+            object-fit: cover;
+
+          }
