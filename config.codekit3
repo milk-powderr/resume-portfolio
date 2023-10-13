@@ -108,6 +108,19 @@
       "oAP" : "\/deploy\/img\/bartram-animation.mp4",
       "oF" : 0
     },
+    "\/deploy\/img\/bartram-web-1.jpg" : {
+      "ft" : 16384,
+      "iS" : 14755317,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/bartram-web-1.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/img\/bartram.jpg" : {
       "ft" : 16384,
       "iS" : 2639903,
@@ -1182,14 +1195,6 @@
       "oA" : 0,
       "oAP" : "\/deploy\/about.html",
       "oF" : 2
-    },
-    "\/dev\/bartram.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/bartram.html",
-      "oF" : 0
     },
     "\/dev\/bartram.kit" : {
       "cB" : 0,
