@@ -890,7 +890,8 @@ h1, h2, h3, h4, h5, h6 {
 .bartram-web2 {
   width: 100%;
   object-fit: cover;
-  padding-top: 30px;
+  padding-top: 11px;
+  height: 497px;
 }
 
 .bartram-web3 {
