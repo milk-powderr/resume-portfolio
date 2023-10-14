@@ -918,6 +918,12 @@ h1, h2, h3, h4, h5, h6 {
   align-items: center;
 }
 
+.logo-ani2 {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 11px;
+}
+
 .bartram-web {
   width: 100%;
   object-fit: cover;

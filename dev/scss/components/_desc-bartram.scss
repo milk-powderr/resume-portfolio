@@ -4,7 +4,7 @@
     font-weight: 450;
     color: #FFC700;
     list-style-type: none;
-    text-shadow: -2px 2px  #000000;
+    text-shadow: -2px 2px #000000;
 }
 
 .title-2 {
@@ -18,7 +18,7 @@
     font-size: 30px;
     color: #000000;
     list-style-type: none;
-    text-shadow: -0.8px 0.8px  #FFC700;
+    text-shadow: -0.8px 0.8px #FFC700;
 }
 
 .objective-2 {
@@ -42,72 +42,78 @@
 }
 
 .magazine-cover-spread {
-  width: 50%;
-  padding-bottom: 11px;
+    width: 50%;
+    padding-bottom: 11px;
 }
 
 .magazine-spread-1 {
-     width: 100%;
-     padding-bottom: 11px;
-   }
+    width: 100%;
+    padding-bottom: 11px;
+}
 
 .bit-1a {
     width: 33%;
     padding-bottom: 11px;
-  }
+}
 
 .bit-1b {
     width: 49%;
     padding-bottom: 11px;
-  }
+}
 
 .bit-1c {
     object-fit: cover;
     width: 100%;
-  }
+}
 
 .bit-1d {
     width: 100%;
     object-fit: cover;
-  }
+}
 
 .bit-1e {
     width: 100%;
     object-fit: cover;
-  }
+}
 
-  .bits {
+.bits {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 11px;
-    }
+}
 
- .alt-spreads {
-        display: grid;
-        grid-template-columns: repeat(2, 1fr);
-        gap: 11px;
-        }
+.alt-spreads {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 11px;
+}
 
 .alt-spread-1a {
-            width: 100%;
-            object-fit: cover;
-padding-top: 11px;
-          }
+    width: 100%;
+    object-fit: cover;
+    padding-top: 11px;
+}
 
 .alt-spread-1b {
-            width: 100%;
-            object-fit: cover;
-          }
+    width: 100%;
+    object-fit: cover;
+}
 
- .logo-ani {
-            display: grid;
-            grid-template-columns: repeat(2, 1fr);
-            gap: 11px;
-            align-items: center;
-            }
+.logo-ani {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 11px;
+    align-items: center;
+}
+
+.logo-ani2 {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 11px;
+}
 
 .bartram-web {
-width: 100%;
- object-fit: cover;
-    
-              }
+    width: 100%;
+    object-fit: cover;
+
+}

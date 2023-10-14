@@ -110,20 +110,20 @@
     },
     "\/deploy\/img\/bartram-web-1.jpg" : {
       "ft" : 16384,
-      "iS" : 10438303,
+      "iS" : 1867776,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/bartram-web-1.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
     },
     "\/deploy\/img\/bartram-web-2.jpg" : {
       "ft" : 16384,
-      "iS" : 0,
+      "iS" : 1159168,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/bartram-web-2.jpg",

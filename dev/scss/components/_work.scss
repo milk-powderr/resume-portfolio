@@ -1,13 +1,13 @@
 .works {
-display: grid;
-grid-template-columns: repeat(2, 1fr);
-grid-template-rows: 550px 550px 550px 550px 550px 1fr;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: 550px 550px 550px 550px 550px 1fr;
 }
 
 .magazine_panel {
-width: 100%;
-height: 550px;
-object-fit: cover;
+    width: 100%;
+    height: 550px;
+    object-fit: cover;
 }
 
 .magazine-cover {
@@ -23,7 +23,7 @@ object-fit: cover;
         opacity: 1;
         transition: .3s ease;
         background-color: #FFC700;
-        }
+    }
 }
 
 .magazine-title {

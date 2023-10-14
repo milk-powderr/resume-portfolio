@@ -3,36 +3,36 @@
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: 550px 1fr;
     padding-top: 65px;
-    }
-    
-    .crotchet_panel {
+}
+
+.crotchet_panel {
     width: 100%;
     height: 550px;
     object-fit: cover;
-    }
+}
 
-    .magazine-cover {
-        position: absolute;
-        opacity: 0;
-        list-style-type: none;
-        width: 50%;
-        height: 550px;
-        margin-top: 0px;
-        color: #ffffff;
-    
-        &:hover {
-            opacity: 1;
-            transition: .3s ease;
-            background-color: #ffc800d1;
-            }
+.magazine-cover {
+    position: absolute;
+    opacity: 0;
+    list-style-type: none;
+    width: 50%;
+    height: 550px;
+    margin-top: 0px;
+    color: #ffffff;
+
+    &:hover {
+        opacity: 1;
+        transition: .3s ease;
+        background-color: #ffc800d1;
     }
-    
-    .magazine-title {
-        padding-top: 20px;
-        font-size: 50px;
-        font-weight: 500;
-    }
-    
-    .magazine-title-2 {
-        font-size: 30px;
-    }
+}
+
+.magazine-title {
+    padding-top: 20px;
+    font-size: 50px;
+    font-weight: 500;
+}
+
+.magazine-title-2 {
+    font-size: 30px;
+}
