@@ -51,53 +51,53 @@
     padding-bottom: 11px;
 }
 
-.bit-1a {
-    width: 33%;
-    padding-bottom: 11px;
-}
+// .bit-1a {
+//     width: 33%;
+//     padding-bottom: 11px;
+// }
 
-.bit-1b {
-    width: 49%;
-    padding-bottom: 11px;
-}
+// .bit-1b {
+//     width: 49%;
+//     padding-bottom: 11px;
+// }
 
-.bit-1c {
-    object-fit: cover;
-    width: 100%;
-}
+// .bit-1c {
+//     object-fit: cover;
+//     width: 100%;
+// }
 
-.bit-1d {
-    width: 100%;
-    object-fit: cover;
-}
+// .bit-1d {
+//     width: 100%;
+//     object-fit: cover;
+// }
 
-.bit-1e {
-    width: 100%;
-    object-fit: cover;
-}
+// .bit-1e {
+//     width: 100%;
+//     object-fit: cover;
+// }
 
-.bits {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 11px;
-}
+// .bits {
+//     display: grid;
+//     grid-template-columns: repeat(3, 1fr);
+//     gap: 11px;
+// }
 
-.alt-spreads {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 11px;
-}
+// .alt-spreads {
+//     display: grid;
+//     grid-template-columns: repeat(2, 1fr);
+//     gap: 11px;
+// }
 
-.alt-spread-1a {
-    width: 100%;
-    object-fit: cover;
-    padding-top: 11px;
-}
+// .alt-spread-1a {
+//     width: 100%;
+//     object-fit: cover;
+//     padding-top: 11px;
+// }
 
-.alt-spread-1b {
-    width: 100%;
-    object-fit: cover;
-}
+// .alt-spread-1b {
+//     width: 100%;
+//     object-fit: cover;
+// }
 
 .logo-ani {
     display: grid;
@@ -118,12 +118,6 @@
     gap: 11px;
 }
 
-// .logo-ani4 {
-//     display: grid;
-//     grid-template-rows: repeat(2, 1fr);
-//     gap: 11px;
-// }
-
 .bartram-web {
     width: 100%;
     object-fit: cover;
@@ -133,4 +127,17 @@
     width: 100%;
     object-fit: cover;
     padding-top: 30px;
+}
+
+// .logo-ani5 {
+//     display: grid;
+//     grid-template-columns: repeat(2, 1fr);
+//     gap: 11px;
+//     // align-items: center;
+// }
+
+.bartram-web3 {
+    height: 550px;
+    object-fit: cover;
+    width: 100%;
 }
