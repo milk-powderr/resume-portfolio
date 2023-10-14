@@ -212,6 +212,32 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/img\/bartram-bit-9.jpg" : {
+      "ft" : 16384,
+      "iS" : 4449045,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/bartram-bit-9.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/bartram-bit-10.jpg" : {
+      "ft" : 16384,
+      "iS" : 764980,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/bartram-bit-10.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/img\/bartram-web-1.jpg" : {
       "ft" : 16384,
       "iS" : 1867776,

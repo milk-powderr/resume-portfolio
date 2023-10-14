@@ -879,7 +879,7 @@ h1, h2, h3, h4, h5, h6 {
 .logo-ani3 {
   display: grid;
   grid-template-rows: repeat(2);
-  gap: 11px;
+  gap: 5px;
 }
 
 .bartram-web {
