@@ -472,6 +472,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/img\/big-cake-palette.jpg" : {
+      "ft" : 16384,
+      "iS" : 477366,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/big-cake-palette.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/img\/big-cake.jpg" : {
       "ft" : 16384,
       "iS" : 10081851,
@@ -1121,6 +1134,19 @@
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/map-1.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/map-2.jpg" : {
+      "ft" : 16384,
+      "iS" : 344596,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/map-2.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
