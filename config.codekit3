@@ -1612,6 +1612,14 @@
       "oAP" : "\/deploy\/piece-of-cake.html",
       "oF" : 0
     },
+    "\/deploy\/pills.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/pills.html",
+      "oF" : 0
+    },
     "\/deploy\/play.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -1751,6 +1759,14 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/components\/desc-piece-of-cake.html",
+      "oF" : 0
+    },
+    "\/dev\/components\/desc-pills.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/desc-pills.html",
       "oF" : 0
     },
     "\/dev\/components\/desc-wonderfilled.kit" : {
@@ -1899,6 +1915,14 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/piece-of-cake.html",
+      "oF" : 2
+    },
+    "\/dev\/pills.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/pills.html",
       "oF" : 2
     },
     "\/dev\/play.kit" : {
@@ -2069,6 +2093,21 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/scss\/components\/_desc-piece-of-cake.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/dev\/scss\/components\/_desc-pills.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_desc-pills.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
