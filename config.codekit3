@@ -33,6 +33,14 @@
       "oAP" : "\/deploy\/bartram.html",
       "oF" : 0
     },
+    "\/deploy\/bread.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/bread.html",
+      "oF" : 0
+    },
     "\/deploy\/cake-menu.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -1986,6 +1994,14 @@
       "pg" : 0,
       "sct" : 0
     },
+    "\/dev\/bread.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/bread.html",
+      "oF" : 0
+    },
     "\/dev\/cake-menu.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -2008,6 +2024,14 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/components\/desc-bartram.html",
+      "oF" : 0
+    },
+    "\/dev\/components\/desc-bread.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/desc-bread.html",
       "oF" : 0
     },
     "\/dev\/components\/desc-cake-menu.kit" : {
@@ -2323,6 +2347,21 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/scss\/components\/_desc-bartram.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/dev\/scss\/components\/_desc-bread.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_desc-bread.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
