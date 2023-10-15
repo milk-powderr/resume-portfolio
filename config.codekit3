@@ -383,7 +383,7 @@
     },
     "\/deploy\/img\/bartram-bit-22.jpg" : {
       "ft" : 16384,
-      "iS" : 0,
+      "iS" : 1709981,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/bartram-bit-22.jpg",
@@ -455,6 +455,19 @@
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/big-cake.jpg" : {
+      "ft" : 16384,
+      "iS" : 10081851,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/big-cake.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -1510,6 +1523,14 @@
       "oAP" : "\/deploy\/new-world-symphony.html",
       "oF" : 0
     },
+    "\/deploy\/piece-of-cake.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/piece-of-cake.html",
+      "oF" : 0
+    },
     "\/deploy\/play.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -1625,6 +1646,14 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/components\/desc-new-world-symphony.html",
+      "oF" : 0
+    },
+    "\/dev\/components\/desc-piece-of-cake.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/desc-piece-of-cake.html",
       "oF" : 0
     },
     "\/dev\/components\/desc-wonderfilled.kit" : {
@@ -1767,6 +1796,14 @@
       "oAP" : "\/deploy\/new-world-symphony.html",
       "oF" : 2
     },
+    "\/dev\/piece-of-cake.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/piece-of-cake.html",
+      "oF" : 2
+    },
     "\/dev\/play.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -1905,6 +1942,21 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/scss\/components\/_desc-new-world-symphony.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/dev\/scss\/components\/_desc-piece-of-cake.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_desc-piece-of-cake.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
