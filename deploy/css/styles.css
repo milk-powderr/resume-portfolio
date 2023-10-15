@@ -1079,6 +1079,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .magazine-image1 {
+  width: 100%;
   display: flex;
   padding-top: 40px;
   padding-bottom: 11px;

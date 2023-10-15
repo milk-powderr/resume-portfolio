@@ -756,6 +756,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/img\/cake-menu-palette.jpg" : {
+      "ft" : 16384,
+      "iS" : 178802,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/cake-menu-palette.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/img\/cake-menu.jpg" : {
       "ft" : 16384,
       "iS" : 68669,
