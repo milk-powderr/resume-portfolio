@@ -790,6 +790,14 @@
       "oAP" : "\/deploy\/img\/cake.mov",
       "oF" : 0
     },
+    "\/deploy\/img\/cake.mp4" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/cake.mp4",
+      "oF" : 0
+    },
     "\/deploy\/img\/crotchet-1.jpg" : {
       "ft" : 16384,
       "iS" : 4588583,
