@@ -751,6 +751,19 @@
       "oAP" : "\/deploy\/img\/bread.mov",
       "oF" : 0
     },
+    "\/deploy\/img\/business-cards-2.jpg" : {
+      "ft" : 16384,
+      "iS" : 4519325,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/business-cards-2.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/img\/business-cards.jpg" : {
       "ft" : 16384,
       "iS" : 471205,
@@ -819,6 +832,14 @@
       "oAP" : "\/deploy\/img\/cake.mp4",
       "oF" : 0
     },
+    "\/deploy\/img\/cow.mp4" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/cow.mp4",
+      "oF" : 0
+    },
     "\/deploy\/img\/crotchet-1.jpg" : {
       "ft" : 16384,
       "iS" : 4588583,
@@ -867,6 +888,19 @@
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/em-1.jpg" : {
+      "ft" : 16384,
+      "iS" : 130442,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/em-1.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
