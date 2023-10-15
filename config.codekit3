@@ -1490,6 +1490,45 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/img\/pill-1.jpg" : {
+      "ft" : 16384,
+      "iS" : 2800748,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/pill-1.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/pill-2.jpg" : {
+      "ft" : 16384,
+      "iS" : 3317137,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/pill-2.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/pill-3.jpg" : {
+      "ft" : 16384,
+      "iS" : 0,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/pill-3.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/img\/pill-print.jpg" : {
       "ft" : 16384,
       "iS" : 238884,
