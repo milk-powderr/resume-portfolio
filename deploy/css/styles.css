@@ -1137,11 +1137,10 @@ h1, h2, h3, h4, h5, h6 {
   padding-bottom: 11px;
 }
 
-.logo-ani2 {
+.logo-ani5 {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   gap: 11px;
-  padding-top: 30px;
 }
 
 .logo-ani3 {
