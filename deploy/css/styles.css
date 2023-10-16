@@ -530,10 +530,11 @@ h1, h2, h3, h4, h5, h6 {
   text-shadow: -2px 2px #000000;
 }
 
-.title-2 {
+.crit-title-2 {
   font-size: 25px;
   color: #000000;
   list-style-type: none;
+  width: 100%;
 }
 
 .objective {
@@ -544,11 +545,11 @@ h1, h2, h3, h4, h5, h6 {
   text-shadow: -0.8px 0.8px #FFC700;
 }
 
-.objective-2 {
+.crit-objective-2 {
   font-size: 20px;
   color: #000000;
   list-style-type: none;
-  width: 90%;
+  width: 100%;
 }
 
 .objective-3 {
@@ -637,6 +638,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 25px;
   color: #000000;
   list-style-type: none;
+  width: 100%;
 }
 
 .objective-flushed-hall {
@@ -651,7 +653,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 20px;
   color: #000000;
   list-style-type: none;
-  width: 740px;
+  width: 100%;
 }
 
 .hallway-image1 {
