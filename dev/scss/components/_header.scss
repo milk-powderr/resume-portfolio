@@ -1,6 +1,6 @@
 .header {
-    padding-top: 1%;
-    padding-left: 26px;
+    padding-top: 4%;
+    padding-left: 15px;
     display: flex;
     align-items: center;
     padding-bottom: 0px;
@@ -8,6 +8,8 @@
     margin-right: 150px;
 
     @include md {
+    padding-top: 1%;
+    padding-left: 26px;
     margin-right: 200px;
     }
 

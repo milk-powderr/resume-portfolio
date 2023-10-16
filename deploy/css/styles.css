@@ -313,8 +313,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .header {
-  padding-top: 1%;
-  padding-left: 26px;
+  padding-top: 4%;
+  padding-left: 15px;
   display: flex;
   align-items: center;
   padding-bottom: 0px;
@@ -323,6 +323,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 @media (min-width: 768px) {
   .header {
+    padding-top: 1%;
+    padding-left: 26px;
     margin-right: 200px;
   }
 }
@@ -385,6 +387,7 @@ h1, h2, h3, h4, h5, h6 {
 .intro {
   padding-left: 30px;
   font-size: 40px;
+  width: 90%;
 }
 @media (min-width: 768px) {
   .intro {
