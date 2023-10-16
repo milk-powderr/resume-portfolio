@@ -769,10 +769,15 @@ h1, h2, h3, h4, h5, h6 {
   object-fit: cover;
 }
 
-.bits {
+.symphony-bits {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(1, 1fr);
   gap: 11px;
+}
+@media (min-width: 768px) {
+  .symphony-bits {
+    grid-template-columns: repeat(3, 1fr);
+  }
 }
 
 .symphony-animation {
