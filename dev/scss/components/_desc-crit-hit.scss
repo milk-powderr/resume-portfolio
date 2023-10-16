@@ -15,6 +15,10 @@
   color: #000000;
   list-style-type: none;
   width: 100%;
+
+  @include md {
+    width: 740px;
+}
 }
 
 .objective {
@@ -30,6 +34,10 @@
   color: #000000;
   list-style-type: none;
   width: 100%;
+
+  @include md {
+    width: 740px;
+}
 }
 
 .objective-3 {

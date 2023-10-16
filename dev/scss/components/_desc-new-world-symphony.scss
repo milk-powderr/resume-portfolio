@@ -7,10 +7,14 @@
     text-shadow: -2px 2px #000000;
 }
 
-.title-2 {
+.symphony-title-2 {
     font-size: 25px;
     color: #000000;
     list-style-type: none;
+
+    @include md {
+        width: 740px;
+    }
 }
 
 .objective {
@@ -21,11 +25,15 @@
     text-shadow: -0.8px 0.8px #FFC700;
 }
 
-.objective-2 {
+.symphony-objective-2 {
     font-size: 20px;
     color: #000000;
     list-style-type: none;
-    width: 740px;
+    width: 100%;
+
+    @include md {
+        width: 740px;
+    }
 }
 
 .objective-3 {
@@ -66,16 +74,28 @@
 
 .symphony-animation {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(1, 1fr);
     gap: 11px;
+
+    @include md {
+    grid-template-columns: repeat(2, 1fr);
+    }
 }
 
 .symphony-palette {
     object-fit: cover;
-    width: 85%;
+    width: 100%;
+
+    @include md {
+        width: 80%;
+    }
 }
 
-.vid {
+.symphony-vid {
     object-fit: cover;
     width: 100%;
+
+    @include md {
+        width: 80%;
+    }
 }
