@@ -384,7 +384,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .intro {
   padding-left: 30px;
-  width: 90%;
+  font-size: 40px;
 }
 @media (min-width: 768px) {
   .intro {
@@ -406,8 +406,15 @@ h1, h2, h3, h4, h5, h6 {
 
 .works {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  grid-template-rows: 550px 550px 550px 550px 550px 1fr;
+  grid-template-columns: repeat(1, 1fr);
+  gap: 0;
+}
+@media (min-width: 768px) {
+  .works {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: 550px 550px 550px 550px 550px 1fr;
+  }
 }
 
 .magazine_panel {
@@ -417,18 +424,20 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .magazine-cover {
+  width: 100%;
   position: absolute;
   opacity: 0;
   list-style-type: none;
-  width: 50%;
-  height: 550px;
   margin-top: 0px;
   color: #ffffff;
+  height: 550px;
 }
-.magazine-cover:hover {
-  opacity: 1;
-  transition: 0.3s ease;
-  background-color: #FFC700;
+@media (min-width: 768px) {
+  .magazine-cover:hover {
+    opacity: 1;
+    transition: 0.3s ease;
+    background-color: #FFC700;
+  }
 }
 
 .magazine-title {

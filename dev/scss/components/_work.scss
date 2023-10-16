@@ -1,7 +1,14 @@
 .works {
     display: grid;
+    grid-template-columns: repeat(1, 1fr);
+   // grid-template-rows: 5000px ;
+    gap: 0;
+
+    @include md {
+    display: grid;
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: 550px 550px 550px 550px 550px 1fr;
+}
 }
 
 .magazine_panel {
@@ -11,19 +18,23 @@
 }
 
 .magazine-cover {
+    width: 100%;
     position: absolute;
     opacity: 0;
     list-style-type: none;
-    width: 50%;
-    height: 550px;
     margin-top: 0px;
     color: #ffffff;
+    height: 550px;
+
+    @include md {
+  //  width: 50%;
 
     &:hover {
         opacity: 1;
         transition: .3s ease;
         background-color: #FFC700;
     }
+}
 }
 
 .magazine-title {
