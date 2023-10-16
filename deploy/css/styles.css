@@ -522,6 +522,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .back {
   width: 90%;
+  padding-left: 30px;
 }
 
 .title {
@@ -1096,6 +1097,10 @@ h1, h2, h3, h4, h5, h6 {
   display: flex;
   padding-top: 40px;
   padding-bottom: 11px;
+}
+
+.desc {
+  overflow: hidden;
 }
 
 .title {
