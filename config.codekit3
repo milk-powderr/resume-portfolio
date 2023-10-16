@@ -77,6 +77,14 @@
       "oAP" : "\/deploy\/emmelina.html",
       "oF" : 0
     },
+    "\/deploy\/exhibition.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/exhibition.html",
+      "oF" : 0
+    },
     "\/deploy\/flushed-hall.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -2087,6 +2095,14 @@
       "oAP" : "\/dev\/components\/desc-emmelina.html",
       "oF" : 0
     },
+    "\/dev\/components\/desc-exhibition.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/desc-exhibition.html",
+      "oF" : 0
+    },
     "\/dev\/components\/desc-flushed-hall.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -2189,6 +2205,14 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/emmelina.html",
+      "oF" : 2
+    },
+    "\/dev\/exhibition.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/exhibition.html",
       "oF" : 2
     },
     "\/dev\/flushed-hall.kit" : {
@@ -2436,6 +2460,21 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/scss\/components\/_desc-emmelina.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/dev\/scss\/components\/_desc-exhibition.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_desc-exhibition.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
