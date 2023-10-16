@@ -1,7 +1,16 @@
 .intro {
     padding-left: 30px;
+    width: 90%;
+
+    @include md {
+        padding-left: 30px;
+        font-size: 50px;
+    }
+
+    @include lg {
+    padding-left: 30px;
     font-size: 60px;
-    width: 1000px;
+}
 }
 
 #name {
