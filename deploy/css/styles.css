@@ -577,14 +577,24 @@ h1, h2, h3, h4, h5, h6 {
   padding-bottom: 11px;
 }
 
-.bit-1a {
-  width: 33%;
+.crit-bit-1a {
   padding-bottom: 11px;
+  width: 100%;
+}
+@media (min-width: 768px) {
+  .crit-bit-1a {
+    width: 33%;
+  }
 }
 
-.bit-1b {
-  width: 49%;
+.crit-bit-1b {
   padding-bottom: 11px;
+  width: 100%;
+}
+@media (min-width: 768px) {
+  .crit-bit-1b {
+    width: 33%;
+  }
 }
 
 .bit-1c {
@@ -602,10 +612,15 @@ h1, h2, h3, h4, h5, h6 {
   object-fit: cover;
 }
 
-.bits {
+.crit-bits {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
   gap: 11px;
+  grid-template-columns: repeat(1, 1fr);
+}
+@media (min-width: 768px) {
+  .crit-bits {
+    grid-template-columns: repeat(3, 1fr);
+  }
 }
 
 .alt-spreads {
