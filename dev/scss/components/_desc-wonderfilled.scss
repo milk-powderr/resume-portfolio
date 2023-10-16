@@ -26,6 +26,10 @@
     color: #000000;
     list-style-type: none;
     width: 100%;
+
+    @include md{
+        width: 740px;
+    }
 }
 
 .objective-3 {
@@ -63,12 +67,6 @@
         grid-template-columns: repeat(2, 1fr);
     }
 }
-
-// .oreo-palette {
-//     display: grid;
-//     grid-template-columns: repeat(2, 1fr);
-//     gap: 11px;
-// }
 
 .oreo-vid {
     object-fit: cover;

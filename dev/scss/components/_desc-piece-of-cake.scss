@@ -21,7 +21,7 @@
     text-shadow: -0.8px 0.8px #FFC700;
 }
 
-.objective-2 {
+.cake-map-objective-2 {
     font-size: 20px;
     color: #000000;
     list-style-type: none;
@@ -51,11 +51,15 @@
     padding-bottom: 11px;
 }
 
-.logo-ani2 {
+.cake-map-logo-ani2 {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(1, 1fr);
     gap: 11px;
     padding-top: 30px;
+
+    @include md {
+    grid-template-columns: repeat(2, 1fr);
+    }
 }
 
 .logo-ani3 {
