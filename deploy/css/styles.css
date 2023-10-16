@@ -434,9 +434,9 @@ h1, h2, h3, h4, h5, h6 {
   height: 550px;
 }
 .magazine-cover:hover {
-  opacity: 1;
+  opacity: 0.5;
   transition: 0.3s ease;
-  background-color: #FFC700;
+  background-color: rgba(255, 200, 0, 0.6745098039);
   width: 100%;
 }
 @media (min-width: 768px) {
@@ -1236,11 +1236,16 @@ h1, h2, h3, h4, h5, h6 {
   text-shadow: -0.8px 0.8px #FFC700;
 }
 
-.objective-2 {
+.pills-objective-2 {
   font-size: 20px;
   color: #000000;
   list-style-type: none;
-  width: 740px;
+  width: 100%;
+}
+@media (min-width: 768px) {
+  .pills-objective-2 {
+    width: 740px;
+  }
 }
 
 .objective-3 {
@@ -1264,10 +1269,15 @@ h1, h2, h3, h4, h5, h6 {
   padding-bottom: 11px;
 }
 
-.logo-ani5 {
+.pills-logo-ani5 {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(1, 1fr);
   gap: 11px;
+}
+@media (min-width: 768px) {
+  .pills-logo-ani5 {
+    grid-template-columns: repeat(2, 1fr);
+  }
 }
 
 .logo-ani3 {
@@ -1303,11 +1313,16 @@ h1, h2, h3, h4, h5, h6 {
   text-shadow: -0.8px 0.8px #FFC700;
 }
 
-.objective-2 {
+.mm-objective-2 {
   font-size: 20px;
   color: #000000;
   list-style-type: none;
-  width: 740px;
+  width: 100%;
+}
+@media (min-width: 768px) {
+  .mm-objective-2 {
+    width: 740px;
+  }
 }
 
 .objective-3 {
@@ -1331,10 +1346,15 @@ h1, h2, h3, h4, h5, h6 {
   padding-bottom: 11px;
 }
 
-.logo-ani5 {
+.emm-logo-ani5 {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(1, 1fr);
   gap: 11px;
+}
+@media (min-width: 768px) {
+  .emm-logo-ani5 {
+    grid-template-columns: repeat(2, 1fr);
+  }
 }
 
 .logo-ani3 {
