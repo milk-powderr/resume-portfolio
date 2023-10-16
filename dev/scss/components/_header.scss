@@ -5,18 +5,20 @@
     align-items: center;
     padding-bottom: 0px;
     justify-content: space-between;
-    margin-right: 200px;
+    margin-right: 150px;
 
-    @include md {}
+    @include md {
+    margin-right: 200px;
+    }
 
     @include lg {}
 }
 
 .header_logo {
-    width: 90px;
+    width: 50px;
 
     @include md {
-
+    width: 90px;
     }
 
     @include lg {
@@ -35,7 +37,7 @@
 
 .new_page1 {
     color: $black;
-    font-size: 19px;
+    font-size: 29px;
     text-decoration: none;
     padding-right: 40%;
     flex-direction: row;
@@ -56,7 +58,7 @@
 
 .new_page2 {
     color: $black;
-    font-size: 14px;
+    font-size: 29px;
     text-decoration: none;
     padding-right: 40%;
     flex-direction: row;
@@ -76,7 +78,7 @@
 
 .new_page3 {
     color: $black;
-    font-size: 14px;
+    font-size: 29px;
     text-decoration: none;
     flex-direction: row;
 

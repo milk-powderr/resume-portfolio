@@ -319,10 +319,20 @@ h1, h2, h3, h4, h5, h6 {
   align-items: center;
   padding-bottom: 0px;
   justify-content: space-between;
-  margin-right: 200px;
+  margin-right: 150px;
+}
+@media (min-width: 768px) {
+  .header {
+    margin-right: 200px;
+  }
 }
 .header_logo {
-  width: 90px;
+  width: 50px;
+}
+@media (min-width: 768px) {
+  .header_logo {
+    width: 90px;
+  }
 }
 .new_page-block {
   font-family: "Alumni Sans", sans-serif;
@@ -330,7 +340,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .new_page1 {
   color: #000000;
-  font-size: 19px;
+  font-size: 29px;
   text-decoration: none;
   padding-right: 40%;
   flex-direction: row;
@@ -345,7 +355,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .new_page2 {
   color: #000000;
-  font-size: 14px;
+  font-size: 29px;
   text-decoration: none;
   padding-right: 40%;
   flex-direction: row;
@@ -360,7 +370,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .new_page3 {
   color: #000000;
-  font-size: 14px;
+  font-size: 29px;
   text-decoration: none;
   flex-direction: row;
 }
