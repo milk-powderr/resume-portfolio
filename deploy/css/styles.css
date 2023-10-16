@@ -1500,11 +1500,16 @@ h1, h2, h3, h4, h5, h6 {
   text-shadow: -0.8px 0.8px #FFC700;
 }
 
-.objective-2 {
+.ex-objective-2 {
   font-size: 20px;
   color: #000000;
   list-style-type: none;
-  width: 740px;
+  width: 100%;
+}
+@media (min-width: 768px) {
+  .ex-objective-2 {
+    width: 740px;
+  }
 }
 
 .objective-3 {
@@ -1528,10 +1533,15 @@ h1, h2, h3, h4, h5, h6 {
   padding-bottom: 11px;
 }
 
-.logo-ani5 {
+.ex-logo-ani5 {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(1, 1fr);
   gap: 11px;
+}
+@media (min-width: 768px) {
+  .ex-logo-ani5 {
+    grid-template-columns: repeat(2, 1fr);
+  }
 }
 
 .logo-ani3 {
