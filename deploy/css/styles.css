@@ -441,6 +441,11 @@ h1, h2, h3, h4, h5, h6 {
   width: 100%;
 }
 @media (min-width: 768px) {
+  .front-magazine-cover:hover {
+    width: 50%;
+  }
+}
+@media (min-width: 768px) {
   .front-magazine-cover {
     width: 50%;
   }
