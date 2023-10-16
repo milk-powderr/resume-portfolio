@@ -2290,7 +2290,7 @@
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 0,
+      "oA" : 1,
       "oAP" : "\/dev\/components\/desc-sanrio.html",
       "oF" : 0
     },
@@ -2334,12 +2334,12 @@
       "oAP" : "\/dev\/components\/intro.html",
       "oF" : 0
     },
-    "\/dev\/components\/playpics.kit" : {
+    "\/dev\/components\/play.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/components\/playpics.html",
+      "oA" : 0,
+      "oAP" : "\/dev\/components\/play.html",
       "oF" : 0
     },
     "\/dev\/components\/work.kit" : {
@@ -2827,7 +2827,7 @@
       "pg" : 0,
       "sct" : 0
     },
-    "\/dev\/scss\/components\/_playpics.scss" : {
+    "\/dev\/scss\/components\/_play.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -2836,7 +2836,7 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/scss\/components\/_playpics.css",
+      "oAP" : "\/dev\/scss\/components\/_play.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
