@@ -432,16 +432,23 @@ h1, h2, h3, h4, h5, h6 {
   color: #ffffff;
   height: 550px;
 }
+.magazine-cover:hover {
+  opacity: 1;
+  transition: 0.3s ease;
+  background-color: #FFC700;
+  width: 100%;
+}
+@media (min-width: 768px) {
+  .magazine-cover:hover {
+    width: 50%;
+  }
+}
 @media (min-width: 768px) {
   .magazine-cover {
     width: 50%;
   }
-  .magazine-cover:hover {
-    opacity: 1;
-    transition: 0.3s ease;
-    background-color: #FFC700;
-  }
 }
+
 .magazine-title {
   padding-top: 20px;
   font-size: 50px;

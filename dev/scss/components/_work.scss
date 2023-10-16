@@ -26,19 +26,19 @@
     color: #ffffff;
     height: 550px;
 
-    @include md {
-    width: 50%;
-
     &:hover {
         opacity: 1;
         transition: .3s ease;
         background-color: #FFC700;
-       // width: 100%;
+        width: 100%;
 
         @include md {
-       //     width: 50%;
+        width: 50%;
         }
     }
+
+    @include md {
+    width: 50%;
 }
 }
 
