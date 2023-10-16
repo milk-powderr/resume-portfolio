@@ -17,7 +17,7 @@
     object-fit: cover;
 }
 
-.magazine-cover {
+.play-magazine-cover {
     width: 100%;
     position: absolute;
     opacity: 0;
@@ -29,7 +29,7 @@
     &:hover {
         opacity: 1;
         transition: .3s ease;
-        background-color: #FFC700;
+        background-color: #ffc800ce;
         width: 100%;
 
         @include md {
