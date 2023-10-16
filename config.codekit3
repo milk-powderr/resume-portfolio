@@ -887,52 +887,52 @@
     },
     "\/deploy\/img\/crotchet-1.jpg" : {
       "ft" : 16384,
-      "iS" : 4588583,
+      "iS" : 2452980,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/crotchet-1.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 1,
+      "opt" : 0,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
     },
     "\/deploy\/img\/crotchet-2.jpg" : {
       "ft" : 16384,
-      "iS" : 3600383,
+      "iS" : 1869314,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/crotchet-2.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 1,
+      "opt" : 0,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
     },
     "\/deploy\/img\/crotchet-3.jpg" : {
       "ft" : 16384,
-      "iS" : 3772984,
+      "iS" : 1985315,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/crotchet-3.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 1,
+      "opt" : 0,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
     },
     "\/deploy\/img\/crotchet-4.jpg" : {
       "ft" : 16384,
-      "iS" : 4095061,
+      "iS" : 2195477,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/crotchet-4.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 1,
+      "opt" : 0,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -2105,6 +2105,14 @@
       "oAP" : "\/deploy\/play.html",
       "oF" : 0
     },
+    "\/deploy\/sanrio.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/sanrio.html",
+      "oF" : 0
+    },
     "\/deploy\/wonderfilled.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -2276,6 +2284,14 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/components\/desc-pills.html",
+      "oF" : 0
+    },
+    "\/dev\/components\/desc-sanrio.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/components\/desc-sanrio.html",
       "oF" : 0
     },
     "\/dev\/components\/desc-wonderfilled.kit" : {
@@ -2456,6 +2472,14 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/play.html",
+      "oF" : 2
+    },
+    "\/dev\/sanrio.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/sanrio.html",
       "oF" : 2
     },
     "\/dev\/scss\/base\/_base.scss" : {
@@ -2678,6 +2702,21 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/scss\/components\/_desc-pills.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/dev\/scss\/components\/_desc-sanrio.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_desc-sanrio.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
