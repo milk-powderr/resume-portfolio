@@ -126,8 +126,12 @@ hr {
 
 .education {
     padding-top: 30px;
-    padding-left: 59px;
+    padding-left: 40px;
     list-style-type: none;
+
+    @include md { 
+        padding-left: 59px;
+    }
 
 }
 
@@ -160,8 +164,12 @@ hr {
 
 .honors {
     list-style-type: none;
+    padding-left: 40px;
     padding-top: 30px;
+
+    @include md { 
     padding-left: 59px;
+}
 }
 
 .programs {
@@ -182,4 +190,15 @@ hr {
 .resub {
     text-decoration: none;
     color: #000000;
+}
+
+.bottom-block {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    padding-bottom: 30px;
+    width: 90%;
+
+    @include md {
+        width: 100%;
+    }
 }

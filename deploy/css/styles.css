@@ -1782,8 +1782,13 @@ hr {
 
 .education {
   padding-top: 30px;
-  padding-left: 59px;
+  padding-left: 40px;
   list-style-type: none;
+}
+@media (min-width: 768px) {
+  .education {
+    padding-left: 59px;
+  }
 }
 
 .education-title {
@@ -1815,8 +1820,13 @@ hr {
 
 .honors {
   list-style-type: none;
+  padding-left: 40px;
   padding-top: 30px;
-  padding-left: 59px;
+}
+@media (min-width: 768px) {
+  .honors {
+    padding-left: 59px;
+  }
 }
 
 .programs {
@@ -1837,6 +1847,18 @@ hr {
 .resub {
   text-decoration: none;
   color: #000000;
+}
+
+.bottom-block {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  padding-bottom: 30px;
+  width: 90%;
+}
+@media (min-width: 768px) {
+  .bottom-block {
+    width: 100%;
+  }
 }
 
 .details {
