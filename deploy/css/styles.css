@@ -625,8 +625,13 @@ h1, h2, h3, h4, h5, h6 {
 
 .alt-spreads {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
   gap: 11px;
+  grid-template-columns: repeat(1, 1fr);
+}
+@media (min-width: 768px) {
+  .alt-spreads {
+    grid-template-columns: repeat(2, 1fr);
+  }
 }
 
 .alt-spread-1a {

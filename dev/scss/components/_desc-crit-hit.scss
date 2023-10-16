@@ -102,8 +102,12 @@
 
 .alt-spreads {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
   gap: 11px;
+  grid-template-columns: repeat(1, 1fr);
+
+  @include md {
+  grid-template-columns: repeat(2, 1fr);
+}
 }
 
 .alt-spread-1a {
@@ -115,5 +119,4 @@
 .alt-spread-1b {
   width: 100%;
   object-fit: cover;
-
 }
