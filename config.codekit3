@@ -1158,6 +1158,45 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/img\/ex-3.jpg" : {
+      "ft" : 16384,
+      "iS" : 267961,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/ex-3.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/ex-4.jpg" : {
+      "ft" : 16384,
+      "iS" : 314896,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/ex-4.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/ex-5.jpg" : {
+      "ft" : 16384,
+      "iS" : 153561,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/ex-5.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/img\/exhibition-cover.jpg" : {
       "ft" : 16384,
       "iS" : 1626891,
