@@ -388,6 +388,7 @@ h1, h2, h3, h4, h5, h6 {
   padding-left: 30px;
   font-size: 40px;
   width: 90%;
+  padding-left: 20px;
 }
 @media (min-width: 768px) {
   .intro {
@@ -397,7 +398,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 @media (min-width: 992px) {
   .intro {
-    padding-left: 30px;
     font-size: 60px;
   }
 }

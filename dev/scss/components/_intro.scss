@@ -2,6 +2,7 @@
     padding-left: 30px;
     font-size: 40px;
     width: 90%;
+    padding-left: 20px;
 
     @include md {
         padding-left: 30px;
@@ -9,7 +10,6 @@
     }
 
     @include lg {
-    padding-left: 30px;
     font-size: 60px;
 }
 }
