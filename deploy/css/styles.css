@@ -1018,7 +1018,12 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 20px;
   color: #000000;
   list-style-type: none;
-  width: 740px;
+  width: 100%;
+}
+@media (min-width: 768px) {
+  .cake-map-objective-2 {
+    width: 740px;
+  }
 }
 
 .objective-3 {
@@ -1113,11 +1118,16 @@ h1, h2, h3, h4, h5, h6 {
   text-shadow: -0.8px 0.8px #FFC700;
 }
 
-.objective-2 {
+.cake-menu-objective-2 {
   font-size: 20px;
   color: #000000;
   list-style-type: none;
-  width: 740px;
+  width: 100%;
+}
+@media (min-width: 768px) {
+  .cake-menu-objective-2 {
+    width: 740px;
+  }
 }
 
 .objective-3 {
@@ -1183,6 +1193,16 @@ h1, h2, h3, h4, h5, h6 {
   padding-top: 40px;
   padding-bottom: 11px;
   justify-content: center;
+}
+
+.cake-menu-vid {
+  object-fit: cover;
+  width: 100%;
+}
+@media (min-width: 768px) {
+  .cake-menu-vid {
+    width: 80%;
+  }
 }
 
 .title {
