@@ -2,9 +2,9 @@
     display: grid;
    // grid-template-columns: repeat(1, 1fr);
    // grid-template-rows: 5000px ;
+   grid-template-columns: repeat(1, 1fr);
 
     @include md {
-    display: grid;
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: 550px 550px 550px 550px 550px 1fr;
 }
@@ -17,7 +17,7 @@
     
 }
 
-.magazine-cover {
+.front-magazine-cover {
     width: 100%;
     position: absolute;
     opacity: 0;
@@ -27,9 +27,9 @@
     height: 550px;
 
     &:hover {
-        opacity: 0.5;
+        opacity: 1;
         transition: .3s ease;
-        background-color: #ffc800ac;
+        background-color: #ffc800c4;
         width: 100%;
 
         @include md {
