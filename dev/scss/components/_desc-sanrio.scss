@@ -21,11 +21,15 @@
     text-shadow: -0.8px 0.8px #FFC700;
 }
 
-.objective-2 {
+.san-objective-2 {
     font-size: 20px;
     color: #000000;
     list-style-type: none;
-    width: 740px;
+    width: 100%;
+
+    @include md {
+        width: 740px;
+    }
 }
 
 .objective-3 {

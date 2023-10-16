@@ -1,19 +1,10 @@
 .aboutstuff {
-    // display: grid;
-    // grid-template-columns: repeat(2, 1fr);
-    // padding-bottom: 30px;
-
-    @include md {
-   // justify-content: center;
-    // grid-template-columns: repeat(1, 1fr);
-    // grid-template-rows: repeat(1, 1fr);
-    }
 
     @include lg {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
         padding-bottom: 30px;
-        }
+    }
 }
 
 .aboutpic_panel {
@@ -46,10 +37,10 @@
         margin-left: 30px;
     }
 
-    @include lg{
-    padding-top: 150px;
-    margin-left: 110px;
-}
+    @include lg {
+        padding-top: 150px;
+        margin-left: 110px;
+    }
 }
 
 .aboutintro {
@@ -109,13 +100,13 @@ hr {
     margin-right: 25px;
 
     @include md {
-    margin-left: 30px;
-    margin-right: 30px;
+        margin-left: 30px;
+        margin-right: 30px;
     }
 
     @include lg {
-    margin-left: 50px;
-    margin-right: 50px;
+        margin-left: 50px;
+        margin-right: 50px;
     }
 }
 
@@ -129,7 +120,7 @@ hr {
     padding-left: 40px;
     list-style-type: none;
 
-    @include md { 
+    @include md {
         padding-left: 59px;
     }
 
@@ -167,9 +158,9 @@ hr {
     padding-left: 40px;
     padding-top: 30px;
 
-    @include md { 
-    padding-left: 59px;
-}
+    @include md {
+        padding-left: 59px;
+    }
 }
 
 .programs {
