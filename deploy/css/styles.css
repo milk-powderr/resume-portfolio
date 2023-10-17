@@ -1391,14 +1391,14 @@ h1, h2, h3, h4, h5, h6 {
   text-shadow: -0.8px 0.8px #FFC700;
 }
 
-.bread-objective-2 {
+.bbread-objective-2 {
   font-size: 20px;
   color: #000000;
   list-style-type: none;
   width: 100%;
 }
 @media (min-width: 768px) {
-  .bread-objective-2 {
+  .bbread-objective-2 {
     width: 740px;
   }
 }
