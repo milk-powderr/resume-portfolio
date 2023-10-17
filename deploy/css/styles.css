@@ -1755,12 +1755,17 @@ h1, h2, h3, h4, h5, h6 {
 
 #name {
   color: #FFC700;
-  text-shadow: -2px 2px #000000;
+  text-shadow: -1px 1px #000000;
+}
+@media (min-width: 768px) {
+  #name {
+    text-shadow: -2px 2px #000000;
+  }
 }
 
 .paragraph1 {
   font-size: 22px;
-  font-weight: 250;
+  font-weight: 300;
   padding-left: 1.5px;
   padding-top: 12px;
 }
@@ -1826,14 +1831,14 @@ hr {
 }
 
 .education-2 {
-  font-size: 23px;
-  font-weight: 250;
+  font-size: 22px;
+  font-weight: 300;
   padding-left: 1.5px;
 }
 
 .education-3 {
-  font-size: 23px;
-  font-weight: 250;
+  font-size: 22px;
+  font-weight: 300;
   padding-left: 1.5px;
   padding-bottom: 30px;
 }
