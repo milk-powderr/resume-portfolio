@@ -8,9 +8,9 @@
     margin-right: 150px;
 
     @include md {
-    padding-top: 1%;
-    padding-left: 26px;
-    margin-right: 200px;
+        padding-top: 1%;
+        padding-left: 26px;
+        margin-right: 200px;
     }
 
     @include lg {}
@@ -20,12 +20,10 @@
     width: 50px;
 
     @include md {
-    width: 90px;
+        width: 90px;
     }
 
-    @include lg {
-
-    }
+    @include lg {}
 }
 
 .new_page-block {
@@ -45,16 +43,19 @@
     flex-direction: row;
 
     &:hover {
-        text-shadow: -2px 2px #FFC700;
+
+        text-shadow: -1px 1px #FFC700;
+
+        @include md {
+            text-shadow: -2px 2px #FFC700;
+        }
     }
 
     @include md {
         font-size: 39px;
     }
 
-    @include lg {
-
-    }
+    @include lg {}
 }
 
 
@@ -66,16 +67,19 @@
     flex-direction: row;
 
     &:hover {
-        text-shadow: -2px 2px #FFC700;
+
+        text-shadow: -1px 1px #FFC700;
+
+        @include md {
+            text-shadow: -2px 2px #FFC700;
+        }
     }
 
     @include md {
         font-size: 39px;
     }
 
-    @include lg {
-
-    }
+    @include lg {}
 }
 
 .new_page3 {
@@ -85,14 +89,17 @@
     flex-direction: row;
 
     &:hover {
-        text-shadow: -2px 2px #FFC700;
+
+        text-shadow: -1px 1px #FFC700;
+
+        @include md {
+            text-shadow: -2px 2px #FFC700;
+        }
     }
 
     @include md {
         font-size: 39px;
     }
 
-    @include lg {
-
-    }
+    @include lg {}
 }
