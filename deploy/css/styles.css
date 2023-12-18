@@ -724,6 +724,10 @@ h1, h2, h3, h4, h5, h6 {
   padding-bottom: 11px;
 }
 
+.hallway-pics-rilke {
+  background-color: #fef2b4;
+}
+
 .title {
   padding-top: 50px;
   font-size: 60px;
