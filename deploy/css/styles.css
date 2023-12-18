@@ -728,6 +728,15 @@ h1, h2, h3, h4, h5, h6 {
   background-color: #fef2b4;
 }
 
+.rilke-cover {
+  width: 100%;
+}
+@media (min-width: 768px) {
+  .rilke-cover {
+    width: 50%;
+  }
+}
+
 .title {
   padding-top: 50px;
   font-size: 60px;

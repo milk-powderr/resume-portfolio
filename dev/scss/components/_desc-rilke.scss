@@ -45,3 +45,10 @@
 .hallway-pics-rilke {
 background-color: #fef2b4;
 }
+
+.rilke-cover {
+    width: 100%;
+    @include md{
+        width: 50%;
+    }
+    }
