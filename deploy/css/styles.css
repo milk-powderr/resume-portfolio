@@ -618,11 +618,25 @@ h1, h2, h3, h4, h5, h6 {
   gap: 11px;
 }
 
+.augment-pics {
+  grid-template-rows: repeat(2);
+  gap: 11px;
+}
+
+.augment-pics2 {
+  grid-template-rows: repeat(2);
+  gap: 11px;
+}
+
+.augment_over {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  gap: 11px;
+  padding-top: 30px;
+}
 @media (min-width: 768px) {
-  .augment-pics {
-    display: grid;
+  .augment_over {
     grid-template-columns: repeat(2, 1fr);
-    column-gap: 11px;
   }
 }
 
