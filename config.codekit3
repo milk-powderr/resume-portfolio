@@ -924,6 +924,45 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/img\/cit-shelf-1.jpg" : {
+      "ft" : 16384,
+      "iS" : 710412,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/cit-shelf-1.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/cit-shelf-2.jpg" : {
+      "ft" : 16384,
+      "iS" : 913308,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/cit-shelf-2.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/cit-shelf-3.jpg" : {
+      "ft" : 16384,
+      "iS" : 1857595,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/cit-shelf-3.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/img\/cit1.jpg" : {
       "ft" : 16384,
       "iS" : 1279978,
@@ -2041,6 +2080,32 @@
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/mockup1.jpg" : {
+      "ft" : 16384,
+      "iS" : 1356272,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/mockup1.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/mockup2.jpg" : {
+      "ft" : 16384,
+      "iS" : 1412096,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/mockup2.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
