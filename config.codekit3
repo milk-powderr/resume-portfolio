@@ -2558,6 +2558,14 @@
       "oAP" : "\/deploy\/sanrio.html",
       "oF" : 0
     },
+    "\/deploy\/slap.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/deploy\/slap.html",
+      "oF" : 1
+    },
     "\/deploy\/wonderfilled.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -2762,6 +2770,14 @@
       "oA" : 1,
       "oAP" : "\/dev\/components\/desc-sanrio.html",
       "oF" : 0
+    },
+    "\/dev\/components\/desc-slap.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/desc-slap.html",
+      "oF" : 1
     },
     "\/dev\/components\/desc-wonderfilled.kit" : {
       "cB" : 0,
@@ -3229,6 +3245,21 @@
       "pg" : 0,
       "sct" : 0
     },
+    "\/dev\/scss\/components\/_desc-slap.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_desc-slap.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
     "\/dev\/scss\/components\/_desc-wonderfilled.scss" : {
       "aP" : 0,
       "bl" : 0,
@@ -3420,6 +3451,14 @@
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
+    },
+    "\/dev\/slap.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/slap.html",
+      "oF" : 2
     },
     "\/dev\/wonderfilled.kit" : {
       "cB" : 0,
