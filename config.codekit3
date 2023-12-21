@@ -1036,6 +1036,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/img\/cutl-elements.jpg" : {
+      "ft" : 16384,
+      "iS" : 675323,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/cutl-elements.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/img\/cutl1.jpg" : {
       "ft" : 16384,
       "iS" : 1355028,
