@@ -1,13 +1,12 @@
 .play {
     display: grid;
-    padding-top: 40px;
-   // grid-template-columns: repeat(1, 1fr);
-   // grid-template-rows: 5000px ;
+   grid-template-columns: repeat(1, 1fr);
+   grid-template-rows: 550px 550px 550px 550px 550px 
+   550px 550px 550px 550px 550px 1fr;
 
     @include md {
-    display: grid;
     grid-template-columns: repeat(2, 1fr);
-    grid-template-rows: 550px 550px 550px 550px 550px 1fr;
+    grid-template-rows: 550px 550px 550px 550px 550px 550px 1fr;
 }
 }
 

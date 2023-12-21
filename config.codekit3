@@ -2628,6 +2628,32 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/img\/warmer1.jpg" : {
+      "ft" : 16384,
+      "iS" : 3751574,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/warmer1.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/warmer2.jpg" : {
+      "ft" : 16384,
+      "iS" : 3297239,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/warmer2.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/img\/Week10_FINAL_Brand Presentation 4.pdf" : {
       "cB" : 0,
       "ft" : 8192,
@@ -2720,6 +2746,14 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/deploy\/slap.html",
+      "oF" : 1
+    },
+    "\/deploy\/warmers.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/deploy\/warmers.html",
       "oF" : 1
     },
     "\/deploy\/wonderfilled.html" : {
@@ -2934,6 +2968,14 @@
       "oA" : 1,
       "oAP" : "\/dev\/components\/desc-slap.html",
       "oF" : 1
+    },
+    "\/dev\/components\/desc-warmers.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/desc-warmers.html",
+      "oF" : 0
     },
     "\/dev\/components\/desc-wonderfilled.kit" : {
       "cB" : 0,
@@ -3416,6 +3458,21 @@
       "pg" : 0,
       "sct" : 0
     },
+    "\/dev\/scss\/components\/_desc-warmers.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_desc-warmers.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
     "\/dev\/scss\/components\/_desc-wonderfilled.scss" : {
       "aP" : 0,
       "bl" : 0,
@@ -3614,6 +3671,14 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/slap.html",
+      "oF" : 2
+    },
+    "\/dev\/warmers.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/warmers.html",
       "oF" : 2
     },
     "\/dev\/wonderfilled.kit" : {
