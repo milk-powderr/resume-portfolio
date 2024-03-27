@@ -25,6 +25,14 @@
       "oAP" : "\/deploy\/about.html",
       "oF" : 0
     },
+    "\/deploy\/accord.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/accord.html",
+      "oF" : 0
+    },
     "\/deploy\/augment.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -100,6 +108,19 @@
       "oA" : 0,
       "oAP" : "\/deploy\/flushed-hall.html",
       "oF" : 0
+    },
+    "\/deploy\/img\/accord-cover.jpg" : {
+      "ft" : 16384,
+      "iS" : 2998824,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/accord-cover.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
     },
     "\/deploy\/img\/alt-spread-1.jpg" : {
       "ft" : 16384,
@@ -2772,6 +2793,14 @@
       "oAP" : "\/deploy\/about.html",
       "oF" : 2
     },
+    "\/dev\/accord.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/accord.html",
+      "oF" : 2
+    },
     "\/dev\/augment.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -2856,6 +2885,14 @@
       "oA" : 1,
       "oAP" : "\/dev\/components\/aboutpic.html",
       "oF" : 0
+    },
+    "\/dev\/components\/desc-accord.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/desc-accord.html",
+      "oF" : 1
     },
     "\/dev\/components\/desc-augment.kit" : {
       "cB" : 0,
@@ -3243,6 +3280,21 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/scss\/components\/_buttons.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/dev\/scss\/components\/_desc-accord.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_desc-accord.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
