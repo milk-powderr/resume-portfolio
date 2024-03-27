@@ -122,6 +122,32 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/img\/accord1.jpg" : {
+      "ft" : 16384,
+      "iS" : 101922,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/accord1.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/accord2.jpg" : {
+      "ft" : 16384,
+      "iS" : 721144,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/accord2.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/img\/alt-spread-1.jpg" : {
       "ft" : 16384,
       "iS" : 1027388,
