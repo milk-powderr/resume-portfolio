@@ -2,11 +2,11 @@
    display: grid;
    grid-template-columns: repeat(1, 1fr);
    grid-template-rows: 550px 550px 550px 550px 550px 
-   550px 550px 550px 550px 550px 550px 550px 550px 550px 550px 1fr;
+   550px 550px 550px 550px 550px 550px 550px 550px 550px 1fr;
 
     @include md {
     grid-template-columns: repeat(2, 1fr);
-    grid-template-rows: 550px 550px 550px 550px 550px 550px 550px 550px 1fr;
+    grid-template-rows: 550px 550px 550px 550px 550px 550px 550px 1fr;
 }
 }
 
@@ -51,11 +51,11 @@
     font-size: 30px;
 }
 
-.hallway-painting_panel {
-    width: 100%;
-    object-fit: cover;
-    height: 550px;
-}
+// .hallway-painting_panel {
+//     width: 100%;
+//     object-fit: cover;
+//     height: 550px;
+// }
 
 .music-poster_panel {
     width: 100%;
@@ -87,11 +87,11 @@
     height: 550px;
 }
 
-.pill-print_panel {
-    width: 100%;
-    object-fit: cover;
-    height: 550px;
-}
+// .pill-print_panel {
+//     width: 100%;
+//     object-fit: cover;
+//     height: 550px;
+// }
 
 .emmelina_panel {
     width: 100%;

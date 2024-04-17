@@ -423,12 +423,12 @@ h1, h2, h3, h4, h5, h6 {
 .front-works {
   display: grid;
   grid-template-columns: repeat(1, 1fr);
-  grid-template-rows: 550px 550px 550px 550px 550px 550px 550px 550px 550px 550px 550px 550px 550px 550px 550px 1fr;
+  grid-template-rows: 550px 550px 550px 550px 550px 550px 550px 550px 550px 550px 550px 550px 550px 550px 1fr;
 }
 @media (min-width: 768px) {
   .front-works {
     grid-template-columns: repeat(2, 1fr);
-    grid-template-rows: 550px 550px 550px 550px 550px 550px 550px 550px 1fr;
+    grid-template-rows: 550px 550px 550px 550px 550px 550px 550px 1fr;
   }
 }
 
@@ -474,12 +474,6 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 30px;
 }
 
-.hallway-painting_panel {
-  width: 100%;
-  object-fit: cover;
-  height: 550px;
-}
-
 .music-poster_panel {
   width: 100%;
   object-fit: cover;
@@ -505,12 +499,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .cake-menu_panel {
-  width: 100%;
-  object-fit: cover;
-  height: 550px;
-}
-
-.pill-print_panel {
   width: 100%;
   object-fit: cover;
   height: 550px;
@@ -2059,12 +2047,12 @@ h1, h2, h3, h4, h5, h6 {
   display: grid;
   padding-top: 50px;
   grid-template-columns: repeat(1, 1fr);
-  grid-template-rows: 550px 1fr;
+  grid-template-rows: 550px 550px 1fr;
 }
 @media (min-width: 768px) {
   .play {
     grid-template-columns: repeat(2, 1fr);
-    grid-template-rows: 550px 1fr;
+    grid-template-rows: 550px 550px 1fr;
   }
 }
 
@@ -2104,6 +2092,18 @@ h1, h2, h3, h4, h5, h6 {
   padding-top: 20px;
   font-size: 50px;
   font-weight: 500;
+}
+
+.hallway-painting_panel {
+  width: 100%;
+  object-fit: cover;
+  height: 550px;
+}
+
+.pill-print_panel {
+  width: 100%;
+  object-fit: cover;
+  height: 550px;
 }
 
 .magazine-title-2 {
