@@ -954,7 +954,7 @@
     },
     "\/deploy\/img\/bologo.png" : {
       "ft" : 32768,
-      "iS" : 1082,
+      "iS" : 2045,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/bologo.png",
       "oF" : 0,
@@ -1055,6 +1055,19 @@
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/cake-small-cover.png" : {
+      "ft" : 32768,
+      "iS" : 76199,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/cake-small-cover.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
