@@ -3135,14 +3135,6 @@
       "oAP" : "\/deploy\/bread.html",
       "oF" : 2
     },
-    "\/dev\/cake-menu.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/cake-menu.html",
-      "oF" : 0
-    },
     "\/dev\/components\/aboutpic.kit" : {
       "cB" : 0,
       "ft" : 2048,
