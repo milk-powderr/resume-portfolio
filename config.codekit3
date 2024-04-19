@@ -2474,6 +2474,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/img\/new-world-cover.jpg" : {
+      "ft" : 16384,
+      "iS" : 394674,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/new-world-cover.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/img\/open-book.jpg" : {
       "ft" : 16384,
       "iS" : 1126622,
@@ -2834,6 +2847,19 @@
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/self.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/slap-cover.jpg" : {
+      "ft" : 16384,
+      "iS" : 845593,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/slap-cover.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
