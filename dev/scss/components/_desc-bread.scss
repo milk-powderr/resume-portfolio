@@ -1,6 +1,3 @@
-.desc {
-    overflow: hidden;
-}
 .title {
     padding-top: 50px;
     font-size: 60px;
@@ -24,14 +21,14 @@
     text-shadow: -0.8px 0.8px #FFC700;
 }
 
-.cake-menu-objective-2 {
+.bbread-objective-2 {
     font-size: 20px;
     color: #000000;
     list-style-type: none;
     width: 100%;
 
     @include md {
-    width: 740px;        
+        width: 740px;   
     }
 }
 
@@ -100,7 +97,7 @@
     justify-content: center;
 }
 
-.cake-menu-vid {
+.bread-vid {
     object-fit: cover;
     width: 100%;
 

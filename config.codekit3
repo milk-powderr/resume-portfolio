@@ -3096,6 +3096,14 @@
       "oAP" : "\/deploy\/bread.html",
       "oF" : 2
     },
+    "\/dev\/cake-menu.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/cake-menu.html",
+      "oF" : 0
+    },
     "\/dev\/components\/aboutpic.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -3540,7 +3548,7 @@
       "pg" : 0,
       "sct" : 0
     },
-    "\/dev\/scss\/components\/_desc-cake-menu.scss" : {
+    "\/dev\/scss\/components\/_desc-bread.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -3549,7 +3557,7 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/scss\/components\/_desc-cake-menu.css",
+      "oAP" : "\/dev\/scss\/components\/_desc-bread.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,

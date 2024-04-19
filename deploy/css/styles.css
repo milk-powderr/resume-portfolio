@@ -423,7 +423,7 @@ h1, h2, h3, h4, h5, h6 {
 .front-works {
   display: grid;
   grid-template-columns: repeat(1, 1fr);
-  grid-template-rows: 550px 550px 550px 550px 550px 550px 550px 550px 550px 550px 550px 550px 550px 550px 1fr;
+  grid-template-rows: 550px 550px 550px 550px 550px 550px 550px 550px 550px 550px 550px 550px 550px 1fr;
 }
 @media (min-width: 768px) {
   .front-works {
@@ -1430,120 +1430,6 @@ h1, h2, h3, h4, h5, h6 {
   display: flex;
   padding-top: 40px;
   padding-bottom: 11px;
-}
-
-.desc {
-  overflow: hidden;
-}
-
-.title {
-  padding-top: 50px;
-  font-size: 60px;
-  font-weight: 450;
-  color: #FFC700;
-  list-style-type: none;
-  text-shadow: -2px 2px #000000;
-}
-
-.title-2 {
-  font-size: 25px;
-  color: #000000;
-  list-style-type: none;
-}
-
-.objective {
-  padding-top: 50px;
-  font-size: 30px;
-  color: #000000;
-  list-style-type: none;
-  text-shadow: -0.8px 0.8px #FFC700;
-}
-
-.cake-menu-objective-2 {
-  font-size: 20px;
-  color: #000000;
-  list-style-type: none;
-  width: 100%;
-}
-@media (min-width: 768px) {
-  .cake-menu-objective-2 {
-    width: 740px;
-  }
-}
-
-.objective-3 {
-  padding-top: 20px;
-  font-size: 30px;
-  color: #000000;
-  list-style-type: none;
-  text-shadow: -0.8px 0.8px #FFC700;
-}
-
-.bartram-image1 {
-  object-fit: cover;
-  width: 100%;
-}
-
-.magazine-cover-spread {
-  width: 50%;
-  padding-bottom: 11px;
-}
-
-.magazine-spread-1 {
-  width: 100%;
-  padding-bottom: 11px;
-}
-
-.logo-ani2 {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 11px;
-  padding-top: 30px;
-}
-
-.logo-ani3 {
-  grid-template-rows: repeat(2);
-  gap: 11px;
-}
-
-.logo-ani4 {
-  grid-template-rows: repeat(2);
-  gap: 11px;
-}
-
-.bartram-web {
-  width: 100%;
-  object-fit: cover;
-}
-
-.bartram-web2 {
-  width: 100%;
-  object-fit: cover;
-  padding-top: 11px;
-  height: 497px;
-}
-
-.bartram-web3 {
-  object-fit: cover;
-  width: 100%;
-}
-
-.magazine-image1 {
-  width: 100%;
-  display: flex;
-  padding-top: 40px;
-  padding-bottom: 11px;
-  justify-content: center;
-}
-
-.cake-menu-vid {
-  object-fit: cover;
-  width: 100%;
-}
-@media (min-width: 768px) {
-  .cake-menu-vid {
-    width: 80%;
-  }
 }
 
 .title {
