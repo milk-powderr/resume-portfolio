@@ -1061,12 +1061,12 @@
     },
     "\/deploy\/img\/cake-small-cover.png" : {
       "ft" : 32768,
-      "iS" : 76199,
+      "iS" : 42188,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/cake-small-cover.png",
       "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
@@ -1486,6 +1486,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/img\/cutlcover.jpg" : {
+      "ft" : 16384,
+      "iS" : 462095,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/cutlcover.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/img\/em-1.jpg" : {
       "ft" : 16384,
       "iS" : 130442,
@@ -1833,6 +1846,19 @@
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/fish-cover.jpg" : {
+      "ft" : 16384,
+      "iS" : 309379,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/fish-cover.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
