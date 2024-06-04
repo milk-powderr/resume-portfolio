@@ -337,13 +337,26 @@
     },
     "\/deploy\/img\/augment-new-2.jpg" : {
       "ft" : 16384,
-      "iS" : 0,
+      "iS" : 4755766,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/augment-new-2.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/augment-new-3.png" : {
+      "ft" : 32768,
+      "iS" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/augment-new-3.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
