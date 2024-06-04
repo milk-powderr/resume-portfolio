@@ -53,12 +53,12 @@
     padding-bottom: 11px;
 }
 
-.pills-logo-ani5 {
+.augment_over-accord {
     display: grid;
     grid-template-columns: repeat(1, 1fr);
     gap: 11px;
 
-    @include md{
+    @include lg{
         grid-template-columns: repeat(2, 1fr);
         }
 }

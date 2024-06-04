@@ -4,7 +4,11 @@
    grid-template-columns: repeat(1, 1fr);
    grid-template-rows: 550px 550px 1fr;
 
-    @include md {
+   @include md {
+    grid-template-rows: 550px 550px 550px 550px 1fr;
+}
+
+    @include lg {
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: 550px 550px 1fr;
 }
@@ -31,12 +35,12 @@
         background-color: #ffc800ce;
         width: 100%;
 
-        @include md {
+        @include lg {
         width: 50%;
         }
     }
 
-    @include md {
+    @include lg {
     width: 50%;
 }
 }

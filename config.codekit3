@@ -335,6 +335,32 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/img\/augment-new-2.jpg" : {
+      "ft" : 16384,
+      "iS" : 0,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/augment-new-2.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/augment-new.jpg" : {
+      "ft" : 16384,
+      "iS" : 528214,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/augment-new.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/img\/bartram-animation-storyboard.jpg" : {
       "ft" : 16384,
       "iS" : 470328,
@@ -1279,6 +1305,19 @@
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/crit-hit-new.jpg" : {
+      "ft" : 16384,
+      "iS" : 889196,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/crit-hit-new.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -2483,6 +2522,19 @@
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/new-accord.jpg" : {
+      "ft" : 16384,
+      "iS" : 1836884,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/new-accord.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75

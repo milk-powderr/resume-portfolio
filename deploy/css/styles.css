@@ -425,7 +425,7 @@ h1, h2, h3, h4, h5, h6 {
   grid-template-columns: repeat(1, 1fr);
   grid-template-rows: 550px 550px 550px 550px 550px 550px 550px 550px 550px 550px 550px 550px 550px 1fr;
 }
-@media (min-width: 768px) {
+@media (min-width: 992px) {
   .front-works {
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: 550px 550px 550px 550px 550px 550px 1fr;
@@ -453,12 +453,12 @@ h1, h2, h3, h4, h5, h6 {
   background-color: rgba(255, 200, 0, 0.8078431373);
   width: 100%;
 }
-@media (min-width: 768px) {
+@media (min-width: 992px) {
   .front-magazine-cover:hover {
     width: 50%;
   }
 }
-@media (min-width: 768px) {
+@media (min-width: 992px) {
   .front-magazine-cover {
     width: 50%;
   }
@@ -596,13 +596,13 @@ h1, h2, h3, h4, h5, h6 {
   padding-bottom: 11px;
 }
 
-.pills-logo-ani5 {
+.augment_over-accord {
   display: grid;
   grid-template-columns: repeat(1, 1fr);
   gap: 11px;
 }
-@media (min-width: 768px) {
-  .pills-logo-ani5 {
+@media (min-width: 992px) {
+  .augment_over-accord {
     grid-template-columns: repeat(2, 1fr);
   }
 }
@@ -1937,6 +1937,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 @media (min-width: 768px) {
   .play {
+    grid-template-rows: 550px 550px 550px 550px 1fr;
+  }
+}
+@media (min-width: 992px) {
+  .play {
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: 550px 550px 1fr;
   }
@@ -1963,12 +1968,12 @@ h1, h2, h3, h4, h5, h6 {
   background-color: rgba(255, 200, 0, 0.8078431373);
   width: 100%;
 }
-@media (min-width: 768px) {
+@media (min-width: 992px) {
   .play-magazine-cover:hover {
     width: 50%;
   }
 }
-@media (min-width: 768px) {
+@media (min-width: 992px) {
   .play-magazine-cover {
     width: 50%;
   }
