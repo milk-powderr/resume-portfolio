@@ -2599,6 +2599,45 @@
       "oAP" : "\/deploy\/img\/oreo-movie.mp4",
       "oF" : 0
     },
+    "\/deploy\/img\/oreo-new-1.jpg" : {
+      "ft" : 16384,
+      "iS" : 651255,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/oreo-new-1.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/oreo-new-2.jpg" : {
+      "ft" : 16384,
+      "iS" : 1525625,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/oreo-new-2.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/oreo-new-3.png" : {
+      "ft" : 32768,
+      "iS" : 3879700,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/oreo-new-3.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/img\/oreo-palette.jpg" : {
       "ft" : 16384,
       "iS" : 418237,
