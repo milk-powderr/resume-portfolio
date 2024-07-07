@@ -1416,6 +1416,14 @@
       "oAP" : "\/deploy\/img\/crsm-desktop-view.mp4",
       "oF" : 0
     },
+    "\/deploy\/img\/crsm-tablet-view.mp4" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/crsm-tablet-view.mp4",
+      "oF" : 0
+    },
     "\/deploy\/img\/cutl-elements.jpg" : {
       "ft" : 16384,
       "iS" : 675323,
