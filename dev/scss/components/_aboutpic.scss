@@ -10,7 +10,7 @@
 .aboutpic_panel {
 
     object-fit: cover;
-    width: 400px;
+    width: 350px;
 
     @include md {
         width: 450px;
@@ -186,6 +186,7 @@ hr {
     border: solid 2px #000000;
     width: fit-content;
     font-size: 20px;
+    margin-bottom: 20px;
 }
 
 .resub {

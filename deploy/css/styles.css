@@ -2009,7 +2009,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .aboutpic_panel {
   object-fit: cover;
-  width: 400px;
+  width: 350px;
 }
 @media (min-width: 768px) {
   .aboutpic_panel {
@@ -2185,6 +2185,7 @@ hr {
   border: solid 2px #000000;
   width: fit-content;
   font-size: 20px;
+  margin-bottom: 20px;
 }
 
 .resub {
