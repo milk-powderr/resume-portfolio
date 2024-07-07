@@ -65,6 +65,14 @@
       "oAP" : "\/deploy\/crit-hit.html",
       "oF" : 0
     },
+    "\/deploy\/crsm.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/crsm.html",
+      "oF" : 1
+    },
     "\/deploy\/css\/styles.css" : {
       "aP" : 1,
       "bl" : 0,
@@ -1386,6 +1394,27 @@
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
+    },
+    "\/deploy\/img\/crsm-cover.png" : {
+      "ft" : 32768,
+      "iS" : 2518422,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/crsm-cover.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/crsm-desktop-view.mp4" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/crsm-desktop-view.mp4",
+      "oF" : 0
     },
     "\/deploy\/img\/cutl-elements.jpg" : {
       "ft" : 16384,
@@ -3347,6 +3376,14 @@
       "oAP" : "\/dev\/components\/desc-crit-hit.html",
       "oF" : 0
     },
+    "\/dev\/components\/desc-crsm.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/desc-crsm.html",
+      "oF" : 1
+    },
     "\/dev\/components\/desc-emmelina.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -3489,6 +3526,14 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/crit-hit.html",
+      "oF" : 2
+    },
+    "\/dev\/crsm.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/crsm.html",
       "oF" : 2
     },
     "\/dev\/emmelina.kit" : {
@@ -3768,6 +3813,21 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/scss\/components\/_desc-crit-hit.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/dev\/scss\/components\/_desc-crsm.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_desc-crsm.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
