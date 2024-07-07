@@ -2677,6 +2677,14 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/img\/pdf-portfolio.pdf" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/pdf-portfolio.pdf",
+      "oF" : 0
+    },
     "\/deploy\/img\/pill-1.jpg" : {
       "ft" : 16384,
       "iS" : 2800748,
