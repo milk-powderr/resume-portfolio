@@ -2269,6 +2269,17 @@ hr {
   }
 }
 
+.honors-2 {
+  list-style-type: none;
+  padding-left: 40px;
+  padding-top: 30px;
+}
+@media (min-width: 768px) {
+  .honors-2 {
+    padding-left: 59px;
+  }
+}
+
 .programs {
   list-style-type: none;
   padding-left: 40px;

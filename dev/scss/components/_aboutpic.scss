@@ -180,6 +180,16 @@ hr {
     }
 }
 
+.honors-2 {
+    list-style-type: none;
+    padding-left: 40px;
+    padding-top: 30px;
+
+    @include md {
+        padding-left: 59px;
+    }
+}
+
 .programs {
     list-style-type: none;
     //padding-top: 30px;
