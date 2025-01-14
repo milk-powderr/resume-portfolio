@@ -155,12 +155,19 @@ hr {
     font-size: 22px;
     font-weight: 300;
     padding-left: 1.5px;
-    padding-bottom: 30px;
+   // padding-bottom: 30px;
+
 }
 
 .skills {
     list-style-type: none;
     padding-top: 30px;
+    padding-left: 40px;
+
+    @include md {
+        padding-left: 59px;
+    }
+
 }
 
 .honors {
@@ -175,7 +182,13 @@ hr {
 
 .programs {
     list-style-type: none;
+    //padding-top: 30px;
+    padding-left: 40px;
     padding-top: 30px;
+
+    @include md {
+        padding-left: 59px;
+    }
 }
 
 .resume-button {

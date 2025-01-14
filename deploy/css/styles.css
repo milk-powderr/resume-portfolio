@@ -2245,12 +2245,17 @@ hr {
   font-size: 22px;
   font-weight: 300;
   padding-left: 1.5px;
-  padding-bottom: 30px;
 }
 
 .skills {
   list-style-type: none;
   padding-top: 30px;
+  padding-left: 40px;
+}
+@media (min-width: 768px) {
+  .skills {
+    padding-left: 59px;
+  }
 }
 
 .honors {
@@ -2266,7 +2271,13 @@ hr {
 
 .programs {
   list-style-type: none;
+  padding-left: 40px;
   padding-top: 30px;
+}
+@media (min-width: 768px) {
+  .programs {
+    padding-left: 59px;
+  }
 }
 
 .resume-button {
