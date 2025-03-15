@@ -540,6 +540,11 @@ h1, h2, h3, h4, h5, h6 {
   height: 550px;
 }
 
+.back {
+  width: 90%;
+  padding-left: 30px;
+}
+
 .project-title {
   padding-top: 50px;
   font-size: 60px;
@@ -637,6 +642,11 @@ h1, h2, h3, h4, h5, h6 {
   .augment_over {
     grid-template-columns: repeat(2, 1fr);
   }
+}
+
+.back {
+  width: 90%;
+  padding-left: 30px;
 }
 
 .project-title {
@@ -1312,6 +1322,11 @@ h1, h2, h3, h4, h5, h6 {
   .oreo-vid {
     width: 80%;
   }
+}
+
+.back {
+  width: 90%;
+  padding-left: 30px;
 }
 
 .project-title {
