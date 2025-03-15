@@ -2,7 +2,8 @@
   width: 90%;
   padding-left: 30px;
 }
-.title {
+
+.project-title {
   padding-top: 50px;
   font-size: 60px;
   font-weight: 450;
@@ -11,42 +12,37 @@
   text-shadow: -2px 2px #000000;
 }
 
-.crit-title-2 {
-  font-size: 25px;
+.project-class {
+  font-size: 40px;
   color: #000000;
   list-style-type: none;
-  width: 100%;
-
-  @include md {
-    width: 740px;
-}
 }
 
-.objective {
+.objective-1 {
   padding-top: 50px;
-  font-size: 30px;
+  font-size: 40px;
   color: #000000;
   list-style-type: none;
   text-shadow: -0.8px 0.8px #FFC700;
 }
 
-.crit-objective-2 {
-  font-size: 20px;
+.objective-2 {
+  padding-top: 20px;
+  font-size: 40px;
+  color: #000000;
+  list-style-type: none;
+  text-shadow: -0.8px 0.8px #FFC700;
+}
+
+.objective-body {
+  font-size: 30px;
   color: #000000;
   list-style-type: none;
   width: 100%;
 
-  @include md {
-    width: 740px;
-}
-}
-
-.objective-3 {
-  padding-top: 20px;
-  font-size: 30px;
-  color: #000000;
-  list-style-type: none;
-  text-shadow: -0.8px 0.8px #FFC700;
+  @include md{
+  width: 740px;   
+  }
 }
 
 .magazine-image1 {
