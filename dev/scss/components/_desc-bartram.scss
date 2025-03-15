@@ -1,4 +1,4 @@
-.title {
+.project-title {
     padding-top: 50px;
     font-size: 60px;
     font-weight: 450;
@@ -7,35 +7,34 @@
     text-shadow: -2px 2px #000000;
 }
 
-.title-2 {
+.project-class {
     font-size: 25px;
     color: #000000;
     list-style-type: none;
-    width: 90%;
 }
 
-.objective {
+.objective-1 {
     padding-top: 50px;
-    font-size: 30px;
+    font-size: 40px;
     color: #000000;
     list-style-type: none;
     text-shadow: -0.8px 0.8px #FFC700;
 }
 
-.bartram-objective-2 {
+.objective-body {
     font-size: 30px;
     color: #000000;
     list-style-type: none;
     width: 100%;
 
     @include md{
-        width: 740px;
+    width: 740px;   
     }
 }
 
-.objective-3 {
+.objective-2 {
     padding-top: 20px;
-    font-size: 30px;
+    font-size: 40px;
     color: #000000;
     list-style-type: none;
     text-shadow: -0.8px 0.8px #FFC700;
