@@ -563,6 +563,14 @@ h1, h2, h3, h4, h5, h6 {
   text-shadow: -0.8px 0.8px #FFC700;
 }
 
+.objective-2 {
+  padding-top: 20px;
+  font-size: 40px;
+  color: #000000;
+  list-style-type: none;
+  text-shadow: -0.8px 0.8px #FFC700;
+}
+
 .objective-body {
   font-size: 30px;
   color: #000000;
@@ -573,14 +581,6 @@ h1, h2, h3, h4, h5, h6 {
   .objective-body {
     width: 740px;
   }
-}
-
-.objective-2 {
-  padding-top: 20px;
-  font-size: 40px;
-  color: #000000;
-  list-style-type: none;
-  text-shadow: -0.8px 0.8px #FFC700;
 }
 
 .hallway-image1 {
@@ -1343,6 +1343,14 @@ h1, h2, h3, h4, h5, h6 {
   text-shadow: -0.8px 0.8px #FFC700;
 }
 
+.objective-2 {
+  padding-top: 20px;
+  font-size: 40px;
+  color: #000000;
+  list-style-type: none;
+  text-shadow: -0.8px 0.8px #FFC700;
+}
+
 .objective-body {
   font-size: 30px;
   color: #000000;
@@ -1353,14 +1361,6 @@ h1, h2, h3, h4, h5, h6 {
   .objective-body {
     width: 740px;
   }
-}
-
-.objective-2 {
-  padding-top: 20px;
-  font-size: 40px;
-  color: #000000;
-  list-style-type: none;
-  text-shadow: -0.8px 0.8px #FFC700;
 }
 
 .bartram-image1 {
