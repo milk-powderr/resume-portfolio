@@ -3528,21 +3528,13 @@
       "oAP" : "\/deploy\/work.html",
       "oF" : 3
     },
-    "\/dev\/crit-hit.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/crit-hit.html",
-      "oF" : 0
-    },
     "\/dev\/crit-hit.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/dev\/crit-hit.html",
-      "oF" : 0
+      "oAP" : "\/deploy\/crit-hit.html",
+      "oF" : 2
     },
     "\/dev\/crsm.kit" : {
       "cB" : 0,
