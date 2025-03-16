@@ -265,6 +265,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/img\/accord-phone-mockup.png" : {
+      "ft" : 32768,
+      "iS" : 2732100,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/accord-phone-mockup.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/img\/accord-web1.jpg" : {
       "ft" : 16384,
       "iS" : 17037762,

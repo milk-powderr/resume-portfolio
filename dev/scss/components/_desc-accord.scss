@@ -46,15 +46,37 @@
 }
 
 .accord-image {
-    width: 70%;
+    width: 80%;
     margin-left: auto;
     margin-right: auto;
     display: block;
     padding-top: 40px;
 
     @include md {
-        width: 740px;
+        width: 60%;
     }
 }
 
-.accord-pics {}
+.accord-pc {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding-top: 50px;
+
+    @include md {
+        width: 70%;
+    }
+}
+
+.accord-phone {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+   // padding-top: 30px;
+
+    @include md {
+        // width: 70%;
+    }
+}
