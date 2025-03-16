@@ -1205,6 +1205,19 @@
       "oAP" : "\/deploy\/img\/cake.mp4",
       "oF" : 0
     },
+    "\/deploy\/img\/cans.jpg" : {
+      "ft" : 16384,
+      "iS" : 5423782,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/cans.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/img\/cit-elements.jpg" : {
       "ft" : 16384,
       "iS" : 997427,

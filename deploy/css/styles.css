@@ -971,7 +971,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 @media (min-width: 768px) {
   .citrus-image {
-    width: 80%;
+    width: 90%;
   }
 }
 
@@ -1059,6 +1059,24 @@ h1, h2, h3, h4, h5, h6 {
 @media (min-width: 768px) {
   .accord-image {
     width: 70%;
+  }
+}
+
+.new-image {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  padding-top: 40px;
+}
+@media (min-width: 768px) {
+  .new-image {
+    width: 60%;
+  }
+}
+@media (min-width: 992px) {
+  .new-image {
+    width: 50%;
   }
 }
 
