@@ -1957,7 +1957,12 @@ h1, h2, h3, h4, h5, h6 {
   padding-bottom: 11px;
 }
 
-.title {
+.back {
+  width: 90%;
+  padding-left: 30px;
+}
+
+.project-title {
   padding-top: 50px;
   font-size: 60px;
   font-weight: 450;
@@ -1966,38 +1971,38 @@ h1, h2, h3, h4, h5, h6 {
   text-shadow: -2px 2px #000000;
 }
 
-.title-2 {
-  font-size: 25px;
+.project-class {
+  font-size: 40px;
   color: #000000;
   list-style-type: none;
 }
 
-.objective {
+.objective-1 {
   padding-top: 50px;
-  font-size: 30px;
+  font-size: 40px;
   color: #000000;
   list-style-type: none;
   text-shadow: -0.8px 0.8px #FFC700;
 }
 
-.san-objective-2 {
-  font-size: 20px;
+.objective-2 {
+  padding-top: 20px;
+  font-size: 40px;
+  color: #000000;
+  list-style-type: none;
+  text-shadow: -0.8px 0.8px #FFC700;
+}
+
+.objective-body {
+  font-size: 30px;
   color: #000000;
   list-style-type: none;
   width: 100%;
 }
 @media (min-width: 768px) {
-  .san-objective-2 {
+  .objective-body {
     width: 740px;
   }
-}
-
-.objective-3 {
-  padding-top: 20px;
-  font-size: 30px;
-  color: #000000;
-  list-style-type: none;
-  text-shadow: -0.8px 0.8px #FFC700;
 }
 
 .hallway-image1 {
