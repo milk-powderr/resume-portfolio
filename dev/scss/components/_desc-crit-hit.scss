@@ -45,83 +45,14 @@
   }
 }
 
-.magazine-image1 {
-  width: 100%;
-  display: flex;
+.crit-image {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
   padding-top: 40px;
-  padding-bottom: 11px;
-}
-
-.magazine-cover-spread {
-  width: 50%;
-  padding-bottom: 11px;
-}
-
-.magazine-spread-1 {
-  width: 100%;
-  padding-bottom: 11px;
-}
-
-.crit-bit-1a {
-  padding-bottom: 11px;
-  width: 100%;
 
   @include md {
-  width: 33%;
-}
-}
-
-.crit-bit-1b {
-  padding-bottom: 11px;
-  width: 100%;
-
-  @include md {
-  width: 33%;
-}
-}
-
-.bit-1c {
-  object-fit: cover;
-  width: 100%;
-}
-
-.bit-1d {
-  width: 100%;
-  object-fit: cover;
-}
-
-.bit-1e {
-  width: 100%;
-  object-fit: cover;
-}
-
-.crit-bits {
-  display: grid;
-  gap: 11px;
-  grid-template-columns: repeat(1, 1fr);
-
-  @include md {
-  grid-template-columns: repeat(3, 1fr);
-}
-}
-
-.alt-spreads {
-  display: grid;
-  gap: 11px;
-  grid-template-columns: repeat(1, 1fr);
-
-  @include md {
-  grid-template-columns: repeat(2, 1fr);
-}
-}
-
-.alt-spread-1a {
-  width: 100%;
-  object-fit: cover;
-  padding-top: 11px;
-}
-
-.alt-spread-1b {
-  width: 100%;
-  object-fit: cover;
+      width: 70%;
+  }
 }
