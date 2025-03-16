@@ -589,15 +589,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .accord-image {
-  width: 85%;
-  justify-content: center;
-  display: flex;
-  padding-bottom: 11px;
-}
-
-.accord-pics {
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
   padding-top: 40px;
-  justify-content: center;
 }
 
 .back {

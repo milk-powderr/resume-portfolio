@@ -45,58 +45,14 @@
     }
 }
 
-// .hallway-image1 {
-//     width: 100%;
-//     display: flex;
-//     padding-top: 40px;
-//     padding-bottom: 11px;
-// }
-
 .accord-image {
-    width: 85%;
-    justify-content: center;
-    display: flex;
-    padding-bottom: 11px;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding-top: 40px;
 }
-
-// .augment_over-accord {
-//     display: grid;
-//     grid-template-columns: repeat(1, 1fr);
-//     gap: 11px;
-
-//     @include lg{
-//         grid-template-columns: repeat(2, 1fr);
-//         }
-// }
-
-// .logo-ani3 {
-//     grid-template-rows: repeat(2);
-//     gap: 11px;
-// }
-
-// .logo-ani4 {
-//     grid-template-rows: repeat(2);
-//     gap: 11px;
-// }
 
 .accord-pics {
-padding-top: 40px;
-justify-content: center;
-//display: block;
+
 }
-
-// .augment-pics2 {
-//     grid-template-rows: repeat(2);
-//     gap: 11px;
-// }
-
-// .augment_over {
-//     display: grid;
-//     grid-template-columns: repeat(1, 1fr);
-//     gap: 11px;
-//     padding-top: 30px;
-
-//     @include md {
-//     grid-template-columns: repeat(2, 1fr);
-//     }
-// }
