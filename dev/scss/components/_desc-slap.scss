@@ -45,72 +45,38 @@
     }
 }
 
-.cit-image {
+.citrus-image {
     width: 100%;
-    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
     padding-top: 40px;
-    padding-bottom: 11px;
-}
-
-.cit-image1 {
-    width: 100%;
-    display: flex;
-  //  padding-top: 40px;
-    padding-bottom: 11px;
-}
-
-.cit-image2 {
-    width: 100%;
-    display: flex;
-    padding-bottom: 11px;
-}
-
-.pills-logo-ani5 {
-    display: grid;
-    grid-template-columns: repeat(1, 1fr);
-    gap: 11px;
-
-    @include md{
-        grid-template-columns: repeat(2, 1fr);
-        }
-}
-
-.logo-ani3 {
-    grid-template-rows: repeat(2);
-    gap: 11px;
-}
-
-.logo-ani4 {
-    grid-template-rows: repeat(2);
-    gap: 11px;
-}
-
-// .augment-pics {
-
-//     @include md {
-//         display: grid;
-//     grid-template-columns: repeat(2, 1fr);
-//         column-gap: 11px;
-//     }
-// }
-
-.cit-pics {
-    grid-template-rows: repeat(2);
-   // gap: 11px;
-}
-
-.cit-pics2 {
-    grid-template-rows: repeat(2);
-  //  gap: 11px;
-}
-
-.cit_over {
-    display: grid;
-    grid-template-columns: repeat(1, 1fr);
-    gap: 11px;
-   // padding-top: 30px;
 
     @include md {
-    grid-template-columns: repeat(2, 1fr);
+        width: 80%;
+    }
+}
+
+.citrus-pack-image {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding-top: 40px;
+
+    @include md {
+        width: 90%;
+    }
+}
+
+.accord-image {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding-top: 40px;
+
+    @include md {
+        width: 70%;
     }
 }
