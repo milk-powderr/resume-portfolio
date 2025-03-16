@@ -1049,36 +1049,16 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-.magazine-image1 {
-  width: 100%;
-  display: flex;
+.accord-image {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
   padding-top: 40px;
-  padding-bottom: 11px;
-}
-
-.bit-1c {
-  object-fit: cover;
-  width: 100%;
-}
-
-.bit-1d {
-  width: 100%;
-  object-fit: cover;
-}
-
-.bit-1e {
-  width: 100%;
-  object-fit: cover;
-}
-
-.symphony-bits {
-  display: grid;
-  grid-template-columns: repeat(1, 1fr);
-  gap: 11px;
 }
 @media (min-width: 768px) {
-  .symphony-bits {
-    grid-template-columns: repeat(3, 1fr);
+  .accord-image {
+    width: 70%;
   }
 }
 
@@ -1088,22 +1068,13 @@ h1, h2, h3, h4, h5, h6 {
   gap: 11px;
 }
 
-.symphony-palette {
-  object-fit: cover;
-  width: 100%;
-}
-@media (min-width: 768px) {
-  .symphony-palette {
-    width: 80%;
-  }
-}
-
 .symphony-vid {
   object-fit: cover;
-  height: 410px;
+  height: 480px;
   display: block;
   margin-left: auto;
   margin-right: auto;
+  margin-top: 80px;
 }
 @media (min-width: 992px) {
   .symphony-vid {
