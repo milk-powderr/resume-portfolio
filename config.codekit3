@@ -2199,6 +2199,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/img\/letter-spread.png" : {
+      "ft" : 32768,
+      "iS" : 22778757,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/letter-spread.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/img\/lime.jpg" : {
       "ft" : 16384,
       "iS" : 2549249,
