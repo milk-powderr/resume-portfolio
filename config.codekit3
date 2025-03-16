@@ -252,6 +252,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/img\/accord-pc-mockup.jpg" : {
+      "ft" : 16384,
+      "iS" : 10169383,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/accord-pc-mockup.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/img\/accord-web1.jpg" : {
       "ft" : 16384,
       "iS" : 17037762,
