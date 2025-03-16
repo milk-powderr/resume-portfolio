@@ -1369,15 +1369,15 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/crit-hit-new.jpg" : {
-      "ft" : 16384,
-      "iS" : 889196,
-      "jF" : 0,
+    "\/deploy\/img\/crit-spread.png" : {
+      "ft" : 32768,
+      "iS" : 24121385,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/crit-hit-new.jpg",
+      "oAP" : "\/deploy\/img\/crit-spread.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
+      "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
