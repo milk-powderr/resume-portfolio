@@ -491,7 +491,12 @@ h1, h2, h3, h4, h5, h6 {
 .oreo_panel {
   width: 100%;
   object-fit: cover;
-  height: 550px;
+  height: 300px;
+}
+@media (min-width: 768px) {
+  .oreo_panel {
+    height: 550px;
+  }
 }
 
 .bartram_panel {
