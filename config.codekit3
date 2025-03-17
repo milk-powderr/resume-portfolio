@@ -2758,6 +2758,14 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/img\/oreo-guidelines.pdf" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/oreo-guidelines.pdf",
+      "oF" : 0
+    },
     "\/deploy\/img\/oreo-movie.mp4" : {
       "cB" : 0,
       "ft" : 8192,
