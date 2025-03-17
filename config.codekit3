@@ -1387,15 +1387,28 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/Composition.jpg" : {
-      "ft" : 16384,
-      "iS" : 22620912,
-      "jF" : 0,
+    "\/deploy\/img\/composition-2.png" : {
+      "ft" : 32768,
+      "iS" : 1924825,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/Composition.jpg",
+      "oAP" : "\/deploy\/img\/composition-2.png",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 1,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/composition.jpg" : {
+      "ft" : 16384,
+      "iS" : 22618284,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/composition.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
