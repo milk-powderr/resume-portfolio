@@ -634,6 +634,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-right: auto;
   display: block;
 }
+
 .back {
   width: 90%;
   padding-left: 30px;
@@ -1323,6 +1324,26 @@ h1, h2, h3, h4, h5, h6 {
   .accord-image {
     width: 70%;
   }
+}
+
+.accord-pc {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  padding-top: 50px;
+}
+@media (min-width: 768px) {
+  .accord-pc {
+    width: 70%;
+  }
+}
+
+.accord-phone {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
 
 .back {

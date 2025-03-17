@@ -754,12 +754,38 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/img\/bartram-laptop.jpg" : {
+      "ft" : 16384,
+      "iS" : 11184999,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/bartram-laptop.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/img\/bartram-palette.jpg" : {
       "ft" : 16384,
       "iS" : 401508,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/bartram-palette.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/bartram-phone.jpg" : {
+      "ft" : 16384,
+      "iS" : 2459721,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/bartram-phone.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
