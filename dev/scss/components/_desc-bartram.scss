@@ -97,12 +97,18 @@
     display: block;
 }
 
-.oreo-palette {
-    display: grid;
-    grid-template-columns: repeat(1, 1fr);
-    gap: 11px;
+.accord-oreo-image {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding-top: 40px;
 
-        @include md {
-        grid-template-columns: repeat(2, 1fr);
+    @include md {
+         width: 70%;
     }
+
+    @include lg {
+        width: 60%;
+   }
 }
