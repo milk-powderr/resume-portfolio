@@ -1622,6 +1622,32 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
+.emmelina-palette {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  padding-top: 40px;
+}
+@media (min-width: 768px) {
+  .emmelina-palette {
+    width: 70%;
+  }
+}
+
+.emmelina-palette-2 {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  padding-top: 40px;
+}
+@media (min-width: 768px) {
+  .emmelina-palette-2 {
+    width: 50%;
+  }
+}
+
 .title {
   padding-top: 50px;
   font-size: 60px;

@@ -101,3 +101,27 @@
         width: 40%;
     }
 }
+
+.emmelina-palette {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding-top: 40px;
+
+    @include md {
+        width: 70%;
+    }
+}
+
+.emmelina-palette-2 {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding-top: 40px;
+
+    @include md {
+        width: 50%;
+    }
+}
