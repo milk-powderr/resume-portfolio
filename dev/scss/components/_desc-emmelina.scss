@@ -69,3 +69,35 @@
         width: 70%;
     }
 }
+
+.emmelina-image {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding-top: 40px;
+
+    @include md {
+        width: 50%;
+    }
+
+    @include lg {
+        width: 40%;
+    }
+}
+
+.emmelina-image-2 {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding-top: 90px;
+
+    @include md {
+        width: 50%;
+    }
+
+    @include lg {
+        width: 40%;
+    }
+}
