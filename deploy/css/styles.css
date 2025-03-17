@@ -1477,38 +1477,17 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-.hallway-image1 {
-  width: 100%;
-  display: flex;
+.accord-image {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
   padding-top: 40px;
-  padding-bottom: 11px;
-}
-
-.hallway-image2 {
-  width: 100%;
-  display: flex;
-  padding-bottom: 11px;
-}
-
-.pills-logo-ani5 {
-  display: grid;
-  grid-template-columns: repeat(1, 1fr);
-  gap: 11px;
 }
 @media (min-width: 768px) {
-  .pills-logo-ani5 {
-    grid-template-columns: repeat(2, 1fr);
+  .accord-image {
+    width: 70%;
   }
-}
-
-.logo-ani3 {
-  grid-template-rows: repeat(2);
-  gap: 11px;
-}
-
-.logo-ani4 {
-  grid-template-rows: repeat(2);
-  gap: 11px;
 }
 
 .back {
@@ -1885,17 +1864,17 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-.hallway-image1 {
-  width: 100%;
-  display: flex;
+.accord-image {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
   padding-top: 40px;
-  padding-bottom: 11px;
 }
-
-.hallway-image2 {
-  width: 100%;
-  display: flex;
-  padding-bottom: 11px;
+@media (min-width: 768px) {
+  .accord-image {
+    width: 70%;
+  }
 }
 
 .back {
