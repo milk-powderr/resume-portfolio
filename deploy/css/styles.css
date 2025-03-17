@@ -1819,6 +1819,24 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
+.accord-exhibit-image {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  padding-top: 40px;
+}
+@media (min-width: 768px) {
+  .accord-exhibit-image {
+    width: 60%;
+  }
+}
+@media (min-width: 992px) {
+  .accord-exhibit-image {
+    width: 60%;
+  }
+}
+
 .back {
   width: 90%;
   padding-left: 30px;
