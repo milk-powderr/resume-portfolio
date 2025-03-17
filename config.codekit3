@@ -1894,7 +1894,7 @@
     },
     "\/deploy\/img\/em-11.jpg" : {
       "ft" : 16384,
-      "iS" : 160409,
+      "iS" : 109336,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/em-11.jpg",
@@ -1976,6 +1976,19 @@
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/emmelina-card.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/emmelina-pattern.jpg" : {
+      "ft" : 16384,
+      "iS" : 919846,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/emmelina-pattern.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
