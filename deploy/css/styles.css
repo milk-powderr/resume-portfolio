@@ -1350,6 +1350,17 @@ h1, h2, h3, h4, h5, h6 {
   display: block;
 }
 
+.oreo-palette {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  gap: 11px;
+}
+@media (min-width: 768px) {
+  .oreo-palette {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
 .back {
   width: 90%;
   padding-left: 30px;
