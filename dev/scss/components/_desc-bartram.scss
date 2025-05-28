@@ -78,12 +78,25 @@
     }
 }
 
-.accord-pc {
+// .accord-pc {
+//     width: 80%;
+//     margin-left: auto;
+//     margin-right: auto;
+//     display: block;
+//     padding-top: 50px;
+
+//     @include md {
+//         width: 70%;
+//     }
+// }
+
+.accord-new-pc {
     width: 80%;
     margin-left: auto;
     margin-right: auto;
     display: block;
-    padding-top: 50px;
+    padding-top: 85px;
+    padding-bottom: 65px;
 
     @include md {
         width: 70%;

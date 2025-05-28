@@ -624,7 +624,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-left: auto;
   margin-right: auto;
   display: block;
-  padding-top: 65px;
+  padding-top: 85px;
   padding-bottom: 65px;
 }
 @media (min-width: 768px) {
@@ -644,7 +644,7 @@ h1, h2, h3, h4, h5, h6 {
 @media (min-width: 768px) {
   .accord-new-phone {
     width: 50%;
-    padding-bottom: 80px;
+    padding-bottom: 60px;
     padding-top: 80px;
   }
 }
@@ -1340,15 +1340,16 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-.accord-pc {
+.accord-new-pc {
   width: 80%;
   margin-left: auto;
   margin-right: auto;
   display: block;
-  padding-top: 50px;
+  padding-top: 85px;
+  padding-bottom: 65px;
 }
 @media (min-width: 768px) {
-  .accord-pc {
+  .accord-new-pc {
     width: 70%;
   }
 }
