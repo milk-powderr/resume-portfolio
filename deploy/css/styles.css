@@ -619,24 +619,34 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-.accord-pc {
+.accord-new-pc {
   width: 80%;
   margin-left: auto;
   margin-right: auto;
   display: block;
-  padding-top: 50px;
+  padding-top: 65px;
+  padding-bottom: 65px;
 }
 @media (min-width: 768px) {
-  .accord-pc {
+  .accord-new-pc {
     width: 70%;
   }
 }
 
-.accord-phone {
+.accord-new-phone {
   width: 70%;
   margin-left: auto;
   margin-right: auto;
+  padding-bottom: 50px;
+  padding-top: 50px;
   display: block;
+}
+@media (min-width: 768px) {
+  .accord-new-phone {
+    width: 50%;
+    padding-bottom: 80px;
+    padding-top: 80px;
+  }
 }
 
 .back {
