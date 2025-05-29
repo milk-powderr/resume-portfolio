@@ -125,3 +125,18 @@
         width: 60%;
    }
 }
+
+.accord-new-phone {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    display: block;
+    
+        @include md {
+        width: 50%;
+        padding-bottom: 60px;
+        padding-top: 80px;
+    }
+}
