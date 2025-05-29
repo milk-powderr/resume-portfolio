@@ -2,7 +2,7 @@
    display: grid;
    grid-template-columns: repeat(1, 1fr);
    grid-template-rows: 300px 300px 300px 300px 300px 
-   300px 300px 300px 300px 1fr;
+   300px 300px 300px 1fr;
 
    @include md {
    grid-template-rows: 550px 550px 550px 550px 550px 
@@ -109,6 +109,8 @@
     width: 100%;
     object-fit: cover;
     height: 550px;
+
+    
 }
 
 .bread_panel {
