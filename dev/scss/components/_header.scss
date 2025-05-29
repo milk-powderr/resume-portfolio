@@ -29,6 +29,7 @@
 .new_page-block {
     font-family: 'Alumni Sans', sans-serif;
     display: flex;
+      max-width: 100%;
 
     @include md {}
 
