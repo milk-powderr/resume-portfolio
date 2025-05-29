@@ -423,17 +423,17 @@ h1, h2, h3, h4, h5, h6 {
 .front-works {
   display: grid;
   grid-template-columns: repeat(1, 1fr);
-  grid-template-rows: 300px 300px 300px 300px 300px 300px 300px 300px 300px 300px 300px 1fr;
+  grid-template-rows: 300px 300px 300px 300px 300px 300px 300px 300px 300px 1fr;
 }
 @media (min-width: 768px) {
   .front-works {
-    grid-template-rows: 550px 550px 550px 550px 550px 550px 550px 550px 550px 550px 550px 1fr;
+    grid-template-rows: 550px 550px 550px 550px 550px 550px 550px 550px 1fr;
   }
 }
 @media (min-width: 992px) {
   .front-works {
     grid-template-columns: repeat(2, 1fr);
-    grid-template-rows: 550px 550px 550px 550px 550px 550px 1fr;
+    grid-template-rows: 550px 550px 550px 550px 1fr;
   }
 }
 
