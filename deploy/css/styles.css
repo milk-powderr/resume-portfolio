@@ -499,6 +499,17 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
+.oreo-cover-panel {
+  height: 300px;
+  object-fit: cover;
+  z-index: 0;
+}
+@media (min-width: 768px) {
+  .oreo-cover-panel {
+    height: 550px;
+  }
+}
+
 .bartram_panel {
   width: 100%;
   object-fit: cover;
