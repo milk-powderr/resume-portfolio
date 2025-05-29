@@ -5,15 +5,13 @@
     align-items: center;
     padding-bottom: 0px;
     justify-content: space-between;
-    margin-right: 150px;
+    margin-right: 50px;
 
     @include md {
         padding-top: 1%;
         padding-left: 26px;
-        margin-right: 200px;
+       // margin-right: 200px;
     }
-
-    @include lg {}
 }
 
 .header_logo {
@@ -22,25 +20,21 @@
     @include md {
         width: 90px;
     }
-
-    @include lg {}
 }
 
 .new_page-block {
     font-family: 'Alumni Sans', sans-serif;
     display: flex;
-      max-width: 100%;
-
-    @include md {}
-
-    @include lg {}
+    margin-right: 9px;
+    //  max-width: 100%;
+    //justify-content: space-evenly;
 }
 
 .new_page1 {
     color: $black;
     font-size: 29px;
     text-decoration: none;
-    padding-right: 40%;
+    padding-right: 40px;
     flex-direction: row;
 
     &:hover {
@@ -64,7 +58,7 @@
     color: $black;
     font-size: 29px;
     text-decoration: none;
-    padding-right: 40%;
+    padding-right: 40px;
     flex-direction: row;
 
     &:hover {

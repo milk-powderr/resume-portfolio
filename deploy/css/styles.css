@@ -319,15 +319,15 @@ h1, h2, h3, h4, h5, h6 {
   align-items: center;
   padding-bottom: 0px;
   justify-content: space-between;
-  margin-right: 150px;
+  margin-right: 50px;
 }
 @media (min-width: 768px) {
   .header {
     padding-top: 1%;
     padding-left: 26px;
-    margin-right: 200px;
   }
 }
+
 .header_logo {
   width: 50px;
 }
@@ -336,16 +336,18 @@ h1, h2, h3, h4, h5, h6 {
     width: 90px;
   }
 }
+
 .new_page-block {
   font-family: "Alumni Sans", sans-serif;
   display: flex;
-  max-width: 100%;
+  margin-right: 9px;
 }
+
 .new_page1 {
   color: #000000;
   font-size: 29px;
   text-decoration: none;
-  padding-right: 40%;
+  padding-right: 40px;
   flex-direction: row;
 }
 .new_page1:hover {
@@ -365,7 +367,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #000000;
   font-size: 29px;
   text-decoration: none;
-  padding-right: 40%;
+  padding-right: 40px;
   flex-direction: row;
 }
 .new_page2:hover {
