@@ -581,9 +581,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .project-class {
-  font-size: 40px;
+  font-size: 30px;
   color: #000000;
   list-style-type: none;
+}
+@media (min-width: 768px) {
+  .project-class {
+    font-size: 40px;
+  }
 }
 
 .objective-1 {
@@ -669,9 +674,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .project-class {
-  font-size: 40px;
+  font-size: 30px;
   color: #000000;
   list-style-type: none;
+}
+@media (min-width: 768px) {
+  .project-class {
+    font-size: 40px;
+  }
 }
 
 .objective-1 {
@@ -727,9 +737,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .project-class {
-  font-size: 40px;
+  font-size: 30px;
   color: #000000;
   list-style-type: none;
+}
+@media (min-width: 768px) {
+  .project-class {
+    font-size: 40px;
+  }
 }
 
 .objective-1 {
@@ -879,9 +894,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .project-class {
-  font-size: 40px;
+  font-size: 30px;
   color: #000000;
   list-style-type: none;
+}
+@media (min-width: 768px) {
+  .project-class {
+    font-size: 40px;
+  }
 }
 
 .objective-1 {
@@ -942,9 +962,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .project-class {
-  font-size: 40px;
+  font-size: 30px;
   color: #000000;
   list-style-type: none;
+}
+@media (min-width: 768px) {
+  .project-class {
+    font-size: 40px;
+  }
 }
 
 .objective-1 {
@@ -1026,9 +1051,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .project-class {
-  font-size: 40px;
+  font-size: 30px;
   color: #000000;
   list-style-type: none;
+}
+@media (min-width: 768px) {
+  .project-class {
+    font-size: 40px;
+  }
 }
 
 .objective-1 {
@@ -1122,9 +1152,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .project-class {
-  font-size: 40px;
+  font-size: 30px;
   color: #000000;
   list-style-type: none;
+}
+@media (min-width: 768px) {
+  .project-class {
+    font-size: 40px;
+  }
 }
 
 .objective-1 {
@@ -1261,9 +1296,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .project-class {
-  font-size: 40px;
+  font-size: 30px;
   color: #000000;
   list-style-type: none;
+}
+@media (min-width: 768px) {
+  .project-class {
+    font-size: 40px;
+  }
 }
 
 .objective-1 {
@@ -1396,9 +1436,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .project-class {
-  font-size: 40px;
+  font-size: 30px;
   color: #000000;
   list-style-type: none;
+}
+@media (min-width: 768px) {
+  .project-class {
+    font-size: 40px;
+  }
 }
 
 .objective-1 {
@@ -1454,9 +1499,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .project-class {
-  font-size: 40px;
+  font-size: 30px;
   color: #000000;
   list-style-type: none;
+}
+@media (min-width: 768px) {
+  .project-class {
+    font-size: 40px;
+  }
 }
 
 .objective-1 {
@@ -1512,9 +1562,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .project-class {
-  font-size: 40px;
+  font-size: 30px;
   color: #000000;
   list-style-type: none;
+}
+@media (min-width: 768px) {
+  .project-class {
+    font-size: 40px;
+  }
 }
 
 .objective-1 {
@@ -1753,9 +1808,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .project-class {
-  font-size: 40px;
+  font-size: 30px;
   color: #000000;
   list-style-type: none;
+}
+@media (min-width: 768px) {
+  .project-class {
+    font-size: 40px;
+  }
 }
 
 .objective-1 {
@@ -1829,9 +1889,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .project-class {
-  font-size: 40px;
+  font-size: 30px;
   color: #000000;
   list-style-type: none;
+}
+@media (min-width: 768px) {
+  .project-class {
+    font-size: 40px;
+  }
 }
 
 .objective-1 {
@@ -1887,9 +1952,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .project-class {
-  font-size: 40px;
+  font-size: 30px;
   color: #000000;
   list-style-type: none;
+}
+@media (min-width: 768px) {
+  .project-class {
+    font-size: 40px;
+  }
 }
 
 .objective-1 {
@@ -1950,9 +2020,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .project-class {
-  font-size: 40px;
+  font-size: 30px;
   color: #000000;
   list-style-type: none;
+}
+@media (min-width: 768px) {
+  .project-class {
+    font-size: 40px;
+  }
 }
 
 .objective-1 {

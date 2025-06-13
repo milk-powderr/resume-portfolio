@@ -13,9 +13,13 @@
 }
 
 .project-class {
-    font-size: 40px;
+    font-size: 30px;
     color: #000000;
     list-style-type: none;
+
+        @include md {
+        font-size: 40px;
+    }
 }
 
 .objective-1 {
