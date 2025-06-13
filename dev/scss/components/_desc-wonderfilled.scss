@@ -3,13 +3,16 @@
     padding-left: 30px;
 }
 
-   .project-title {
+.project-title {
     padding-top: 50px;
-    font-size: 50px;
+    font-size: 40px;
     font-weight: 450;
     color: #AA8500;
     list-style-type: none;
- 
+
+        @include md {
+        font-size: 50px;
+    }
 }
 
 .project-class {
