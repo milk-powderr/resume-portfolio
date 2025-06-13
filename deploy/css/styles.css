@@ -324,8 +324,8 @@ h1, h2, h3, h4, h5, h6 {
 @media (min-width: 768px) {
   .header {
     margin-right: 50px;
-    padding-top: 1%;
-    padding-left: 26px;
+    padding-top: 2%;
+    padding-left: 25px;
   }
 }
 
@@ -380,15 +380,14 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 .intro {
-  padding-left: 30px;
-  font-size: 40px;
-  font-weight: 100;
+  font-size: 35px;
+  font-weight: 250;
   width: 90%;
-  padding-left: 20px;
+  padding-left: 15px;
 }
 @media (min-width: 768px) {
   .intro {
-    padding-left: 30px;
+    padding-left: 25px;
     font-size: 50px;
   }
 }
