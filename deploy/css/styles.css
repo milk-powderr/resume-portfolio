@@ -389,14 +389,6 @@ h1, h2, h3, h4, h5, h6 {
   text-decoration: none;
   flex-direction: row;
 }
-.new_page3:hover {
-  text-shadow: -1px 1px #AA8500;
-}
-@media (min-width: 768px) {
-  .new_page3:hover {
-    text-shadow: -2px 2px #AA8500;
-  }
-}
 @media (min-width: 768px) {
   .new_page3 {
     font-size: 39px;

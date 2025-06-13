@@ -10,7 +10,6 @@
     @include md {
         padding-top: 1%;
         padding-left: 26px;
-       // margin-right: 200px;
     }
 }
 
@@ -26,8 +25,6 @@
 	font-family: "Roboto", sans-serif;
     display: flex;
     margin-right: 9px;
-    //  max-width: 100%;
-    //justify-content: space-evenly;
 }
 
 .new_page1 {
@@ -83,14 +80,14 @@
     text-decoration: none;
     flex-direction: row;
 
-    &:hover {
+    // &:hover {
 
-        text-shadow: -1px 1px #AA8500;
+    //     text-shadow: -1px 1px #AA8500;
 
-        @include md {
-            text-shadow: -2px 2px #AA8500;
-        }
-    }
+    //     @include md {
+    //         text-shadow: -2px 2px #AA8500;
+    //     }
+    // }
 
     @include md {
         font-size: 39px;
