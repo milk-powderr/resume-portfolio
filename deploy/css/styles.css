@@ -2450,20 +2450,26 @@ h1, h2, h3, h4, h5, h6 {
   color: #AA8500;
 }
 .paragraph11 {
-  font-size: 25px;
+  font-size: 20px;
   font-weight: 300;
   padding-left: 1.5px;
   padding-top: 12px;
+}
+@media (min-width: 768px) {
+  .paragraph11 {
+    font-size: 25px;
+  }
+}
+@media (min-width: 992px) {
+  .paragraph11 {
+    font-size: 20px;
+  }
 }
 
 .iconsp {
   display: flex;
   flex-direction: row;
   padding-left: 2px;
-}
-
-.linkedinp {
-  padding-left: 2.5px;
 }
 
 .email-logop {
@@ -2515,8 +2521,6 @@ hr {
 
 .education-title {
   font-size: 27px;
-  font-weight: 400;
-  color: #AA8500;
   padding-left: 1.5px;
   padding-bottom: 10px;
 }

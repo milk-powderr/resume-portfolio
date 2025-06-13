@@ -75,20 +75,23 @@
 }
 
 .paragraph11 {
-    font-size: 25px;
+    font-size: 20px;
     font-weight: 300;
     padding-left: 1.5px;
     padding-top: 12px;
+
+        @include md {
+        font-size: 25px;
+    }
+            @include lg {
+        font-size: 20px;
+    }
 }
 
 .iconsp {
     display: flex;
     flex-direction: row;
     padding-left: 2px;
-}
-
-.linkedinp {
-    padding-left: 2.5px;
 }
 
 .email-logop {
@@ -138,9 +141,6 @@ hr {
 
 .education-title {
     font-size: 27px;
-    font-weight: 400;
-    color: #AA8500;
-  
     padding-left: 1.5px;
     padding-bottom: 10px;
 }
