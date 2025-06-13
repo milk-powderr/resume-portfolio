@@ -338,7 +338,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .new_page-block {
-  font-family: "Alumni Sans", sans-serif;
+  font-family: "Roboto", sans-serif;
   display: flex;
   margin-right: 9px;
 }
@@ -351,11 +351,11 @@ h1, h2, h3, h4, h5, h6 {
   flex-direction: row;
 }
 .new_page1:hover {
-  text-shadow: -1px 1px #FFC700;
+  text-shadow: -1px 1px #AA8500;
 }
 @media (min-width: 768px) {
   .new_page1:hover {
-    text-shadow: -2px 2px #FFC700;
+    text-shadow: -2px 2px #AA8500;
   }
 }
 @media (min-width: 768px) {
@@ -371,11 +371,11 @@ h1, h2, h3, h4, h5, h6 {
   flex-direction: row;
 }
 .new_page2:hover {
-  text-shadow: -1px 1px #FFC700;
+  text-shadow: -1px 1px #AA8500;
 }
 @media (min-width: 768px) {
   .new_page2:hover {
-    text-shadow: -2px 2px #FFC700;
+    text-shadow: -2px 2px #AA8500;
   }
 }
 @media (min-width: 768px) {
@@ -390,11 +390,11 @@ h1, h2, h3, h4, h5, h6 {
   flex-direction: row;
 }
 .new_page3:hover {
-  text-shadow: -1px 1px #FFC700;
+  text-shadow: -1px 1px #AA8500;
 }
 @media (min-width: 768px) {
   .new_page3:hover {
-    text-shadow: -2px 2px #FFC700;
+    text-shadow: -2px 2px #AA8500;
   }
 }
 @media (min-width: 768px) {
