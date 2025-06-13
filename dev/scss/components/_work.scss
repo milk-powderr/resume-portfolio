@@ -57,12 +57,20 @@
 
 .magazine-title {
     padding-top: 20px;
+    font-size: 40px;
+    font-weight: 400;
+
+        @include md {
     font-size: 50px;
-    font-weight: 500;
+    }
 }
 
 .magazine-title-2-new {
+    font-size: 30px;
+
+        @include md {
     font-size: 40px;
+    }
 }
 
 .oreo_panel {

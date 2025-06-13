@@ -461,12 +461,22 @@ h1, h2, h3, h4, h5, h6 {
 
 .magazine-title {
   padding-top: 20px;
-  font-size: 50px;
-  font-weight: 500;
+  font-size: 40px;
+  font-weight: 400;
+}
+@media (min-width: 768px) {
+  .magazine-title {
+    font-size: 50px;
+  }
 }
 
 .magazine-title-2-new {
-  font-size: 40px;
+  font-size: 30px;
+}
+@media (min-width: 768px) {
+  .magazine-title-2-new {
+    font-size: 40px;
+  }
 }
 
 .oreo_panel {
