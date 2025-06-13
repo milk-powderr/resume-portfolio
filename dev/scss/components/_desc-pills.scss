@@ -56,6 +56,11 @@
     @include md {
         width: 740px;
     font-size: 30px;
+    font-weight: 350;
+    }
+
+        @include lg {
+    font-weight: 340;
     }
 }
 
