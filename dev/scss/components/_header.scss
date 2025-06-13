@@ -5,9 +5,10 @@
     align-items: center;
     padding-bottom: 0px;
     justify-content: space-between;
-    margin-right: 50px;
+    padding-right: 15px;
 
     @include md {
+        margin-right: 50px;
         padding-top: 1%;
         padding-left: 26px;
     }
@@ -25,6 +26,11 @@
 	font-family: "Roboto", sans-serif;
     display: flex;
     margin-right: 9px;
+    // padding-left: 20px;
+
+    //     @include md {
+    //     padding-left: 0px;
+    // }
 }
 
 .new_page1 {
@@ -34,14 +40,14 @@
     padding-right: 40px;
     flex-direction: row;
 
-    &:hover {
+    // &:hover {
 
-        text-shadow: -1px 1px #AA8500;
+    //     text-shadow: -1px 1px #AA8500;
 
-        @include md {
-            text-shadow: -2px 2px #AA8500;
-        }
-    }
+    //     @include md {
+    //         text-shadow: -2px 2px #AA8500;
+    //     }
+    // }
 
     @include md {
         font-size: 39px;
@@ -58,14 +64,14 @@
     padding-right: 40px;
     flex-direction: row;
 
-    &:hover {
+    // &:hover {
 
-        text-shadow: -1px 1px #AA8500;
+    //     text-shadow: -1px 1px #AA8500;
 
-        @include md {
-            text-shadow: -2px 2px #AA8500;
-        }
-    }
+    //     @include md {
+    //         text-shadow: -2px 2px #AA8500;
+    //     }
+    // }
 
     @include md {
         font-size: 39px;

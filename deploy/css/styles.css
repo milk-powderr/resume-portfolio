@@ -319,10 +319,11 @@ h1, h2, h3, h4, h5, h6 {
   align-items: center;
   padding-bottom: 0px;
   justify-content: space-between;
-  margin-right: 50px;
+  padding-right: 15px;
 }
 @media (min-width: 768px) {
   .header {
+    margin-right: 50px;
     padding-top: 1%;
     padding-left: 26px;
   }
@@ -350,14 +351,6 @@ h1, h2, h3, h4, h5, h6 {
   padding-right: 40px;
   flex-direction: row;
 }
-.new_page1:hover {
-  text-shadow: -1px 1px #AA8500;
-}
-@media (min-width: 768px) {
-  .new_page1:hover {
-    text-shadow: -2px 2px #AA8500;
-  }
-}
 @media (min-width: 768px) {
   .new_page1 {
     font-size: 39px;
@@ -369,14 +362,6 @@ h1, h2, h3, h4, h5, h6 {
   text-decoration: none;
   padding-right: 40px;
   flex-direction: row;
-}
-.new_page2:hover {
-  text-shadow: -1px 1px #AA8500;
-}
-@media (min-width: 768px) {
-  .new_page2:hover {
-    text-shadow: -2px 2px #AA8500;
-  }
 }
 @media (min-width: 768px) {
   .new_page2 {
