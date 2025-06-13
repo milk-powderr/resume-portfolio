@@ -1,5 +1,4 @@
 .intro {
-  //  padding-left: 30px;
     font-size: 35px;
     font-weight: 250;
     width: 90%;
@@ -17,9 +16,4 @@
 
 #intro-name {
     color: #aa8500;
-   // text-shadow: -1px 1px #000000;
-
-    @include md {
-   //  
-    }
 }

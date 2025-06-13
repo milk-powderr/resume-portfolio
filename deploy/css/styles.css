@@ -400,6 +400,7 @@ h1, h2, h3, h4, h5, h6 {
 #intro-name {
   color: #aa8500;
 }
+
 .front-works {
   display: grid;
   grid-template-columns: repeat(1, 1fr);
@@ -2379,7 +2380,7 @@ hr {
 .footer_word {
   color: #000000;
   font-size: 22px;
-  font-family: "Alumni Sans", sans-serif;
+  font-family: "Roboto", sans-serif;
   animation: marquee 1.5s infinite linear;
   flex-shrink: 0;
 }
