@@ -616,7 +616,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .objective-body {
-  font-size: 30px;
+  font-size: 20px;
   color: #000000;
   list-style-type: none;
   width: 100%;
@@ -624,6 +624,7 @@ h1, h2, h3, h4, h5, h6 {
 @media (min-width: 768px) {
   .objective-body {
     width: 740px;
+    font-size: 30px;
   }
 }
 
@@ -1232,7 +1233,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .objective-body {
-  font-size: 30px;
+  font-size: 20px;
   color: #000000;
   list-style-type: none;
   width: 100%;
@@ -1240,6 +1241,7 @@ h1, h2, h3, h4, h5, h6 {
 @media (min-width: 768px) {
   .objective-body {
     width: 740px;
+    font-size: 30px;
   }
 }
 
