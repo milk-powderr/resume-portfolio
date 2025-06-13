@@ -41,13 +41,14 @@
 }
 
 .objective-body {
-    font-size: 30px;
+    font-size: 20px;
     color: #000000;
     list-style-type: none;
     width: 100%;
 
-    @include md{
-    width: 740px;   
+    @include md {
+        width: 740px;
+    font-size: 30px;
     }
 }
 
