@@ -2367,8 +2367,13 @@ hr {
   padding-left: 20px;
   padding-top: 30px;
   font-size: 20px;
-  width: 200px;
+  width: 214px;
   color: #6e6e6e;
+}
+
+.detail-mail {
+  list-style-type: none;
+  padding-left: 0px;
 }
 
 .icons {
@@ -2378,6 +2383,7 @@ hr {
 
 #copyright {
   font-size: 15px;
+  width: 220px;
 }
 
 .linkedin {
