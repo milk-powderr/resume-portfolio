@@ -1,6 +1,5 @@
 .details {
     padding-left: 20px;
-   // padding-bottom: 20px;
     padding-top: 30px;
     font-size: 20px;
     width: 214px;
@@ -8,9 +7,16 @@
 
 }
 
+.mail {
+        list-style-type: none;
+        padding-left: 0px;
+        text-decoration: none;
+}
+
 .detail-mail {
         list-style-type: none;
         padding-left: 0px;
+        text-decoration: none;
 }
 
 .icons {
@@ -20,7 +26,8 @@
 
 #copyright {
     font-size: 15px;
-        width: 220px;
+        width: 360px;
+        padding-top: 8px;
 }
 
 .linkedin {
@@ -34,11 +41,11 @@
 
 .insta-logo {
     width: 20px;
-    margin-right: 5px;
     margin-bottom: -5px;
 }
 
 .email-logo {
+    margin-right: 5px;
     width: 35px;
-    margin-top: -3.5px;
+    margin-top: -3px;
 }

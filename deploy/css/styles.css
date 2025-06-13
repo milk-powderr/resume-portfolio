@@ -2348,9 +2348,16 @@ hr {
   color: #6e6e6e;
 }
 
+.mail {
+  list-style-type: none;
+  padding-left: 0px;
+  text-decoration: none;
+}
+
 .detail-mail {
   list-style-type: none;
   padding-left: 0px;
+  text-decoration: none;
 }
 
 .icons {
@@ -2360,7 +2367,8 @@ hr {
 
 #copyright {
   font-size: 15px;
-  width: 220px;
+  width: 360px;
+  padding-top: 8px;
 }
 
 .linkedin {
@@ -2374,13 +2382,13 @@ hr {
 
 .insta-logo {
   width: 20px;
-  margin-right: 5px;
   margin-bottom: -5px;
 }
 
 .email-logo {
+  margin-right: 5px;
   width: 35px;
-  margin-top: -3.5px;
+  margin-top: -3px;
 }
 
 .footer-block {
