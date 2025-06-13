@@ -440,7 +440,7 @@ h1, h2, h3, h4, h5, h6 {
 .front-magazine-cover:hover {
   opacity: 1;
   transition: 0.3s ease;
-  background-color: rgba(255, 200, 0, 0.8078431373);
+  background-color: rgba(170, 133, 0, 0.862745098);
   width: 100%;
 }
 @media (min-width: 992px) {
