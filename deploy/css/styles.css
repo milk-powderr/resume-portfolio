@@ -789,6 +789,33 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
+.accord-image-web {
+  display: none;
+}
+@media (min-width: 992px) {
+  .accord-image-web {
+    display: block;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding-top: 40px;
+  }
+}
+
+.accord-image-mobile {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  padding-top: 40px;
+}
+@media (min-width: 992px) {
+  .accord-image-mobile {
+    display: none;
+  }
+}
+
 .back {
   width: 90%;
   padding-left: 30px;
