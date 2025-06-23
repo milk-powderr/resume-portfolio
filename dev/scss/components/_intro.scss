@@ -2,15 +2,16 @@
     font-size: 35px;
     font-weight: 370;
     width: 90%;
-    padding-left: 15px;
+    padding-left: 30px;
 
     @include md {
-        padding-left: 25px;
+        padding-left: 30px;
         font-size: 50px;
     }
 
     @include lg {
     font-size: 60px;
+    // padding-left: 110px;
 }
 }
 
