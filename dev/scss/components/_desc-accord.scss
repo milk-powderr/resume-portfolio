@@ -76,16 +76,40 @@
     }
 }
 
-.accord-new-pc {
+.accord-image-web {
+    display: none;
+
+    @include lg {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding-top: 40px;
+    }
+}
+
+.accord-image-mobile {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding-top: 40px;
+
+    @include md {
+        display: none;
+    }
+}
+
+.accord-new-web {
+        display: none;
+
+    @include md {
     width: 80%;
     margin-left: auto;
     margin-right: auto;
     display: block;
     padding-top: 85px;
     padding-bottom: 65px;
-
-    @include md {
-        width: 70%;
     }
 }
 

@@ -647,17 +647,43 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-.accord-new-pc {
-  width: 80%;
+.accord-image-web {
+  display: none;
+}
+@media (min-width: 992px) {
+  .accord-image-web {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding-top: 40px;
+  }
+}
+
+.accord-image-mobile {
+  width: 100%;
   margin-left: auto;
   margin-right: auto;
   display: block;
-  padding-top: 85px;
-  padding-bottom: 65px;
+  padding-top: 40px;
 }
 @media (min-width: 768px) {
-  .accord-new-pc {
-    width: 70%;
+  .accord-image-mobile {
+    display: none;
+  }
+}
+
+.accord-new-web {
+  display: none;
+}
+@media (min-width: 768px) {
+  .accord-new-web {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding-top: 85px;
+    padding-bottom: 65px;
   }
 }
 
