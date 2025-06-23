@@ -652,6 +652,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 @media (min-width: 992px) {
   .accord-image-web {
+    display: block;
     width: 100%;
     margin-left: auto;
     margin-right: auto;
@@ -667,23 +668,23 @@ h1, h2, h3, h4, h5, h6 {
   display: block;
   padding-top: 40px;
 }
-@media (min-width: 768px) {
+@media (min-width: 992px) {
   .accord-image-mobile {
     display: none;
   }
 }
 
-.accord-new-web {
-  display: none;
+.accord-new-pc {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  padding-top: 85px;
+  padding-bottom: 65px;
 }
 @media (min-width: 768px) {
-  .accord-new-web {
-    width: 80%;
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
-    padding-top: 85px;
-    padding-bottom: 65px;
+  .accord-new-pc {
+    width: 70%;
   }
 }
 
