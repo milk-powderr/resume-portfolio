@@ -1322,6 +1322,32 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/img\/chocolate-mobile-split.jpg" : {
+      "ft" : 16384,
+      "iS" : 1162472,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/chocolate-mobile-split.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/chocolate-web-split.jpg" : {
+      "ft" : 16384,
+      "iS" : 1160845,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/chocolate-web-split.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/img\/cit-elements.jpg" : {
       "ft" : 16384,
       "iS" : 997427,
@@ -1823,6 +1849,32 @@
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/cutlery-mobile-split.jpg" : {
+      "ft" : 16384,
+      "iS" : 954133,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/cutlery-mobile-split.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/cutlery-web-split.jpg" : {
+      "ft" : 16384,
+      "iS" : 1018868,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/cutlery-web-split.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
