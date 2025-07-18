@@ -501,7 +501,7 @@
     },
     "\/deploy\/img\/augment-new-4.jpg" : {
       "ft" : 16384,
-      "iS" : 2559383,
+      "iS" : 692371,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/augment-new-4.jpg",
@@ -1337,7 +1337,7 @@
     },
     "\/deploy\/img\/cans.jpg" : {
       "ft" : 16384,
-      "iS" : 5423782,
+      "iS" : 1089110,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/cans.jpg",
@@ -1579,7 +1579,7 @@
     },
     "\/deploy\/img\/crit-hit-cover.jpg" : {
       "ft" : 16384,
-      "iS" : 3507022,
+      "iS" : 1061841,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/crit-hit-cover.jpg",
@@ -1609,6 +1609,19 @@
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/crit-mock-2.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/crit-spread.jpg" : {
+      "ft" : 16384,
+      "iS" : 2035022,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/crit-spread.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -3481,7 +3494,7 @@
     },
     "\/deploy\/img\/spread-1.jpg" : {
       "ft" : 16384,
-      "iS" : 2842126,
+      "iS" : 647147,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/spread-1.jpg",
@@ -3494,7 +3507,7 @@
     },
     "\/deploy\/img\/spread-2.jpg" : {
       "ft" : 16384,
-      "iS" : 3003677,
+      "iS" : 744855,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/spread-2.jpg",
@@ -3507,7 +3520,7 @@
     },
     "\/deploy\/img\/spread-3.jpg" : {
       "ft" : 16384,
-      "iS" : 2790539,
+      "iS" : 966178,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/spread-3.jpg",
