@@ -241,7 +241,7 @@
     },
     "\/deploy\/img\/accord-cover.jpg" : {
       "ft" : 16384,
-      "iS" : 2998824,
+      "iS" : 1273496,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/accord-cover.jpg",
@@ -475,13 +475,13 @@
     },
     "\/deploy\/img\/augment-new-2.jpg" : {
       "ft" : 16384,
-      "iS" : 4755766,
+      "iS" : 1672519,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/augment-new-2.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 1,
+      "opt" : 0,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -2768,7 +2768,7 @@
     },
     "\/deploy\/img\/milk-bottle.jpg" : {
       "ft" : 16384,
-      "iS" : 5284239,
+      "iS" : 678173,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/milk-bottle.jpg",
