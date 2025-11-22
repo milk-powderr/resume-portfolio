@@ -2428,6 +2428,32 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/img\/initial_1.png" : {
+      "ft" : 32768,
+      "iS" : 125167,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/initial_1.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/initial_2.png" : {
+      "ft" : 32768,
+      "iS" : 358024,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/initial_2.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/img\/insta-logo.png" : {
       "ft" : 32768,
       "iS" : 29294,
@@ -3440,6 +3466,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/img\/signature.png" : {
+      "ft" : 32768,
+      "iS" : 546972,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/signature.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/img\/slap-cover.jpg" : {
       "ft" : 16384,
       "iS" : 845593,
@@ -3582,6 +3621,19 @@
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/u_game_2.jpg" : {
+      "ft" : 16384,
+      "iS" : 643353,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/u_game_2.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
