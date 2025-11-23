@@ -147,20 +147,36 @@ hr {
 .education-title {
     color: #f590a1;
     font-size: 25px;
+    font-weight: bold;
     padding-left: 1.5px;
-    padding-bottom: 10px;
+    padding-bottom: 5px;
+}
+
+.education-title-2 {
+    font-size: 18px;
+    font-weight: bold;
+    padding-left: 1.5px;
+    padding-bottom: 5px;
+    padding-top: 10px;
+}
+
+.packaging-title-2 {
+    font-size: 18px;
+    font-weight: bold;
+    padding-left: 1.5px;
+    padding-bottom: 5px;
 }
 
 .education-2 {
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 300;
     padding-left: 1.5px;
 }
 
 .education-3 {
-    font-size: 20px;
+        font-size: 18px;
     font-weight: 300;
-    padding-left: 1.5px;
+    padding-bottom: 5px;
 }
 
 .skills {
