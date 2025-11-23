@@ -2538,6 +2538,9 @@ h1, h2, h3, h4, h5, h6 {
   width: 30px;
   margin-bottom: -12px;
 }
+.email-logop:hover {
+  color: #f590a1;
+}
 
 .insta-logop {
   width: 20px;
@@ -2709,7 +2712,11 @@ hr {
 
 .linkedin-logo {
   width: 20px;
-  margin-bottom: -4.9px;
+  margin-bottom: -4px;
+}
+.linkedin-logo:hover {
+  transition: 0.3s ease;
+  filter: brightness(0) saturate(100%) invert(84%) sepia(21%) saturate(5134%) hue-rotate(302deg) brightness(99%) contrast(91%);
 }
 
 .insta-logo {
@@ -2721,6 +2728,10 @@ hr {
   margin-right: 5px;
   width: 35px;
   margin-top: -3px;
+}
+.email-logo:hover {
+  transition: 0.3s ease;
+  filter: brightness(0) saturate(100%) invert(84%) sepia(21%) saturate(5134%) hue-rotate(302deg) brightness(99%) contrast(91%);
 }
 
 .footer-block {

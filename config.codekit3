@@ -1765,6 +1765,19 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
+    "\/deploy\/img\/email-logo.png" : {
+      "ft" : 32768,
+      "iS" : 23018,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/email-logo.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/img\/email-logo.webp" : {
       "ft" : 8388608,
       "iS" : 21376,
@@ -2125,6 +2138,19 @@
       "oIPL" : 0,
       "opt" : 0,
       "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/deploy\/img\/linkedin-logo.png" : {
+      "ft" : 32768,
+      "iS" : 38423,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/linkedin-logo.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
       "rq" : 75
     },
     "\/deploy\/img\/linkedin-logo.webp" : {
