@@ -642,6 +642,117 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
+.citrus-image {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  padding-top: 40px;
+}
+@media (min-width: 768px) {
+  .citrus-image {
+    width: 90%;
+  }
+}
+
+.citrus-pack-image {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  padding-top: 40px;
+}
+@media (min-width: 768px) {
+  .citrus-pack-image {
+    width: 90%;
+  }
+}
+
+.accord-image {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  padding-top: 40px;
+}
+@media (min-width: 768px) {
+  .accord-image {
+    width: 70%;
+  }
+}
+
+.back {
+  width: 90%;
+  padding-left: 30px;
+}
+
+.project-title {
+  padding-top: 50px;
+  font-size: 40px;
+  font-weight: 450;
+  color: #AA8500;
+  list-style-type: none;
+}
+@media (min-width: 768px) {
+  .project-title {
+    font-size: 50px;
+  }
+}
+
+.project-class {
+  font-size: 30px;
+  color: #000000;
+  list-style-type: none;
+}
+@media (min-width: 768px) {
+  .project-class {
+    font-size: 40px;
+  }
+}
+
+.objective-1 {
+  padding-top: 50px;
+  font-size: 30px;
+  color: #000000;
+  list-style-type: none;
+}
+@media (min-width: 768px) {
+  .objective-1 {
+    font-size: 40px;
+  }
+}
+
+.objective-2 {
+  padding-top: 20px;
+  font-size: 30px;
+  color: #000000;
+  list-style-type: none;
+}
+@media (min-width: 768px) {
+  .objective-2 {
+    font-size: 40px;
+  }
+}
+
+.objective-body {
+  font-size: 20px;
+  color: #000000;
+  list-style-type: none;
+  width: 100%;
+}
+@media (min-width: 768px) {
+  .objective-body {
+    width: 740px;
+    font-size: 30px;
+    font-weight: 350;
+  }
+}
+@media (min-width: 992px) {
+  .objective-body {
+    font-weight: 340;
+  }
+}
+
 .accord-image {
   width: 80%;
   margin-left: auto;

@@ -109,6 +109,14 @@
       "oAP" : "\/deploy\/flushed-hall.html",
       "oF" : 0
     },
+    "\/deploy\/hello-kitty.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/hello-kitty.html",
+      "oF" : 0
+    },
     "\/deploy\/img\/1-color-logo.webp" : {
       "ft" : 8388608,
       "iS" : 100438,
@@ -3711,6 +3719,14 @@
       "oAP" : "\/dev\/components\/desc-flushed-hall.html",
       "oF" : 0
     },
+    "\/dev\/components\/desc-hello-kitty.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/desc-hello-kitty.html",
+      "oF" : 1
+    },
     "\/dev\/components\/desc-new-world-symphony.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -3861,6 +3877,14 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/flushed-hall.html",
+      "oF" : 2
+    },
+    "\/dev\/hello-kitty.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/hello-kitty.html",
       "oF" : 2
     },
     "\/dev\/helpers\/_mixins.scss" : {
@@ -4176,6 +4200,21 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/scss\/components\/_desc-flushed-hall.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/dev\/scss\/components\/_desc-hello-kitty.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_desc-hello-kitty.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
