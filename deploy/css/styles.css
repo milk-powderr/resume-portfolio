@@ -2505,6 +2505,7 @@ h1, h2, h3, h4, h5, h6 {
   .aboutintro {
     font-size: 60px;
     width: 80%;
+    padding-top: 14px;
   }
 }
 
