@@ -2505,7 +2505,7 @@ h1, h2, h3, h4, h5, h6 {
   .aboutintro {
     font-size: 60px;
     width: 80%;
-    padding-top: 14px;
+    padding-top: 75px;
   }
 }
 
@@ -2513,14 +2513,14 @@ h1, h2, h3, h4, h5, h6 {
   color: #f590a1;
 }
 .paragraph11 {
-  font-size: 20px;
+  font-size: 18px;
   font-weight: 300;
   padding-left: 1.5px;
   padding-top: 12px;
 }
 @media (min-width: 768px) {
   .paragraph11 {
-    font-size: 25px;
+    font-size: 20px;
   }
 }
 @media (min-width: 992px) {
