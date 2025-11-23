@@ -2539,7 +2539,8 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: -12px;
 }
 .email-logop:hover {
-  color: #f590a1;
+  transition: 0.3s ease;
+  filter: brightness(0) saturate(100%) invert(84%) sepia(21%) saturate(5134%) hue-rotate(302deg) brightness(99%) contrast(91%);
 }
 
 .insta-logop {

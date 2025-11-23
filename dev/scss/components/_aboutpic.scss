@@ -98,9 +98,9 @@
     width: 30px;
     margin-bottom: -12px;
 
-        &:hover {
-
-            color: #f590a1;
+    &:hover {
+    transition: .3s ease;
+    filter: brightness(0) saturate(100%) invert(84%) sepia(21%) saturate(5134%) hue-rotate(302deg) brightness(99%) contrast(91%);
     }
 }
 
