@@ -50,11 +50,10 @@
     font-size: 40px;
     padding-top: 16px;
     padding-left: 30px;
-    width: 80%;
+    width: 95%;
 
     @include md {
         font-size: 50px;
-        width: 90%;
         align-items: center;
         padding-top: 0px;
     }
