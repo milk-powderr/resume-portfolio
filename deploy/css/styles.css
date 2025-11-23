@@ -2675,6 +2675,12 @@ hr {
   }
 }
 
+.signature_pic {
+  padding-top: 30px;
+  width: 250px;
+  margin-bottom: -10px;
+}
+
 .details {
   padding-left: 20px;
   padding-top: 30px;
