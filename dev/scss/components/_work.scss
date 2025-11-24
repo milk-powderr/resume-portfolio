@@ -1,18 +1,16 @@
-.front-works {
-   display: grid;
-   grid-template-columns: repeat(1, 1fr);
-   grid-template-rows: 300px 300px 300px 300px 300px 
-   300px 300px 300px 1fr;
+.work-panels {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-template-rows: 300px 300px 300px 300px 300px 300px 300px 300px 1fr;
 
-   @include md {
-   grid-template-rows: 550px 550px 550px 550px 550px 
-   550px 550px 550px  1fr;
-   }
+    @include md {
+        grid-template-rows: 550px 550px 550px 550px 550px 550px 550px 550px 1fr;
+    }
 
     @include lg {
-    grid-template-columns: repeat(2, 1fr);
-    grid-template-rows: 550px 550px 550px 550px 1fr;
-}
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: 550px 550px 550px 550px 1fr;
+    }
 }
 
 .magazine_panel {
@@ -21,7 +19,7 @@
 
     @include md {
         height: 550px;
-        }
+    }
 }
 
 .front-magazine-cover {
@@ -38,11 +36,11 @@
     &:hover {
         opacity: 1;
         transition: .3s ease;
-        background-color: #f590a1a4;
+        background-color: #f590a1be;
         width: 100%;
 
         @include lg {
-        width: 50%;
+            width: 50%;
         }
     }
 
@@ -51,8 +49,8 @@
     }
 
     @include lg {
-    width: 50%;
-}
+        width: 50%;
+    }
 }
 
 .magazine-title {
@@ -60,16 +58,16 @@
     font-size: 40px;
     font-weight: 400;
 
-        @include md {
-    font-size: 50px;
+    @include md {
+        font-size: 50px;
     }
 }
 
 .magazine-title-2-new {
     font-size: 30px;
 
-        @include md {
-    font-size: 40px;
+    @include md {
+        font-size: 40px;
     }
 }
 
@@ -90,7 +88,7 @@
     object-fit: cover;
     z-index: -1;
 
-      @include md {
+    @include md {
         height: 550px;
     }
 }

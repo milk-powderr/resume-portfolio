@@ -409,18 +409,18 @@ h1, h2, h3, h4, h5, h6 {
   color: #f590a1;
 }
 
-.front-works {
+.work-panels {
   display: grid;
   grid-template-columns: repeat(1, 1fr);
   grid-template-rows: 300px 300px 300px 300px 300px 300px 300px 300px 1fr;
 }
 @media (min-width: 768px) {
-  .front-works {
+  .work-panels {
     grid-template-rows: 550px 550px 550px 550px 550px 550px 550px 550px 1fr;
   }
 }
 @media (min-width: 992px) {
-  .front-works {
+  .work-panels {
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: 550px 550px 550px 550px 1fr;
   }
@@ -449,7 +449,7 @@ h1, h2, h3, h4, h5, h6 {
 .front-magazine-cover:hover {
   opacity: 1;
   transition: 0.3s ease;
-  background-color: rgba(245, 144, 161, 0.6431372549);
+  background-color: rgba(245, 144, 161, 0.7450980392);
   width: 100%;
 }
 @media (min-width: 992px) {
@@ -2500,7 +2500,7 @@ h1, h2, h3, h4, h5, h6 {
 .play-magazine-cover:hover {
   opacity: 1;
   transition: 0.3s ease;
-  background-color: rgba(170, 133, 0, 0.862745098);
+  background-color: rgba(245, 144, 161, 0.7450980392);
   width: 100%;
 }
 @media (min-width: 992px) {
