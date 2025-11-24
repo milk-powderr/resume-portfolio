@@ -1,4 +1,4 @@
-.aboutstuff {
+.about-image-blurb {
 
     @include lg {
         display: grid;
@@ -11,37 +11,44 @@
 
     object-fit: cover;
     width: 350px;
+        padding-top: 80px;
+    margin-left: 30px;
 
     @include md {
         width: 450px;
         float: none;
         align-items: center;
         justify-content: center;
-    }
-
-    @include lg {
-        width: 500px;
-        float: right;
-
-    }
-}
-
-.selfie-div {
-
-    padding-top: 80px;
-    margin-left: 30px;
-
-    @include md {
-        align-items: center;
+                align-items: center;
         justify-content: center;
         margin-left: 30px;
     }
 
     @include lg {
-        padding-top: 150px;
+        width: 500px;
+        float: right;
+                padding-top: 150px;
         margin-left: 110px;
+
     }
 }
+
+// .selfie-div {
+
+//     padding-top: 80px;
+//     margin-left: 30px;
+
+//     @include md {
+//         align-items: center;
+//         justify-content: center;
+//         margin-left: 30px;
+//     }
+
+//     @include lg {
+//         padding-top: 150px;
+//         margin-left: 110px;
+//     }
+// }
 
 .aboutintro {
 
@@ -88,15 +95,16 @@
     }
 }
 
-.iconsp {
+.about-icons {
     display: flex;
     flex-direction: row;
     padding-left: 2px;
 }
 
 .email-logop {
-    width: 30px;
+    width: 35px;
     margin-bottom: -12px;
+    margin-right: 10px;
 
     &:hover {
     transition: .3s ease;

@@ -2501,7 +2501,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 @media (min-width: 992px) {
-  .aboutstuff {
+  .about-image-blurb {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     padding-bottom: 30px;
@@ -2511,6 +2511,8 @@ h1, h2, h3, h4, h5, h6 {
 .selfie {
   object-fit: cover;
   width: 350px;
+  padding-top: 80px;
+  margin-left: 30px;
 }
 @media (min-width: 768px) {
   .selfie {
@@ -2518,28 +2520,15 @@ h1, h2, h3, h4, h5, h6 {
     float: none;
     align-items: center;
     justify-content: center;
-  }
-}
-@media (min-width: 992px) {
-  .selfie {
-    width: 500px;
-    float: right;
-  }
-}
-
-.selfie-div {
-  padding-top: 80px;
-  margin-left: 30px;
-}
-@media (min-width: 768px) {
-  .selfie-div {
     align-items: center;
     justify-content: center;
     margin-left: 30px;
   }
 }
 @media (min-width: 992px) {
-  .selfie-div {
+  .selfie {
+    width: 500px;
+    float: right;
     padding-top: 150px;
     margin-left: 110px;
   }
@@ -2588,15 +2577,16 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-.iconsp {
+.about-icons {
   display: flex;
   flex-direction: row;
   padding-left: 2px;
 }
 
 .email-logop {
-  width: 30px;
+  width: 35px;
   margin-bottom: -12px;
+  margin-right: 10px;
 }
 .email-logop:hover {
   transition: 0.3s ease;
@@ -2796,7 +2786,7 @@ hr {
 
 .linkedin-logo {
   width: 20px;
-  margin-bottom: -4px;
+  margin-bottom: -3px;
 }
 .linkedin-logo:hover {
   transition: 0.3s ease;
@@ -2811,7 +2801,8 @@ hr {
 .email-logo {
   margin-right: 5px;
   width: 35px;
-  margin-top: -3px;
+  margin-top: -3.5px;
+  margin-right: 10px;
 }
 .email-logo:hover {
   transition: 0.3s ease;
