@@ -2033,38 +2033,38 @@
       "oAP" : "\/deploy\/img\/heart.mov",
       "oF" : 0
     },
-    "\/deploy\/img\/initial_1.ico" : {
+    "\/deploy\/img\/initial-1.ico" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/initial_1.ico",
+      "oAP" : "\/deploy\/img\/initial-1.ico",
       "oF" : 0
     },
-    "\/deploy\/img\/initial_1.webp" : {
+    "\/deploy\/img\/initial-1.webp" : {
       "ft" : 8388608,
       "iS" : 43822,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/initial_1.webp",
+      "oAP" : "\/deploy\/img\/initial-1.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/deploy\/img\/initial_2.ico" : {
+    "\/deploy\/img\/initial-2.ico" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/initial_2.ico",
+      "oAP" : "\/deploy\/img\/initial-2.ico",
       "oF" : 0
     },
-    "\/deploy\/img\/initial_2.webp" : {
+    "\/deploy\/img\/initial-2.webp" : {
       "ft" : 8388608,
       "iS" : 121068,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/initial_2.webp",
+      "oAP" : "\/deploy\/img\/initial-2.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -3051,363 +3051,363 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/deploy\/img\/u_easter_1.webp" : {
+    "\/deploy\/img\/u-easter-1.webp" : {
       "ft" : 8388608,
       "iS" : 360270,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/u_easter_1.webp",
+      "oAP" : "\/deploy\/img\/u-easter-1.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/deploy\/img\/u_easter_2.webp" : {
+    "\/deploy\/img\/u-easter-2.webp" : {
       "ft" : 8388608,
       "iS" : 107452,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/u_easter_2.webp",
+      "oAP" : "\/deploy\/img\/u-easter-2.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/deploy\/img\/u_easter_3.webp" : {
+    "\/deploy\/img\/u-easter-3.webp" : {
       "ft" : 8388608,
       "iS" : 271474,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/u_easter_3.webp",
+      "oAP" : "\/deploy\/img\/u-easter-3.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/deploy\/img\/u_easter_4.webp" : {
+    "\/deploy\/img\/u-easter-4.webp" : {
       "ft" : 8388608,
       "iS" : 541168,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/u_easter_4.webp",
+      "oAP" : "\/deploy\/img\/u-easter-4.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/deploy\/img\/u_easter_5.webp" : {
+    "\/deploy\/img\/u-easter-5.webp" : {
       "ft" : 8388608,
       "iS" : 438182,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/u_easter_5.webp",
+      "oAP" : "\/deploy\/img\/u-easter-5.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/deploy\/img\/u_easter_6.webp" : {
+    "\/deploy\/img\/u-easter-6.webp" : {
       "ft" : 8388608,
       "iS" : 125554,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/u_easter_6.webp",
+      "oAP" : "\/deploy\/img\/u-easter-6.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/deploy\/img\/u_easter_cover_1.webp" : {
+    "\/deploy\/img\/u-easter-cover-1.webp" : {
       "ft" : 8388608,
       "iS" : 354970,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/u_easter_cover_1.webp",
+      "oAP" : "\/deploy\/img\/u-easter-cover-1.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/deploy\/img\/u_easter_cover_2.webp" : {
+    "\/deploy\/img\/u-easter-cover-2.webp" : {
       "ft" : 8388608,
       "iS" : 736406,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/u_easter_cover_2.webp",
+      "oAP" : "\/deploy\/img\/u-easter-cover-2.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/deploy\/img\/u_game_1.webp" : {
+    "\/deploy\/img\/u-game-1.webp" : {
       "ft" : 8388608,
       "iS" : 577564,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/u_game_1.webp",
+      "oAP" : "\/deploy\/img\/u-game-1.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/deploy\/img\/u_game_2.webp" : {
+    "\/deploy\/img\/u-game-2.webp" : {
       "ft" : 8388608,
       "iS" : 504192,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/u_game_2.webp",
+      "oAP" : "\/deploy\/img\/u-game-2.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/deploy\/img\/u_game_cover_1.webp" : {
+    "\/deploy\/img\/u-game-cover-1.webp" : {
       "ft" : 8388608,
       "iS" : 464988,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/u_game_cover_1.webp",
+      "oAP" : "\/deploy\/img\/u-game-cover-1.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/deploy\/img\/u_game_cover_2.webp" : {
+    "\/deploy\/img\/u-game-cover-2.webp" : {
       "ft" : 8388608,
       "iS" : 263556,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/u_game_cover_2.webp",
+      "oAP" : "\/deploy\/img\/u-game-cover-2.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/deploy\/img\/u_grad_1.webp" : {
+    "\/deploy\/img\/u-grad-1.webp" : {
       "ft" : 8388608,
       "iS" : 704184,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/u_grad_1.webp",
+      "oAP" : "\/deploy\/img\/u-grad-1.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/deploy\/img\/u_grad_2.webp" : {
+    "\/deploy\/img\/u-grad-2.webp" : {
       "ft" : 8388608,
       "iS" : 747332,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/u_grad_2.webp",
+      "oAP" : "\/deploy\/img\/u-grad-2.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/deploy\/img\/u_grad_cover.webp" : {
+    "\/deploy\/img\/u-grad-cover.webp" : {
       "ft" : 8388608,
       "iS" : 472262,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/u_grad_cover.webp",
+      "oAP" : "\/deploy\/img\/u-grad-cover.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/deploy\/img\/u_halloween.webp" : {
+    "\/deploy\/img\/u-halloween.webp" : {
       "ft" : 8388608,
       "iS" : 504284,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/u_halloween.webp",
+      "oAP" : "\/deploy\/img\/u-halloween.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/deploy\/img\/u_hbd_cover.webp" : {
+    "\/deploy\/img\/u-hbd-cover.webp" : {
       "ft" : 8388608,
       "iS" : 484764,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/u_hbd_cover.webp",
+      "oAP" : "\/deploy\/img\/u-hbd-cover.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/deploy\/img\/u_hbd.webp" : {
+    "\/deploy\/img\/u-hbd.webp" : {
       "ft" : 8388608,
       "iS" : 857070,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/u_hbd.webp",
+      "oAP" : "\/deploy\/img\/u-hbd.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/deploy\/img\/u_hk_1.webp" : {
+    "\/deploy\/img\/u-hk-1.webp" : {
       "ft" : 8388608,
       "iS" : 553708,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/u_hk_1.webp",
+      "oAP" : "\/deploy\/img\/u-hk-1.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/deploy\/img\/u_hk_2.webp" : {
+    "\/deploy\/img\/u-hk-2.webp" : {
       "ft" : 8388608,
       "iS" : 499336,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/u_hk_2.webp",
+      "oAP" : "\/deploy\/img\/u-hk-2.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/deploy\/img\/u_love_1.webp" : {
+    "\/deploy\/img\/u-love-1.webp" : {
       "ft" : 8388608,
       "iS" : 388578,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/u_love_1.webp",
+      "oAP" : "\/deploy\/img\/u-love-1.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/deploy\/img\/u_love_2.webp" : {
+    "\/deploy\/img\/u-love-2.webp" : {
       "ft" : 8388608,
       "iS" : 265394,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/u_love_2.webp",
+      "oAP" : "\/deploy\/img\/u-love-2.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/deploy\/img\/u_love_3.webp" : {
+    "\/deploy\/img\/u-love-3.webp" : {
       "ft" : 8388608,
       "iS" : 399108,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/u_love_3.webp",
+      "oAP" : "\/deploy\/img\/u-love-3.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/deploy\/img\/u_love_4.webp" : {
+    "\/deploy\/img\/u-love-4.webp" : {
       "ft" : 8388608,
       "iS" : 428276,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/u_love_4.webp",
+      "oAP" : "\/deploy\/img\/u-love-4.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/deploy\/img\/u_love_5.webp" : {
+    "\/deploy\/img\/u-love-5.webp" : {
       "ft" : 8388608,
       "iS" : 119504,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/u_love_5.webp",
+      "oAP" : "\/deploy\/img\/u-love-5.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/deploy\/img\/u_love_6.webp" : {
+    "\/deploy\/img\/u-love-6.webp" : {
       "ft" : 8388608,
       "iS" : 94508,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/u_love_6.webp",
+      "oAP" : "\/deploy\/img\/u-love-6.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/deploy\/img\/u_love_cover_1.webp" : {
+    "\/deploy\/img\/u-love-cover-1.webp" : {
       "ft" : 8388608,
       "iS" : 256492,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/u_love_cover_1.webp",
+      "oAP" : "\/deploy\/img\/u-love-cover-1.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/deploy\/img\/u_love_cover_2.webp" : {
+    "\/deploy\/img\/u-love-cover-2.webp" : {
       "ft" : 8388608,
       "iS" : 205810,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/u_love_cover_2.webp",
+      "oAP" : "\/deploy\/img\/u-love-cover-2.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/deploy\/img\/u_usa_1.webp" : {
+    "\/deploy\/img\/u-usa-1.webp" : {
       "ft" : 8388608,
       "iS" : 350296,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/u_usa_1.webp",
+      "oAP" : "\/deploy\/img\/u-usa-1.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/deploy\/img\/u_usa_cover.webp" : {
+    "\/deploy\/img\/u-usa-cover.webp" : {
       "ft" : 8388608,
       "iS" : 829400,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/u_usa_cover.webp",
+      "oAP" : "\/deploy\/img\/u-usa-cover.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/deploy\/img\/u_winter_1.webp" : {
+    "\/deploy\/img\/u-winter-1.webp" : {
       "ft" : 8388608,
       "iS" : 611558,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/u_winter_1.webp",
+      "oAP" : "\/deploy\/img\/u-winter-1.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/deploy\/img\/u_winter_2.webp" : {
+    "\/deploy\/img\/u-winter-2.webp" : {
       "ft" : 8388608,
       "iS" : 784262,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/u_winter_2.webp",
+      "oAP" : "\/deploy\/img\/u-winter-2.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/deploy\/img\/u_winter_cover_1.webp" : {
+    "\/deploy\/img\/u-winter-cover-1.webp" : {
       "ft" : 8388608,
       "iS" : 544580,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/u_winter_cover_1.webp",
+      "oAP" : "\/deploy\/img\/u-winter-cover-1.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -3436,12 +3436,12 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/deploy\/img\/Week10_FINAL_Brand Presentation 4.pdf" : {
+    "\/deploy\/img\/Week10-FINAL-Brand Presentation 4.pdf" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/Week10_FINAL_Brand Presentation 4.pdf",
+      "oAP" : "\/deploy\/img\/Week10-FINAL-Brand Presentation 4.pdf",
       "oF" : 0
     },
     "\/deploy\/img\/wonderfilled-design-guidelines.pdf" : {
