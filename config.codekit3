@@ -3639,12 +3639,12 @@
       "oAP" : "\/deploy\/bread.html",
       "oF" : 2
     },
-    "\/dev\/components\/aboutpic.kit" : {
+    "\/dev\/components\/about.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/components\/aboutpic.html",
+      "oA" : 0,
+      "oAP" : "\/dev\/components\/about.html",
       "oF" : 0
     },
     "\/dev\/components\/accord.kit" : {
@@ -3671,124 +3671,28 @@
       "oAP" : "\/dev\/components\/bartram.html",
       "oF" : 0
     },
-    "\/dev\/components\/desc-bread.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/components\/desc-bread.html",
-      "oF" : 0
-    },
-    "\/dev\/components\/desc-crit-hit.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/components\/desc-crit-hit.html",
-      "oF" : 0
-    },
-    "\/dev\/components\/desc-crsm.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/components\/desc-crsm.html",
-      "oF" : 0
-    },
-    "\/dev\/components\/desc-emmelina.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/components\/desc-emmelina.html",
-      "oF" : 0
-    },
-    "\/dev\/components\/desc-exhibition.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/components\/desc-exhibition.html",
-      "oF" : 0
-    },
-    "\/dev\/components\/desc-flushed-hall.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/components\/desc-flushed-hall.html",
-      "oF" : 0
-    },
-    "\/dev\/components\/desc-hello-kitty.kit" : {
+    "\/dev\/components\/bread.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/components\/desc-hello-kitty.html",
-      "oF" : 1
-    },
-    "\/dev\/components\/desc-new-world-symphony.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/components\/desc-new-world-symphony.html",
+      "oAP" : "\/dev\/components\/bread.html",
       "oF" : 0
     },
-    "\/dev\/components\/desc-piece-of-cake.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/components\/desc-piece-of-cake.html",
-      "oF" : 0
-    },
-    "\/dev\/components\/desc-pills.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/components\/desc-pills.html",
-      "oF" : 0
-    },
-    "\/dev\/components\/desc-rilke.kit" : {
+    "\/dev\/components\/crit-hit.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/components\/desc-rilke.html",
-      "oF" : 1
-    },
-    "\/dev\/components\/desc-sanrio.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/components\/desc-sanrio.html",
+      "oAP" : "\/dev\/components\/crit-hit.html",
       "oF" : 0
     },
-    "\/dev\/components\/desc-slap.kit" : {
+    "\/dev\/components\/crsm.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/components\/desc-slap.html",
-      "oF" : 1
-    },
-    "\/dev\/components\/desc-warmers.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/components\/desc-warmers.html",
-      "oF" : 0
-    },
-    "\/dev\/components\/desc-wonderfilled.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/components\/desc-wonderfilled.html",
+      "oAP" : "\/dev\/components\/crsm.html",
       "oF" : 0
     },
     "\/dev\/components\/details.kit" : {
@@ -3797,6 +3701,30 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/components\/details.html",
+      "oF" : 0
+    },
+    "\/dev\/components\/emmelina.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/emmelina.html",
+      "oF" : 0
+    },
+    "\/dev\/components\/exhibition.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/exhibition.html",
+      "oF" : 0
+    },
+    "\/dev\/components\/flushed-hall.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/flushed-hall.html",
       "oF" : 0
     },
     "\/dev\/components\/footer.kit" : {
@@ -3815,12 +3743,44 @@
       "oAP" : "\/dev\/components\/header.html",
       "oF" : 1
     },
+    "\/dev\/components\/hello-kitty.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/hello-kitty.html",
+      "oF" : 1
+    },
     "\/dev\/components\/intro.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/components\/intro.html",
+      "oF" : 0
+    },
+    "\/dev\/components\/new-world-symphony.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/new-world-symphony.html",
+      "oF" : 0
+    },
+    "\/dev\/components\/piece-of-cake.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/piece-of-cake.html",
+      "oF" : 0
+    },
+    "\/dev\/components\/pills.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/pills.html",
       "oF" : 0
     },
     "\/dev\/components\/play.kit" : {
@@ -3830,6 +3790,46 @@
       "oA" : 1,
       "oAP" : "\/dev\/components\/play.html",
       "oF" : 1
+    },
+    "\/dev\/components\/rilke.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/rilke.html",
+      "oF" : 1
+    },
+    "\/dev\/components\/sanrio.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/sanrio.html",
+      "oF" : 0
+    },
+    "\/dev\/components\/slap.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/slap.html",
+      "oF" : 1
+    },
+    "\/dev\/components\/warmers.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/warmers.html",
+      "oF" : 0
+    },
+    "\/dev\/components\/wonderfilled.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/wonderfilled.html",
+      "oF" : 0
     },
     "\/dev\/components\/work.kit" : {
       "cB" : 0,
@@ -4032,7 +4032,7 @@
       "pg" : 0,
       "sct" : 0
     },
-    "\/dev\/scss\/components\/_aboutpic.scss" : {
+    "\/dev\/scss\/components\/_about.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -4041,7 +4041,7 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/scss\/components\/_aboutpic.css",
+      "oAP" : "\/dev\/scss\/components\/_about.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
