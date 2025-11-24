@@ -499,14 +499,14 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-.oreo-cover-panel {
+.slap-cover-vid {
   width: 100%;
   height: 300px;
   object-fit: cover;
   z-index: -1;
 }
 @media (min-width: 768px) {
-  .oreo-cover-panel {
+  .slap-cover-vid {
     height: 550px;
   }
 }
