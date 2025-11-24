@@ -436,7 +436,7 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-.work-cover-text {
+.work-cover-titles {
   width: 100%;
   position: absolute;
   z-index: 2;
@@ -446,55 +446,55 @@ h1, h2, h3, h4, h5, h6 {
   color: #ffffff;
   height: 300px;
 }
-.work-cover-text:hover {
+.work-cover-titles:hover {
   opacity: 1;
   transition: 0.3s ease;
   background-color: rgba(245, 144, 161, 0.7450980392);
   width: 100%;
 }
 @media (min-width: 992px) {
-  .work-cover-text:hover {
+  .work-cover-titles:hover {
     width: 50%;
   }
 }
 @media (min-width: 768px) {
-  .work-cover-text {
+  .work-cover-titles {
     height: 550px;
   }
 }
 @media (min-width: 992px) {
-  .work-cover-text {
+  .work-cover-titles {
     width: 50%;
   }
 }
 
-.magazine-title {
+.work-cover-title-1 {
   padding-top: 20px;
   font-size: 40px;
   font-weight: 400;
 }
 @media (min-width: 768px) {
-  .magazine-title {
+  .work-cover-title-1 {
     font-size: 50px;
   }
 }
 
-.magazine-title-2-new {
+.work-cover-title-2 {
   font-size: 30px;
 }
 @media (min-width: 768px) {
-  .magazine-title-2-new {
+  .work-cover-title-2 {
     font-size: 40px;
   }
 }
 
-.oreo_panel {
+.work-cover-image {
   width: 100%;
   object-fit: cover;
   height: 300px;
 }
 @media (min-width: 768px) {
-  .oreo_panel {
+  .work-cover-image {
     height: 550px;
   }
 }
@@ -2519,7 +2519,7 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-.magazine-title {
+.work-cover-title-1 {
   padding-top: 20px;
   font-size: 50px;
   font-weight: 500;
@@ -2547,7 +2547,7 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-.magazine-title-2 {
+.work-cover-title-1-2 {
   font-size: 40px;
 }
 
