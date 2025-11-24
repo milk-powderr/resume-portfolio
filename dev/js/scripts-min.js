@@ -1,1 +1,1 @@
-var tl=new TimelineMax({paused:!0});function doCoolStuff(){tl.isActive()||tl.play(0)}tl.to(".work-panel",2,{rotation:360,ease:Power2.easeInOut}),document.querySelector(".work-panel").addEventListener("mouseenter",doCoolStuff);
+var tl=new TimelineMax({paused:!0});function doCoolStuff(){tl.isActive()||tl.play(0)}tl.to(".work-cover",2,{rotation:360,ease:Power2.easeInOut}),document.querySelector(".work-cover").addEventListener("mouseenter",doCoolStuff);
