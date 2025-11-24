@@ -426,16 +426,6 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-.magazine_panel {
-  width: 100%;
-  object-fit: cover;
-}
-@media (min-width: 768px) {
-  .magazine_panel {
-    height: 550px;
-  }
-}
-
 .work-cover-titles {
   width: 100%;
   position: absolute;
@@ -507,47 +497,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 @media (min-width: 768px) {
   .work-cover-vid {
-    height: 550px;
-  }
-}
-
-.bartram_panel {
-  width: 100%;
-  object-fit: cover;
-  height: 550px;
-}
-
-.cake_panel {
-  width: 100%;
-  object-fit: cover;
-  height: 550px;
-}
-
-.cake-menu_panel {
-  width: 100%;
-  object-fit: cover;
-  height: 550px;
-}
-
-.emmelina_panel {
-  width: 100%;
-  object-fit: cover;
-  height: 550px;
-}
-
-.bread_panel {
-  width: 100%;
-  object-fit: cover;
-  height: 550px;
-}
-
-.exhibition_panel {
-  width: 100%;
-  object-fit: cover;
-  height: 300px;
-}
-@media (min-width: 768px) {
-  .exhibition_panel {
     height: 550px;
   }
 }

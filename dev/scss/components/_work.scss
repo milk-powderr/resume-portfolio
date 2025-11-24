@@ -13,15 +13,6 @@
     }
 }
 
-.magazine_panel {
-    width: 100%;
-    object-fit: cover;
-
-    @include md {
-        height: 550px;
-    }
-}
-
 .work-cover-titles {
     width: 100%;
     position: absolute;
@@ -31,7 +22,6 @@
     margin-top: 0px;
     color: #ffffff;
     height: 300px;
-
 
     &:hover {
         opacity: 1;
@@ -87,46 +77,6 @@
     height: 300px;
     object-fit: cover;
     z-index: -1;
-
-    @include md {
-        height: 550px;
-    }
-}
-
-.bartram_panel {
-    width: 100%;
-    object-fit: cover;
-    height: 550px;
-}
-
-.cake_panel {
-    width: 100%;
-    object-fit: cover;
-    height: 550px;
-}
-
-.cake-menu_panel {
-    width: 100%;
-    object-fit: cover;
-    height: 550px;
-}
-
-.emmelina_panel {
-    width: 100%;
-    object-fit: cover;
-    height: 550px;
-}
-
-.bread_panel {
-    width: 100%;
-    object-fit: cover;
-    height: 550px;
-}
-
-.exhibition_panel {
-    width: 100%;
-    object-fit: cover;
-    height: 300px;
 
     @include md {
         height: 550px;
