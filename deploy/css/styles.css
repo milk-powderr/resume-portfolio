@@ -436,7 +436,7 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-.front-magazine-cover {
+.work-cover-text {
   width: 100%;
   position: absolute;
   z-index: 2;
@@ -446,24 +446,24 @@ h1, h2, h3, h4, h5, h6 {
   color: #ffffff;
   height: 300px;
 }
-.front-magazine-cover:hover {
+.work-cover-text:hover {
   opacity: 1;
   transition: 0.3s ease;
   background-color: rgba(245, 144, 161, 0.7450980392);
   width: 100%;
 }
 @media (min-width: 992px) {
-  .front-magazine-cover:hover {
+  .work-cover-text:hover {
     width: 50%;
   }
 }
 @media (min-width: 768px) {
-  .front-magazine-cover {
+  .work-cover-text {
     height: 550px;
   }
 }
 @media (min-width: 992px) {
-  .front-magazine-cover {
+  .work-cover-text {
     width: 50%;
   }
 }
