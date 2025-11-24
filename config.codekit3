@@ -3647,28 +3647,28 @@
       "oAP" : "\/dev\/components\/aboutpic.html",
       "oF" : 0
     },
-    "\/dev\/components\/desc-accord.kit" : {
+    "\/dev\/components\/accord.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/components\/desc-accord.html",
+      "oAP" : "\/dev\/components\/accord.html",
       "oF" : 1
     },
-    "\/dev\/components\/desc-augment.kit" : {
+    "\/dev\/components\/augment.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/components\/desc-augment.html",
+      "oAP" : "\/dev\/components\/augment.html",
       "oF" : 1
     },
-    "\/dev\/components\/desc-bartram.kit" : {
+    "\/dev\/components\/bartram.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/components\/desc-bartram.html",
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/bartram.html",
       "oF" : 0
     },
     "\/dev\/components\/desc-bread.kit" : {
