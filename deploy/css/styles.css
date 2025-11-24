@@ -499,14 +499,14 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-.slap-cover-vid {
+.work-cover-vid {
   width: 100%;
   height: 300px;
   object-fit: cover;
   z-index: -1;
 }
 @media (min-width: 768px) {
-  .slap-cover-vid {
+  .work-cover-vid {
     height: 550px;
   }
 }
@@ -552,7 +552,7 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-.augment_pack {
+.work-cover {
   width: 100%;
   object-fit: cover;
   height: 550px;
@@ -564,7 +564,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 550px;
 }
 
-.accord_panel {
+.work-cover {
   width: 100%;
   object-fit: cover;
   height: 550px;
