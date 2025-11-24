@@ -3452,6 +3452,14 @@
       "oAP" : "\/deploy\/img\/wonderfilled-design-guidelines.pdf",
       "oF" : 0
     },
+    "\/deploy\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/index.html",
+      "oF" : 0
+    },
     "\/deploy\/js\/scripts-min-min.js" : {
       "bF" : 0,
       "ft" : 64,
@@ -3643,9 +3651,9 @@
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 0,
+      "oA" : 1,
       "oAP" : "\/dev\/components\/about.html",
-      "oF" : 0
+      "oF" : 1
     },
     "\/dev\/components\/accord.kit" : {
       "cB" : 0,
