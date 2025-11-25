@@ -1,22 +1,9 @@
-.details {
+.contact {
     padding-left: 20px;
     padding-top: 30px;
     font-size: 20px;
     width: 214px;
     color: #6e6e6e;
-
-}
-
-.mail {
-        list-style-type: none;
-        padding-left: 0px;
-        text-decoration: none;
-}
-
-.detail-mail {
-        list-style-type: none;
-        padding-left: 0px;
-        text-decoration: none;
 }
 
 .icons {
@@ -24,39 +11,6 @@
     flex-direction: row;
 }
 
-#copyright {
-    font-size: 15px;
-        width: 360px;
-        padding-top: 8px;
-}
-
 .linkedin {
     padding-right: 10px;
-}
-
-.linkedin-logo {
-    width: 20px;
-    margin-bottom: -3px;
-   
-    &:hover {
-    transition: .3s ease;
-    filter: brightness(0) saturate(100%) invert(84%) sepia(21%) saturate(5134%) hue-rotate(302deg) brightness(99%) contrast(91%);
-    }
-}
-
-.insta-logo {
-    width: 20px;
-    margin-bottom: -5px;
-}
-
-.email-logo {
-    margin-right: 5px;
-    width: 35px;
-    margin-top: -3.5px;
-    margin-right: 10px;
-
-    &:hover {
-    transition: .3s ease;
-    filter: brightness(0) saturate(100%) invert(84%) sepia(21%) saturate(5134%) hue-rotate(302deg) brightness(99%) contrast(91%);
-    }
 }

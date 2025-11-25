@@ -266,7 +266,7 @@ textarea {
 /*
  * Add the correct display in Edge, IE 10+, and Firefox.
  */
-details {
+contact {
   display: block;
 }
 
@@ -589,7 +589,7 @@ h1, h2, h3, h4, h5, h6 {
 @media (min-width: 992px) {
   .accord-dieline-web {
     display: block;
-    width: 100%;
+    width: 60%;
     margin-left: auto;
     margin-right: auto;
     display: block;
@@ -620,7 +620,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 @media (min-width: 768px) {
   .project-image-80-perc {
-    width: 70%;
+    width: 60%;
   }
 }
 
@@ -634,7 +634,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 @media (min-width: 768px) {
   .project-image-70-perc {
-    width: 50%;
+    width: 35%;
     padding-bottom: 60px;
     padding-top: 80px;
   }
@@ -896,7 +896,7 @@ hr {
   margin-bottom: -10px;
 }
 
-.details {
+.contact {
   padding-left: 20px;
   padding-top: 30px;
   font-size: 20px;
