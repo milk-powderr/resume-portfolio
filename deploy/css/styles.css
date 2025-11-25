@@ -525,56 +525,56 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-.project-class {
+.project-type-tools {
   font-size: 30px;
   color: #000000;
   list-style-type: none;
 }
 @media (min-width: 768px) {
-  .project-class {
+  .project-type-tools {
     font-size: 40px;
   }
 }
 
-.objective-1 {
+.project-about-title {
   padding-top: 50px;
   font-size: 30px;
   color: #000000;
   list-style-type: none;
 }
 @media (min-width: 768px) {
-  .objective-1 {
+  .project-about-title {
     font-size: 40px;
   }
 }
 
-.objective-2 {
+.project-process-title {
   padding-top: 20px;
   font-size: 30px;
   color: #000000;
   list-style-type: none;
 }
 @media (min-width: 768px) {
-  .objective-2 {
+  .project-process-title {
     font-size: 40px;
   }
 }
 
-.objective-body {
+.project-about-text {
   font-size: 20px;
   color: #000000;
   list-style-type: none;
   width: 100%;
 }
 @media (min-width: 768px) {
-  .objective-body {
+  .project-about-text {
     width: 740px;
     font-size: 30px;
     font-weight: 350;
   }
 }
 @media (min-width: 992px) {
-  .objective-body {
+  .project-about-text {
     font-weight: 340;
   }
 }
@@ -636,56 +636,56 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-.project-class {
+.project-type-tools {
   font-size: 30px;
   color: #000000;
   list-style-type: none;
 }
 @media (min-width: 768px) {
-  .project-class {
+  .project-type-tools {
     font-size: 40px;
   }
 }
 
-.objective-1 {
+.project-about-title {
   padding-top: 50px;
   font-size: 30px;
   color: #000000;
   list-style-type: none;
 }
 @media (min-width: 768px) {
-  .objective-1 {
+  .project-about-title {
     font-size: 40px;
   }
 }
 
-.objective-2 {
+.project-process-title {
   padding-top: 20px;
   font-size: 30px;
   color: #000000;
   list-style-type: none;
 }
 @media (min-width: 768px) {
-  .objective-2 {
+  .project-process-title {
     font-size: 40px;
   }
 }
 
-.objective-body {
+.project-about-text {
   font-size: 20px;
   color: #000000;
   list-style-type: none;
   width: 100%;
 }
 @media (min-width: 768px) {
-  .objective-body {
+  .project-about-text {
     width: 740px;
     font-size: 30px;
     font-weight: 350;
   }
 }
 @media (min-width: 992px) {
-  .objective-body {
+  .project-about-text {
     font-weight: 340;
   }
 }
@@ -778,56 +778,56 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-.project-class {
+.project-type-tools {
   font-size: 30px;
   color: #000000;
   list-style-type: none;
 }
 @media (min-width: 768px) {
-  .project-class {
+  .project-type-tools {
     font-size: 40px;
   }
 }
 
-.objective-1 {
+.project-about-title {
   padding-top: 50px;
   font-size: 30px;
   color: #000000;
   list-style-type: none;
 }
 @media (min-width: 768px) {
-  .objective-1 {
+  .project-about-title {
     font-size: 40px;
   }
 }
 
-.objective-2 {
+.project-process-title {
   padding-top: 20px;
   font-size: 30px;
   color: #000000;
   list-style-type: none;
 }
 @media (min-width: 768px) {
-  .objective-2 {
+  .project-process-title {
     font-size: 40px;
   }
 }
 
-.objective-body {
+.project-about-text {
   font-size: 20px;
   color: #000000;
   list-style-type: none;
   width: 100%;
 }
 @media (min-width: 768px) {
-  .objective-body {
+  .project-about-text {
     width: 740px;
     font-size: 30px;
     font-weight: 350;
   }
 }
 @media (min-width: 992px) {
-  .objective-body {
+  .project-about-text {
     font-weight: 340;
   }
 }
@@ -890,56 +890,56 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-.project-class {
+.project-type-tools {
   font-size: 30px;
   color: #000000;
   list-style-type: none;
 }
 @media (min-width: 768px) {
-  .project-class {
+  .project-type-tools {
     font-size: 40px;
   }
 }
 
-.objective-1 {
+.project-about-title {
   padding-top: 50px;
   font-size: 30px;
   color: #000000;
   list-style-type: none;
 }
 @media (min-width: 768px) {
-  .objective-1 {
+  .project-about-title {
     font-size: 40px;
   }
 }
 
-.objective-2 {
+.project-process-title {
   padding-top: 20px;
   font-size: 30px;
   color: #000000;
   list-style-type: none;
 }
 @media (min-width: 768px) {
-  .objective-2 {
+  .project-process-title {
     font-size: 40px;
   }
 }
 
-.objective-body {
+.project-about-text {
   font-size: 20px;
   color: #000000;
   list-style-type: none;
   width: 100%;
 }
 @media (min-width: 768px) {
-  .objective-body {
+  .project-about-text {
     width: 740px;
     font-size: 30px;
     font-weight: 350;
   }
 }
 @media (min-width: 992px) {
-  .objective-body {
+  .project-about-text {
     font-weight: 340;
   }
 }
@@ -1011,44 +1011,44 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-.project-class {
+.project-type-tools {
   font-size: 40px;
   color: #000000;
   list-style-type: none;
 }
 
-.objective-1 {
+.project-about-title {
   padding-top: 50px;
   font-size: 30px;
   color: #000000;
   list-style-type: none;
 }
 @media (min-width: 768px) {
-  .objective-1 {
+  .project-about-title {
     font-size: 40px;
   }
 }
 
-.objective-2 {
+.project-process-title {
   padding-top: 20px;
   font-size: 30px;
   color: #000000;
   list-style-type: none;
 }
 @media (min-width: 768px) {
-  .objective-2 {
+  .project-process-title {
     font-size: 40px;
   }
 }
 
-.objective-body {
+.project-about-text {
   font-size: 30px;
   color: #000000;
   list-style-type: none;
   width: 100%;
 }
 @media (min-width: 768px) {
-  .objective-body {
+  .project-about-text {
     width: 740px;
   }
 }
@@ -1084,56 +1084,56 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-.project-class {
+.project-type-tools {
   font-size: 30px;
   color: #000000;
   list-style-type: none;
 }
 @media (min-width: 768px) {
-  .project-class {
+  .project-type-tools {
     font-size: 40px;
   }
 }
 
-.objective-1 {
+.project-about-title {
   padding-top: 50px;
   font-size: 30px;
   color: #000000;
   list-style-type: none;
 }
 @media (min-width: 768px) {
-  .objective-1 {
+  .project-about-title {
     font-size: 40px;
   }
 }
 
-.objective-2 {
+.project-process-title {
   padding-top: 20px;
   font-size: 30px;
   color: #000000;
   list-style-type: none;
 }
 @media (min-width: 768px) {
-  .objective-2 {
+  .project-process-title {
     font-size: 40px;
   }
 }
 
-.objective-body {
+.project-about-text {
   font-size: 20px;
   color: #000000;
   list-style-type: none;
   width: 100%;
 }
 @media (min-width: 768px) {
-  .objective-body {
+  .project-about-text {
     width: 740px;
     font-size: 30px;
     font-weight: 350;
   }
 }
 @media (min-width: 992px) {
-  .objective-body {
+  .project-about-text {
     font-weight: 340;
   }
 }
@@ -1169,56 +1169,56 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-.project-class {
+.project-type-tools {
   font-size: 30px;
   color: #000000;
   list-style-type: none;
 }
 @media (min-width: 768px) {
-  .project-class {
+  .project-type-tools {
     font-size: 40px;
   }
 }
 
-.objective-1 {
+.project-about-title {
   padding-top: 50px;
   font-size: 30px;
   color: #000000;
   list-style-type: none;
 }
 @media (min-width: 768px) {
-  .objective-1 {
+  .project-about-title {
     font-size: 40px;
   }
 }
 
-.objective-2 {
+.project-process-title {
   padding-top: 20px;
   font-size: 30px;
   color: #000000;
   list-style-type: none;
 }
 @media (min-width: 768px) {
-  .objective-2 {
+  .project-process-title {
     font-size: 40px;
   }
 }
 
-.objective-body {
+.project-about-text {
   font-size: 20px;
   color: #000000;
   list-style-type: none;
   width: 100%;
 }
 @media (min-width: 768px) {
-  .objective-body {
+  .project-about-text {
     width: 740px;
     font-size: 30px;
     font-weight: 350;
   }
 }
 @media (min-width: 992px) {
-  .objective-body {
+  .project-about-text {
     font-weight: 340;
   }
 }
@@ -1280,56 +1280,56 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-.project-class {
+.project-type-tools {
   font-size: 30px;
   color: #000000;
   list-style-type: none;
 }
 @media (min-width: 768px) {
-  .project-class {
+  .project-type-tools {
     font-size: 40px;
   }
 }
 
-.objective-1 {
+.project-about-title {
   padding-top: 50px;
   font-size: 30px;
   color: #000000;
   list-style-type: none;
 }
 @media (min-width: 768px) {
-  .objective-1 {
+  .project-about-title {
     font-size: 40px;
   }
 }
 
-.objective-2 {
+.project-process-title {
   padding-top: 20px;
   font-size: 30px;
   color: #000000;
   list-style-type: none;
 }
 @media (min-width: 768px) {
-  .objective-2 {
+  .project-process-title {
     font-size: 40px;
   }
 }
 
-.objective-body {
+.project-about-text {
   font-size: 20px;
   color: #000000;
   list-style-type: none;
   width: 100%;
 }
 @media (min-width: 768px) {
-  .objective-body {
+  .project-about-text {
     width: 740px;
     font-size: 30px;
     font-weight: 350;
   }
 }
 @media (min-width: 992px) {
-  .objective-body {
+  .project-about-text {
     font-weight: 340;
   }
 }
@@ -1403,56 +1403,56 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-.project-class {
+.project-type-tools {
   font-size: 30px;
   color: #000000;
   list-style-type: none;
 }
 @media (min-width: 768px) {
-  .project-class {
+  .project-type-tools {
     font-size: 40px;
   }
 }
 
-.objective-1 {
+.project-about-title {
   padding-top: 50px;
   font-size: 30px;
   color: #000000;
   list-style-type: none;
 }
 @media (min-width: 768px) {
-  .objective-1 {
+  .project-about-title {
     font-size: 40px;
   }
 }
 
-.objective-2 {
+.project-process-title {
   padding-top: 20px;
   font-size: 30px;
   color: #000000;
   list-style-type: none;
 }
 @media (min-width: 768px) {
-  .objective-2 {
+  .project-process-title {
     font-size: 40px;
   }
 }
 
-.objective-body {
+.project-about-text {
   font-size: 20px;
   color: #000000;
   list-style-type: none;
   width: 100%;
 }
 @media (min-width: 768px) {
-  .objective-body {
+  .project-about-text {
     width: 740px;
     font-size: 30px;
     font-weight: 350;
   }
 }
 @media (min-width: 992px) {
-  .objective-body {
+  .project-about-text {
     font-weight: 340;
   }
 }
@@ -1570,56 +1570,56 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-.project-class {
+.project-type-tools {
   font-size: 30px;
   color: #000000;
   list-style-type: none;
 }
 @media (min-width: 768px) {
-  .project-class {
+  .project-type-tools {
     font-size: 40px;
   }
 }
 
-.objective-1 {
+.project-about-title {
   padding-top: 50px;
   font-size: 30px;
   color: #000000;
   list-style-type: none;
 }
 @media (min-width: 768px) {
-  .objective-1 {
+  .project-about-title {
     font-size: 40px;
   }
 }
 
-.objective-2 {
+.project-process-title {
   padding-top: 20px;
   font-size: 30px;
   color: #000000;
   list-style-type: none;
 }
 @media (min-width: 768px) {
-  .objective-2 {
+  .project-process-title {
     font-size: 40px;
   }
 }
 
-.objective-body {
+.project-about-text {
   font-size: 20px;
   color: #000000;
   list-style-type: none;
   width: 100%;
 }
 @media (min-width: 768px) {
-  .objective-body {
+  .project-about-text {
     width: 740px;
     font-size: 30px;
     font-weight: 350;
   }
 }
 @media (min-width: 992px) {
-  .objective-body {
+  .project-about-text {
     font-weight: 340;
   }
 }
@@ -1732,49 +1732,49 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-.project-class {
+.project-type-tools {
   font-size: 30px;
   color: #000000;
   list-style-type: none;
 }
 @media (min-width: 768px) {
-  .project-class {
+  .project-type-tools {
     font-size: 40px;
   }
 }
 
-.objective-1 {
+.project-about-title {
   padding-top: 50px;
   font-size: 30px;
   color: #000000;
   list-style-type: none;
 }
 @media (min-width: 768px) {
-  .objective-1 {
+  .project-about-title {
     font-size: 40px;
   }
 }
 
-.objective-2 {
+.project-process-title {
   padding-top: 20px;
   font-size: 30px;
   color: #000000;
   list-style-type: none;
 }
 @media (min-width: 768px) {
-  .objective-2 {
+  .project-process-title {
     font-size: 40px;
   }
 }
 
-.objective-body {
+.project-about-text {
   font-size: 30px;
   color: #000000;
   list-style-type: none;
   width: 100%;
 }
 @media (min-width: 768px) {
-  .objective-body {
+  .project-about-text {
     width: 740px;
   }
 }
@@ -1810,56 +1810,56 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-.project-class {
+.project-type-tools {
   font-size: 30px;
   color: #000000;
   list-style-type: none;
 }
 @media (min-width: 768px) {
-  .project-class {
+  .project-type-tools {
     font-size: 40px;
   }
 }
 
-.objective-1 {
+.project-about-title {
   padding-top: 50px;
   font-size: 30px;
   color: #000000;
   list-style-type: none;
 }
 @media (min-width: 768px) {
-  .objective-1 {
+  .project-about-title {
     font-size: 40px;
   }
 }
 
-.objective-2 {
+.project-process-title {
   padding-top: 20px;
   font-size: 30px;
   color: #000000;
   list-style-type: none;
 }
 @media (min-width: 768px) {
-  .objective-2 {
+  .project-process-title {
     font-size: 40px;
   }
 }
 
-.objective-body {
+.project-about-text {
   font-size: 20px;
   color: #000000;
   list-style-type: none;
   width: 100%;
 }
 @media (min-width: 768px) {
-  .objective-body {
+  .project-about-text {
     width: 740px;
     font-size: 30px;
     font-weight: 350;
   }
 }
 @media (min-width: 992px) {
-  .objective-body {
+  .project-about-text {
     font-weight: 340;
   }
 }
@@ -1895,56 +1895,56 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-.project-class {
+.project-type-tools {
   font-size: 30px;
   color: #000000;
   list-style-type: none;
 }
 @media (min-width: 768px) {
-  .project-class {
+  .project-type-tools {
     font-size: 40px;
   }
 }
 
-.objective-1 {
+.project-about-title {
   padding-top: 50px;
   font-size: 30px;
   color: #000000;
   list-style-type: none;
 }
 @media (min-width: 768px) {
-  .objective-1 {
+  .project-about-title {
     font-size: 40px;
   }
 }
 
-.objective-2 {
+.project-process-title {
   padding-top: 20px;
   font-size: 30px;
   color: #000000;
   list-style-type: none;
 }
 @media (min-width: 768px) {
-  .objective-2 {
+  .project-process-title {
     font-size: 40px;
   }
 }
 
-.objective-body {
+.project-about-text {
   font-size: 20px;
   color: #000000;
   list-style-type: none;
   width: 100%;
 }
 @media (min-width: 768px) {
-  .objective-body {
+  .project-about-text {
     width: 740px;
     font-size: 30px;
     font-weight: 350;
   }
 }
 @media (min-width: 992px) {
-  .objective-body {
+  .project-about-text {
     font-weight: 340;
   }
 }
@@ -2056,56 +2056,56 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-.project-class {
+.project-type-tools {
   font-size: 30px;
   color: #000000;
   list-style-type: none;
 }
 @media (min-width: 768px) {
-  .project-class {
+  .project-type-tools {
     font-size: 40px;
   }
 }
 
-.objective-1 {
+.project-about-title {
   padding-top: 50px;
   font-size: 30px;
   color: #000000;
   list-style-type: none;
 }
 @media (min-width: 768px) {
-  .objective-1 {
+  .project-about-title {
     font-size: 40px;
   }
 }
 
-.objective-2 {
+.project-process-title {
   padding-top: 20px;
   font-size: 30px;
   color: #000000;
   list-style-type: none;
 }
 @media (min-width: 768px) {
-  .objective-2 {
+  .project-process-title {
     font-size: 40px;
   }
 }
 
-.objective-body {
+.project-about-text {
   font-size: 20px;
   color: #000000;
   list-style-type: none;
   width: 100%;
 }
 @media (min-width: 768px) {
-  .objective-body {
+  .project-about-text {
     width: 740px;
     font-size: 30px;
     font-weight: 350;
   }
 }
 @media (min-width: 992px) {
-  .objective-body {
+  .project-about-text {
     font-weight: 340;
   }
 }
@@ -2159,56 +2159,56 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-.project-class {
+.project-type-tools {
   font-size: 30px;
   color: #000000;
   list-style-type: none;
 }
 @media (min-width: 768px) {
-  .project-class {
+  .project-type-tools {
     font-size: 40px;
   }
 }
 
-.objective-1 {
+.project-about-title {
   padding-top: 50px;
   font-size: 30px;
   color: #000000;
   list-style-type: none;
 }
 @media (min-width: 768px) {
-  .objective-1 {
+  .project-about-title {
     font-size: 40px;
   }
 }
 
-.objective-2 {
+.project-process-title {
   padding-top: 20px;
   font-size: 30px;
   color: #000000;
   list-style-type: none;
 }
 @media (min-width: 768px) {
-  .objective-2 {
+  .project-process-title {
     font-size: 40px;
   }
 }
 
-.objective-body {
+.project-about-text {
   font-size: 20px;
   color: #000000;
   list-style-type: none;
   width: 100%;
 }
 @media (min-width: 768px) {
-  .objective-body {
+  .project-about-text {
     width: 740px;
     font-size: 30px;
     font-weight: 350;
   }
 }
 @media (min-width: 992px) {
-  .objective-body {
+  .project-about-text {
     font-weight: 340;
   }
 }
@@ -2244,56 +2244,56 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-.project-class {
+.project-type-tools {
   font-size: 30px;
   color: #000000;
   list-style-type: none;
 }
 @media (min-width: 768px) {
-  .project-class {
+  .project-type-tools {
     font-size: 40px;
   }
 }
 
-.objective-1 {
+.project-about-title {
   padding-top: 50px;
   font-size: 30px;
   color: #000000;
   list-style-type: none;
 }
 @media (min-width: 768px) {
-  .objective-1 {
+  .project-about-title {
     font-size: 40px;
   }
 }
 
-.objective-2 {
+.project-process-title {
   padding-top: 20px;
   font-size: 30px;
   color: #000000;
   list-style-type: none;
 }
 @media (min-width: 768px) {
-  .objective-2 {
+  .project-process-title {
     font-size: 40px;
   }
 }
 
-.objective-body {
+.project-about-text {
   font-size: 20px;
   color: #000000;
   list-style-type: none;
   width: 100%;
 }
 @media (min-width: 768px) {
-  .objective-body {
+  .project-about-text {
     width: 740px;
     font-size: 30px;
     font-weight: 350;
   }
 }
 @media (min-width: 992px) {
-  .objective-body {
+  .project-about-text {
     font-weight: 340;
   }
 }
@@ -2329,56 +2329,56 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-.project-class {
+.project-type-tools {
   font-size: 30px;
   color: #000000;
   list-style-type: none;
 }
 @media (min-width: 768px) {
-  .project-class {
+  .project-type-tools {
     font-size: 40px;
   }
 }
 
-.objective-1 {
+.project-about-title {
   padding-top: 50px;
   font-size: 30px;
   color: #000000;
   list-style-type: none;
 }
 @media (min-width: 768px) {
-  .objective-1 {
+  .project-about-title {
     font-size: 40px;
   }
 }
 
-.objective-2 {
+.project-process-title {
   padding-top: 20px;
   font-size: 30px;
   color: #000000;
   list-style-type: none;
 }
 @media (min-width: 768px) {
-  .objective-2 {
+  .project-process-title {
     font-size: 40px;
   }
 }
 
-.objective-body {
+.project-about-text {
   font-size: 20px;
   color: #000000;
   list-style-type: none;
   width: 100%;
 }
 @media (min-width: 768px) {
-  .objective-body {
+  .project-about-text {
     width: 740px;
     font-size: 30px;
     font-weight: 350;
   }
 }
 @media (min-width: 992px) {
-  .objective-body {
+  .project-about-text {
     font-weight: 340;
   }
 }
