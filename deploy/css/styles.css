@@ -343,47 +343,47 @@ h1, h2, h3, h4, h5, h6 {
   margin-right: 9px;
 }
 
-.new_page1 {
+.about-page {
   color: #000000;
   font-size: 29px;
   text-decoration: none;
-  padding-right: 40px;
+  margin-right: 40px;
   flex-direction: row;
 }
-.new_page1:hover {
+.about-page:hover {
   color: #f590a1;
 }
 @media (min-width: 768px) {
-  .new_page1 {
+  .about-page {
     font-size: 39px;
   }
 }
-.new_page2 {
+.work-page {
   color: #000000;
   font-size: 29px;
   text-decoration: none;
-  padding-right: 40px;
+  margin-right: 40px;
   flex-direction: row;
 }
-.new_page2:hover {
+.work-page:hover {
   color: #f590a1;
 }
 @media (min-width: 768px) {
-  .new_page2 {
+  .work-page {
     font-size: 39px;
   }
 }
-.new_page3 {
+.play-page {
   color: #000000;
   font-size: 29px;
   text-decoration: none;
   flex-direction: row;
 }
-.new_page3:hover {
+.play-page:hover {
   color: #f590a1;
 }
 @media (min-width: 768px) {
-  .new_page3 {
+  .play-page {
     font-size: 39px;
   }
 }

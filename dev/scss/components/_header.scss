@@ -27,11 +27,11 @@
     margin-right: 9px;
 }
 
-.new_page1 {
+.about-page {
     color: $black;
     font-size: 29px;
     text-decoration: none;
-    padding-right: 40px;
+    margin-right: 40px;
     flex-direction: row;
 
     &:hover {
@@ -47,11 +47,11 @@
 }
 
 
-.new_page2 {
+.work-page {
     color: $black;
     font-size: 29px;
     text-decoration: none;
-    padding-right: 40px;
+    margin-right: 40px;
     flex-direction: row;
 
     &:hover {
@@ -66,7 +66,7 @@
     @include lg {}
 }
 
-.new_page3 {
+.play-page {
     color: $black;
     font-size: 29px;
     text-decoration: none;
