@@ -33,6 +33,7 @@
     }
 }
 
+
 .aboutintro {
 
     display: block;
@@ -64,7 +65,7 @@
     }
 }
 
-.paragraph11 {
+.about-paragraph {
     font-size: 18px;
     font-weight: 300;
     padding-left: 1.5px;
@@ -132,7 +133,6 @@ hr {
     @include md {
         padding-left: 59px;
     }
-
 }
 
 .education-title {
@@ -178,7 +178,6 @@ hr {
     @include md {
         padding-left: 59px;
     }
-
 }
 
 .honors {
@@ -240,7 +239,7 @@ hr {
     }
 }
 
-.signature_pic {
+.signature {
     padding-top: 30px;
     width: 250px;
     margin-bottom: -10px;

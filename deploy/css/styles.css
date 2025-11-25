@@ -2560,19 +2560,19 @@ h1, h2, h3, h4, h5, h6 {
 #name {
   color: #f590a1;
 }
-.paragraph11 {
+.about-paragraph {
   font-size: 18px;
   font-weight: 300;
   padding-left: 1.5px;
   padding-top: 12px;
 }
 @media (min-width: 768px) {
-  .paragraph11 {
+  .about-paragraph {
     font-size: 20px;
   }
 }
 @media (min-width: 992px) {
-  .paragraph11 {
+  .about-paragraph {
     font-size: 20px;
   }
 }
@@ -2743,7 +2743,7 @@ hr {
   }
 }
 
-.signature_pic {
+.signature {
   padding-top: 30px;
   width: 250px;
   margin-bottom: -10px;
