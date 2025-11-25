@@ -3,7 +3,7 @@
     @include lg {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
-        padding-bottom: 30px;
+        //padding-bottom: 20px;
     }
 }
 
@@ -39,7 +39,7 @@
     list-style-type: none;
     font-size: 40px;
     padding-top: 16px;
-    padding-left: 30px;
+    padding-left: 40px;
     width: 95%;
 
     @include md {
@@ -52,6 +52,7 @@
         font-size: 60px;
         width: 80%;
         padding-top: 75px;
+                padding-left: 59px;
     }
 }
 
@@ -125,10 +126,20 @@ hr {
     grid-template-columns: repeat(2, 2fr);
 }
 
-.education {
+.education-honors {
     padding-top: 30px;
     padding-left: 40px;
     list-style-type: none;
+
+    @include md {
+        padding-left: 59px;
+    }
+}
+
+.honors {
+    list-style-type: none;
+    padding-left: 40px;
+    padding-top: 30px;
 
     @include md {
         padding-left: 59px;
@@ -180,16 +191,6 @@ hr {
     }
 }
 
-.honors {
-    list-style-type: none;
-    padding-left: 40px;
-    padding-top: 30px;
-
-    @include md {
-        padding-left: 59px;
-    }
-}
-
 .honors-2 {
     list-style-type: none;
     padding-left: 40px;
@@ -232,10 +233,12 @@ hr {
     grid-template-columns: repeat(1, 1fr);
     padding-bottom: 30px;
     width: 90%;
+            padding-right: 40px;
 
     @include md {
         width: 100%;
         grid-template-columns: repeat(2, 1fr);
+                padding-right: 59px;
     }
 }
 

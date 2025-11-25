@@ -2492,7 +2492,6 @@ h1, h2, h3, h4, h5, h6 {
   .about-image-blurb {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    padding-bottom: 30px;
   }
 }
 
@@ -2527,7 +2526,7 @@ h1, h2, h3, h4, h5, h6 {
   list-style-type: none;
   font-size: 40px;
   padding-top: 16px;
-  padding-left: 30px;
+  padding-left: 40px;
   width: 95%;
 }
 @media (min-width: 768px) {
@@ -2542,6 +2541,7 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 60px;
     width: 80%;
     padding-top: 75px;
+    padding-left: 59px;
   }
 }
 
@@ -2612,13 +2612,24 @@ hr {
   grid-template-columns: repeat(2, 2fr);
 }
 
-.education {
+.education-honors {
   padding-top: 30px;
   padding-left: 40px;
   list-style-type: none;
 }
 @media (min-width: 768px) {
-  .education {
+  .education-honors {
+    padding-left: 59px;
+  }
+}
+
+.honors {
+  list-style-type: none;
+  padding-left: 40px;
+  padding-top: 30px;
+}
+@media (min-width: 768px) {
+  .honors {
     padding-left: 59px;
   }
 }
@@ -2669,17 +2680,6 @@ hr {
   }
 }
 
-.honors {
-  list-style-type: none;
-  padding-left: 40px;
-  padding-top: 30px;
-}
-@media (min-width: 768px) {
-  .honors {
-    padding-left: 59px;
-  }
-}
-
 .honors-2 {
   list-style-type: none;
   padding-left: 40px;
@@ -2723,11 +2723,13 @@ hr {
   grid-template-columns: repeat(1, 1fr);
   padding-bottom: 30px;
   width: 90%;
+  padding-right: 40px;
 }
 @media (min-width: 768px) {
   .bottom-block {
     width: 100%;
     grid-template-columns: repeat(2, 1fr);
+    padding-right: 59px;
   }
 }
 
