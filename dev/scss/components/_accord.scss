@@ -7,10 +7,11 @@
     padding-top: 50px;
     font-size: 40px;
     font-weight: 450;
-    color: #f590a1;;
+    color: #f590a1;
+    ;
     list-style-type: none;
 
-        @include md {
+    @include md {
         font-size: 50px;
     }
 }
@@ -20,7 +21,7 @@
     color: #000000;
     list-style-type: none;
 
-        @include md {
+    @include md {
         font-size: 40px;
     }
 }
@@ -30,8 +31,8 @@
     font-size: 30px;
     color: #000000;
     list-style-type: none;
- 
-        @include md {
+
+    @include md {
         font-size: 40px;
     }
 }
@@ -41,8 +42,8 @@
     font-size: 30px;
     color: #000000;
     list-style-type: none;
- 
-        @include md {
+
+    @include md {
         font-size: 40px;
     }
 }
@@ -55,12 +56,12 @@
 
     @include md {
         width: 740px;
-    font-size: 30px;
-    font-weight: 350;
+        font-size: 30px;
+        font-weight: 350;
     }
 
-        @include lg {
-    font-weight: 340;
+    @include lg {
+        font-weight: 340;
     }
 }
 
@@ -68,12 +69,12 @@
     display: none;
 
     @include lg {
-    display: block;
-    width: 100%;
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
-    padding-top: 40px;
+        display: block;
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+        padding-top: 40px;
     }
 }
 
@@ -109,8 +110,8 @@
     padding-bottom: 50px;
     padding-top: 50px;
     display: block;
-    
-        @include md {
+
+    @include md {
         width: 50%;
         padding-bottom: 60px;
         padding-top: 80px;
