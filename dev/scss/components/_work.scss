@@ -46,7 +46,8 @@
 .work-cover-title-1 {
     padding-top: 20px;
     font-size: 40px;
-    font-weight: 400;
+    font-weight: bold;
+    padding-right: 30px;
 
     @include md {
         font-size: 50px;

@@ -461,7 +461,8 @@ h1, h2, h3, h4, h5, h6 {
 .work-cover-title-1 {
   padding-top: 20px;
   font-size: 40px;
-  font-weight: 400;
+  font-weight: bold;
+  padding-right: 30px;
 }
 @media (min-width: 768px) {
   .work-cover-title-1 {
