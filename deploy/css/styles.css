@@ -2507,9 +2507,6 @@ h1, h2, h3, h4, h5, h6 {
     float: none;
     align-items: center;
     justify-content: center;
-    align-items: center;
-    justify-content: center;
-    margin-left: 30px;
   }
 }
 @media (min-width: 992px) {
@@ -2548,6 +2545,7 @@ h1, h2, h3, h4, h5, h6 {
 #name {
   color: #f590a1;
 }
+
 .about-paragraph {
   font-size: 18px;
   font-weight: 300;
@@ -2555,11 +2553,6 @@ h1, h2, h3, h4, h5, h6 {
   padding-top: 12px;
 }
 @media (min-width: 768px) {
-  .about-paragraph {
-    font-size: 20px;
-  }
-}
-@media (min-width: 992px) {
   .about-paragraph {
     font-size: 20px;
   }
@@ -2579,12 +2572,6 @@ h1, h2, h3, h4, h5, h6 {
 .email-logop:hover {
   transition: 0.3s ease;
   filter: brightness(0) saturate(100%) invert(84%) sepia(21%) saturate(5134%) hue-rotate(302deg) brightness(99%) contrast(91%);
-}
-
-.insta-logop {
-  width: 20px;
-  margin-bottom: -6px;
-  margin-left: 3.5px;
 }
 
 hr {

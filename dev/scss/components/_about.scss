@@ -3,7 +3,6 @@
     @include lg {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
-        //padding-bottom: 20px;
     }
 }
 
@@ -18,9 +17,6 @@
         float: none;
         align-items: center;
         justify-content: center;
-        align-items: center;
-        justify-content: center;
-        margin-left: 30px;
     }
 
     @include lg {
@@ -28,7 +24,6 @@
         float: right;
         padding-top: 150px;
         margin-left: 110px;
-
     }
 }
 
@@ -51,17 +46,12 @@
         font-size: 60px;
         width: 80%;
         padding-top: 75px;
-                padding-left: 59px;
+        padding-left: 59px;
     }
 }
 
 #name {
     color: #f590a1;
-    // text-shadow: -1px 1px #000000;
-
-    @include md {
-        // text-shadow: -2px 2px #000000;
-    }
 }
 
 .about-paragraph {
@@ -71,10 +61,6 @@
     padding-top: 12px;
 
     @include md {
-        font-size: 20px;
-    }
-
-    @include lg {
         font-size: 20px;
     }
 }
@@ -94,12 +80,6 @@
         transition: .3s ease;
         filter: brightness(0) saturate(100%) invert(84%) sepia(21%) saturate(5134%) hue-rotate(302deg) brightness(99%) contrast(91%);
     }
-}
-
-.insta-logop {
-    width: 20px;
-    margin-bottom: -6px;
-    margin-left: 3.5px;
 }
 
 hr {
@@ -202,7 +182,6 @@ hr {
 
 .programs {
     list-style-type: none;
-    //padding-top: 30px;
     padding-left: 40px;
     padding-top: 30px;
 
@@ -232,12 +211,12 @@ hr {
     grid-template-columns: repeat(1, 1fr);
     padding-bottom: 30px;
     width: 90%;
-            padding-right: 40px;
+    padding-right: 40px;
 
     @include md {
         width: 100%;
         grid-template-columns: repeat(2, 1fr);
-                padding-right: 59px;
+        padding-right: 59px;
     }
 }
 
