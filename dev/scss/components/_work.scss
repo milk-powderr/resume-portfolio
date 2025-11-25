@@ -86,5 +86,9 @@
 .work-cover {
     width: 100%;
     object-fit: cover;
+    height: 300px;
+
+    @include md {
     height: 550px;
+    }
 }
