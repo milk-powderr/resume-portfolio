@@ -8,10 +8,9 @@
 }
 
 .selfie {
-
     object-fit: cover;
     width: 350px;
-        padding-top: 80px;
+    padding-top: 80px;
     margin-left: 30px;
 
     @include md {
@@ -19,7 +18,7 @@
         float: none;
         align-items: center;
         justify-content: center;
-                align-items: center;
+        align-items: center;
         justify-content: center;
         margin-left: 30px;
     }
@@ -27,7 +26,7 @@
     @include lg {
         width: 500px;
         float: right;
-                padding-top: 150px;
+        padding-top: 150px;
         margin-left: 110px;
 
     }
@@ -71,10 +70,11 @@
     padding-left: 1.5px;
     padding-top: 12px;
 
-        @include md {
+    @include md {
         font-size: 20px;
     }
-            @include lg {
+
+    @include lg {
         font-size: 20px;
     }
 }
@@ -91,8 +91,8 @@
     margin-right: 10px;
 
     &:hover {
-    transition: .3s ease;
-    filter: brightness(0) saturate(100%) invert(84%) sepia(21%) saturate(5134%) hue-rotate(302deg) brightness(99%) contrast(91%);
+        transition: .3s ease;
+        filter: brightness(0) saturate(100%) invert(84%) sepia(21%) saturate(5134%) hue-rotate(302deg) brightness(99%) contrast(91%);
     }
 }
 
@@ -165,12 +165,12 @@ hr {
 }
 
 .education-3 {
-        font-size: 18px;
+    font-size: 18px;
     font-weight: 300;
     padding-bottom: 5px;
 }
 
-.skills {
+.skills-experience {
     list-style-type: none;
     padding-top: 30px;
     padding-left: 40px;

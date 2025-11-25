@@ -507,18 +507,6 @@ h1, h2, h3, h4, h5, h6 {
   height: 550px;
 }
 
-.work-cover {
-  width: 100%;
-  object-fit: cover;
-  height: 550px;
-}
-
-.work-cover {
-  width: 100%;
-  object-fit: cover;
-  height: 550px;
-}
-
 .back {
   width: 90%;
   padding-left: 30px;
@@ -2670,13 +2658,13 @@ hr {
   padding-bottom: 5px;
 }
 
-.skills {
+.skills-experience {
   list-style-type: none;
   padding-top: 30px;
   padding-left: 40px;
 }
 @media (min-width: 768px) {
-  .skills {
+  .skills-experience {
     padding-left: 59px;
   }
 }
