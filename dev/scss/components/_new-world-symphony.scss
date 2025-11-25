@@ -1,112 +1,112 @@
-.project-title-and-text {
-    width: 90%;
-    padding-left: 30px;
-  }  
+// .project-title-and-text {
+//     width: 90%;
+//     padding-left: 30px;
+//   }  
 
-.project-title {
-    padding-top: 50px;
-    font-size: 40px;
-    font-weight: 450;
-    color: #f590a1;;
-    list-style-type: none;
+// .project-title {
+//     padding-top: 50px;
+//     font-size: 40px;
+//     font-weight: 450;
+//     color: #f590a1;;
+//     list-style-type: none;
 
-        @include md {
-        font-size: 50px;
-    }
-}
+//         @include md {
+//         font-size: 50px;
+//     }
+// }
 
-.project-type-tools {
-    font-size: 30px;
-    color: #000000;
-    list-style-type: none;
+// .project-type-tools {
+//     font-size: 30px;
+//     color: #000000;
+//     list-style-type: none;
 
-        @include md {
-        font-size: 40px;
-    }
-}
+//         @include md {
+//         font-size: 40px;
+//     }
+// }
 
-.project-about-title {
-    padding-top: 50px;
-    font-size: 30px;
-    color: #000000;
-    list-style-type: none;
+// .project-about-title {
+//     padding-top: 50px;
+//     font-size: 30px;
+//     color: #000000;
+//     list-style-type: none;
  
-        @include md {
-        font-size: 40px;
-    }
-}
+//         @include md {
+//         font-size: 40px;
+//     }
+// }
 
-.project-process-title {
-    padding-top: 20px;
-    font-size: 30px;
-    color: #000000;
-    list-style-type: none;
+// .project-process-title {
+//     padding-top: 20px;
+//     font-size: 30px;
+//     color: #000000;
+//     list-style-type: none;
  
-        @include md {
-        font-size: 40px;
-    }
-}
+//         @include md {
+//         font-size: 40px;
+//     }
+// }
 
-.project-body-text {
-    font-size: 20px;
-    color: #000000;
-    list-style-type: none;
-    width: 100%;
+// .project-body-text {
+//     font-size: 20px;
+//     color: #000000;
+//     list-style-type: none;
+//     width: 100%;
 
-    @include md {
-        width: 740px;
-    font-size: 30px;
-    font-weight: 350;
-    }
+//     @include md {
+//         width: 740px;
+//     font-size: 30px;
+//     font-weight: 350;
+//     }
 
-        @include lg {
-    font-weight: 340;
-    }
-}
+//         @include lg {
+//     font-weight: 340;
+//     }
+// }
 
-.accord-image {
-    width: 80%;
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
-    padding-top: 40px;
+// .accord-image {
+//     width: 80%;
+//     margin-left: auto;
+//     margin-right: auto;
+//     display: block;
+//     padding-top: 40px;
 
-    @include md {
-        width: 70%;
-    }
-}
+//     @include md {
+//         width: 70%;
+//     }
+// }
 
-.new-image {
-    width: 80%;
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
-    padding-top: 40px;
+// .new-image {
+//     width: 80%;
+//     margin-left: auto;
+//     margin-right: auto;
+//     display: block;
+//     padding-top: 40px;
 
-    @include md {
-        width: 60%;
-    }
+//     @include md {
+//         width: 60%;
+//     }
 
-    @include lg {
-        width: 50%;
-    }
-}
+//     @include lg {
+//         width: 50%;
+//     }
+// }
 
-.symphony-animation {
-    display: grid;
-    grid-template-columns: repeat(1, 1fr);
-    gap: 11px;
-}
+// .symphony-animation {
+//     display: grid;
+//     grid-template-columns: repeat(1, 1fr);
+//     gap: 11px;
+// }
 
-.symphony-vid {
-    object-fit: cover;
-    height: 480px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 80px;
+// .symphony-vid {
+//     object-fit: cover;
+//     height: 480px;
+//     display: block;
+//     margin-left: auto;
+//     margin-right: auto;
+//     margin-top: 80px;
 
-    @include lg {
-        height: 800px;
-    }
-}
+//     @include lg {
+//         height: 800px;
+//     }
+// }

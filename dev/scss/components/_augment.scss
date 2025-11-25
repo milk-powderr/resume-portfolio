@@ -1,102 +1,102 @@
-.project-title-and-text {
-    width: 90%;
-    padding-left: 30px;
-  }
+// .project-title-and-text {
+//     width: 90%;
+//     padding-left: 30px;
+//   }
   
-.project-title {
-    padding-top: 50px;
-    font-size: 40px;
-    font-weight: 450;
-    color: #f590a1;;
-    list-style-type: none;
+// .project-title {
+//     padding-top: 50px;
+//     font-size: 40px;
+//     font-weight: 450;
+//     color: #f590a1;;
+//     list-style-type: none;
 
-        @include md {
-        font-size: 50px;
-    }
-}
+//         @include md {
+//         font-size: 50px;
+//     }
+// }
 
-.project-type-tools {
-    font-size: 30px;
-    color: #000000;
-    list-style-type: none;
+// .project-type-tools {
+//     font-size: 30px;
+//     color: #000000;
+//     list-style-type: none;
 
-        @include md {
-        font-size: 40px;
-    }
-}
+//         @include md {
+//         font-size: 40px;
+//     }
+// }
 
-.project-about-title {
-    padding-top: 50px;
-    font-size: 30px;
-    color: #000000;
-    list-style-type: none;
+// .project-about-title {
+//     padding-top: 50px;
+//     font-size: 30px;
+//     color: #000000;
+//     list-style-type: none;
  
-        @include md {
-        font-size: 40px;
-    }
-}
+//         @include md {
+//         font-size: 40px;
+//     }
+// }
 
-.project-process-title {
-    padding-top: 20px;
-    font-size: 30px;
-    color: #000000;
-    list-style-type: none;
+// .project-process-title {
+//     padding-top: 20px;
+//     font-size: 30px;
+//     color: #000000;
+//     list-style-type: none;
  
-        @include md {
-        font-size: 40px;
-    }
-}
+//         @include md {
+//         font-size: 40px;
+//     }
+// }
 
-.project-body-text {
-    font-size: 20px;
-    color: #000000;
-    list-style-type: none;
-    width: 100%;
+// .project-body-text {
+//     font-size: 20px;
+//     color: #000000;
+//     list-style-type: none;
+//     width: 100%;
 
-    @include md {
-        width: 740px;
-    font-size: 30px;
-    font-weight: 350;
-    }
+//     @include md {
+//         width: 740px;
+//     font-size: 30px;
+//     font-weight: 350;
+//     }
 
-        @include lg {
-    font-weight: 340;
-    }
-}
+//         @include lg {
+//     font-weight: 340;
+//     }
+// }
 
-.accord-image {
-    width: 80%;
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
-    padding-top: 40px;
+// .accord-image {
+//     width: 80%;
+//     margin-left: auto;
+//     margin-right: auto;
+//     display: block;
+//     padding-top: 40px;
 
-    @include md {
-        width: 70%;
-    }
-}
+//     @include md {
+//         width: 70%;
+//     }
+// }
 
-.accord-dieline-web {
-    display: none;
+// .accord-dieline-web {
+//     display: none;
 
-    @include lg {
-    display: block;
-    width: 100%;
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
-    padding-top: 40px;
-    }
-}
+//     @include lg {
+//     display: block;
+//     width: 100%;
+//     margin-left: auto;
+//     margin-right: auto;
+//     display: block;
+//     padding-top: 40px;
+//     }
+// }
 
-.accord-dieline-mobile {
-    width: 100%;
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
-    padding-top: 40px;
+// .accord-dieline-mobile {
+//     width: 100%;
+//     margin-left: auto;
+//     margin-right: auto;
+//     display: block;
+//     padding-top: 40px;
 
-    @include lg {
-        display: none;
-    }
-}
+//     @include lg {
+//         display: none;
+//     }
+// }

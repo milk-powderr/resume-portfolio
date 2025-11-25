@@ -1,67 +1,67 @@
-.project-title-and-text {
-  width: 90%;
-  padding-left: 30px;
-}
+// .project-title-and-text {
+//   width: 90%;
+//   padding-left: 30px;
+// }
 
-.project-title {
-    padding-top: 50px;
-    font-size: 40px;
-    font-weight: 450;
-    color: #f590a1;;
-    list-style-type: none;
+// .project-title {
+//     padding-top: 50px;
+//     font-size: 40px;
+//     font-weight: 450;
+//     color: #f590a1;;
+//     list-style-type: none;
 
-        @include md {
-        font-size: 50px;
-    }
-}
+//         @include md {
+//         font-size: 50px;
+//     }
+// }
 
-.project-type-tools {
-  font-size: 40px;
-  color: #000000;
-  list-style-type: none;
-}
+// .project-type-tools {
+//   font-size: 40px;
+//   color: #000000;
+//   list-style-type: none;
+// }
 
-.project-about-title {
-    padding-top: 50px;
-    font-size: 30px;
-    color: #000000;
-    list-style-type: none;
+// .project-about-title {
+//     padding-top: 50px;
+//     font-size: 30px;
+//     color: #000000;
+//     list-style-type: none;
  
-        @include md {
-        font-size: 40px;
-    }
-}
+//         @include md {
+//         font-size: 40px;
+//     }
+// }
 
-.project-process-title {
-    padding-top: 20px;
-    font-size: 30px;
-    color: #000000;
-    list-style-type: none;
+// .project-process-title {
+//     padding-top: 20px;
+//     font-size: 30px;
+//     color: #000000;
+//     list-style-type: none;
  
-        @include md {
-        font-size: 40px;
-    }
-}
+//         @include md {
+//         font-size: 40px;
+//     }
+// }
 
-.project-body-text {
-  font-size: 30px;
-  color: #000000;
-  list-style-type: none;
-  width: 100%;
+// .project-body-text {
+//   font-size: 30px;
+//   color: #000000;
+//   list-style-type: none;
+//   width: 100%;
 
-  @include md{
-  width: 740px;   
-  }
-}
+//   @include md{
+//   width: 740px;   
+//   }
+// }
 
-.crit-image {
-  width: 80%;
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
-  padding-top: 40px;
+// .crit-image {
+//   width: 80%;
+//   margin-left: auto;
+//   margin-right: auto;
+//   display: block;
+//   padding-top: 40px;
 
-  @include md {
-      width: 65%;
-  }
-}
+//   @include md {
+//       width: 65%;
+//   }
+// }

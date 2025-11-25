@@ -8,7 +8,7 @@
     font-size: 40px;
     font-weight: 450;
     color: #f590a1;
-    ;
+    font-weight: bold;
     list-style-type: none;
 
     @include md {
@@ -17,34 +17,48 @@
 }
 
 .project-type-tools {
-    font-size: 30px;
+    font-size: 25px;
     color: #000000;
     list-style-type: none;
 
     @include md {
-        font-size: 40px;
+        font-size: 30px;
+    }
+}
+
+.project-tools {
+    font-size: 25px;
+    color: #2a2a2a;
+    list-style-type: none;
+
+    @include md {
+        font-size: 30px;
     }
 }
 
 .project-about-title {
     padding-top: 50px;
-    font-size: 30px;
+    font-size: 25px;
     color: #000000;
     list-style-type: none;
+    font-weight: bold;
+
 
     @include md {
-        font-size: 40px;
+        font-size: 30px;
     }
 }
 
 .project-process-title {
     padding-top: 20px;
-    font-size: 30px;
+    font-size: 25px;
     color: #000000;
     list-style-type: none;
+    font-weight: bold;
+
 
     @include md {
-        font-size: 40px;
+        font-size: 30px;
     }
 }
 
@@ -56,12 +70,12 @@
 
     @include md {
         width: 740px;
-        font-size: 30px;
-        font-weight: 350;
+       // font-size: 20px;
+       // font-weight: 350;
     }
 
     @include lg {
-        font-weight: 340;
+       // font-weight: 340;
     }
 }
 
