@@ -2397,19 +2397,19 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-.play {
+.all-play-covers {
   display: grid;
   padding-top: 50px;
   grid-template-columns: repeat(1, 1fr);
   grid-template-rows: 300px 300px 300px 300px 1fr;
 }
 @media (min-width: 768px) {
-  .play {
+  .all-play-covers {
     grid-template-rows: 550px 550px 550px 550px 1fr;
   }
 }
 @media (min-width: 992px) {
-  .play {
+  .all-play-covers {
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: 550px 550px 1fr;
   }
