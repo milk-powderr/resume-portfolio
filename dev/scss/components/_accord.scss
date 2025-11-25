@@ -1,6 +1,8 @@
 .project-title-and-text {
     width: 90%;
     padding-left: 30px;
+    list-style-type: none;
+
 }
 
 .project-title {
@@ -9,17 +11,14 @@
     font-weight: 450;
     color: #f590a1;
     font-weight: bold;
-    list-style-type: none;
 
     @include md {
         font-size: 50px;
     }
 }
 
-.project-type-tools {
+.project-type {
     font-size: 25px;
-    color: #000000;
-    list-style-type: none;
 
     @include md {
         font-size: 30px;
@@ -28,8 +27,7 @@
 
 .project-tools {
     font-size: 25px;
-    color: #2a2a2a;
-    list-style-type: none;
+    color: #808080;
 
     @include md {
         font-size: 30px;
@@ -39,10 +37,7 @@
 .project-about-title {
     padding-top: 50px;
     font-size: 25px;
-    color: #000000;
-    list-style-type: none;
     font-weight: bold;
-
 
     @include md {
         font-size: 30px;
@@ -52,8 +47,6 @@
 .project-process-title {
     padding-top: 20px;
     font-size: 25px;
-    color: #000000;
-    list-style-type: none;
     font-weight: bold;
 
 
@@ -64,18 +57,10 @@
 
 .project-body-text {
     font-size: 20px;
-    color: #000000;
-    list-style-type: none;
     width: 100%;
 
     @include md {
         width: 740px;
-       // font-size: 20px;
-       // font-weight: 350;
-    }
-
-    @include lg {
-       // font-weight: 340;
     }
 }
 

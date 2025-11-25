@@ -516,6 +516,7 @@ h1, h2, h3, h4, h5, h6 {
 .project-title-and-text {
   width: 90%;
   padding-left: 30px;
+  list-style-type: none;
 }
 
 .project-title {
@@ -524,7 +525,6 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 450;
   color: #f590a1;
   font-weight: bold;
-  list-style-type: none;
 }
 @media (min-width: 768px) {
   .project-title {
@@ -532,21 +532,18 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-.project-type-tools {
+.project-type {
   font-size: 25px;
-  color: #000000;
-  list-style-type: none;
 }
 @media (min-width: 768px) {
-  .project-type-tools {
+  .project-type {
     font-size: 30px;
   }
 }
 
 .project-tools {
   font-size: 25px;
-  color: #2a2a2a;
-  list-style-type: none;
+  color: #808080;
 }
 @media (min-width: 768px) {
   .project-tools {
@@ -557,8 +554,6 @@ h1, h2, h3, h4, h5, h6 {
 .project-about-title {
   padding-top: 50px;
   font-size: 25px;
-  color: #000000;
-  list-style-type: none;
   font-weight: bold;
 }
 @media (min-width: 768px) {
@@ -570,8 +565,6 @@ h1, h2, h3, h4, h5, h6 {
 .project-process-title {
   padding-top: 20px;
   font-size: 25px;
-  color: #000000;
-  list-style-type: none;
   font-weight: bold;
 }
 @media (min-width: 768px) {
@@ -582,8 +575,6 @@ h1, h2, h3, h4, h5, h6 {
 
 .project-body-text {
   font-size: 20px;
-  color: #000000;
-  list-style-type: none;
   width: 100%;
 }
 @media (min-width: 768px) {
@@ -591,6 +582,7 @@ h1, h2, h3, h4, h5, h6 {
     width: 740px;
   }
 }
+
 .accord-dieline-web {
   display: none;
 }
@@ -629,96 +621,6 @@ h1, h2, h3, h4, h5, h6 {
 @media (min-width: 768px) {
   .project-image-80-perc {
     width: 70%;
-  }
-}
-
-.project-image-70-perc {
-  width: 70%;
-  margin-left: auto;
-  margin-right: auto;
-  padding-bottom: 50px;
-  padding-top: 50px;
-  display: block;
-}
-@media (min-width: 768px) {
-  .project-image-70-perc {
-    width: 50%;
-    padding-bottom: 60px;
-    padding-top: 80px;
-  }
-}
-
-.magazine-image1 {
-  width: 100%;
-  display: flex;
-  padding-top: 40px;
-  padding-bottom: 11px;
-  justify-content: center;
-}
-
-.oreo-vid {
-  object-fit: cover;
-  width: 80%;
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
-  padding-top: 40px;
-}
-@media (min-width: 768px) {
-  .oreo-vid {
-    width: 70%;
-  }
-}
-
-.accord-image {
-  width: 80%;
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
-  padding-top: 40px;
-}
-@media (min-width: 768px) {
-  .accord-image {
-    width: 70%;
-  }
-}
-
-.project-image-70-perc {
-  width: 80%;
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
-  padding-top: 85px;
-  padding-bottom: 65px;
-}
-@media (min-width: 768px) {
-  .project-image-70-perc {
-    width: 70%;
-  }
-}
-
-.accord-phone {
-  width: 100%;
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
-}
-
-.accord-oreo-image {
-  width: 80%;
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
-  padding-top: 40px;
-}
-@media (min-width: 768px) {
-  .accord-oreo-image {
-    width: 70%;
-  }
-}
-@media (min-width: 992px) {
-  .accord-oreo-image {
-    width: 60%;
   }
 }
 

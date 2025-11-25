@@ -64,86 +64,86 @@
 //     }
 // }
 
-.magazine-image1 {
-    width: 100%;
-    display: flex;
-    padding-top: 40px;
-    padding-bottom: 11px;
-    justify-content: center;
-}
+// .magazine-image1 {
+//     width: 100%;
+//     display: flex;
+//     padding-top: 40px;
+//     padding-bottom: 11px;
+//     justify-content: center;
+// }
 
-.oreo-vid {
-    object-fit: cover;
-    width: 80%;
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
-    padding-top: 40px;
+// .oreo-vid {
+//     object-fit: cover;
+//     width: 80%;
+//     margin-left: auto;
+//     margin-right: auto;
+//     display: block;
+//     padding-top: 40px;
 
-    @include md {
-        width: 70%;
-    }
-}
+//     @include md {
+//         width: 70%;
+//     }
+// }
 
-.accord-image {
-    width: 80%;
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
-    padding-top: 40px;
+// .accord-image {
+//     width: 80%;
+//     margin-left: auto;
+//     margin-right: auto;
+//     display: block;
+//     padding-top: 40px;
 
-    @include md {
-        width: 70%;
-    }
-}
+//     @include md {
+//         width: 70%;
+//     }
+// }
 
-.project-image-70-perc {
-    width: 80%;
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
-    padding-top: 85px;
-    padding-bottom: 65px;
+// .project-image-70-perc {
+//     width: 80%;
+//     margin-left: auto;
+//     margin-right: auto;
+//     display: block;
+//     padding-top: 85px;
+//     padding-bottom: 65px;
 
-    @include md {
-        width: 70%;
-    }
-}
+//     @include md {
+//         width: 70%;
+//     }
+// }
 
-.accord-phone {
-    width: 100%;
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
-}
+// .accord-phone {
+//     width: 100%;
+//     margin-left: auto;
+//     margin-right: auto;
+//     display: block;
+// }
 
-.accord-oreo-image {
-    width: 80%;
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
-    padding-top: 40px;
+// .accord-oreo-image {
+//     width: 80%;
+//     margin-left: auto;
+//     margin-right: auto;
+//     display: block;
+//     padding-top: 40px;
 
-    @include md {
-         width: 70%;
-    }
+//     @include md {
+//          width: 70%;
+//     }
 
-    @include lg {
-        width: 60%;
-   }
-}
+//     @include lg {
+//         width: 60%;
+//    }
+// }
 
-.project-image-70-perc {
-    width: 70%;
-    margin-left: auto;
-    margin-right: auto;
-    padding-bottom: 50px;
-    padding-top: 50px;
-    display: block;
+// .project-image-70-perc {
+//     width: 70%;
+//     margin-left: auto;
+//     margin-right: auto;
+//     padding-bottom: 50px;
+//     padding-top: 50px;
+//     display: block;
     
-        @include md {
-        width: 50%;
-        padding-bottom: 60px;
-        padding-top: 80px;
-    }
-}
+//         @include md {
+//         width: 50%;
+//         padding-bottom: 60px;
+//         padding-top: 80px;
+//     }
+// }
