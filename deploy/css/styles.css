@@ -2456,12 +2456,6 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-.work-cover-title-1 {
-  padding-top: 20px;
-  font-size: 50px;
-  font-weight: 500;
-}
-
 .hallway-painting_panel {
   width: 100%;
   object-fit: cover;
@@ -2482,10 +2476,6 @@ h1, h2, h3, h4, h5, h6 {
   .pill-print_panel {
     height: 550px;
   }
-}
-
-.work-cover-title-1-2 {
-  font-size: 40px;
 }
 
 @media (min-width: 992px) {
