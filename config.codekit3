@@ -57,6 +57,14 @@
       "oAP" : "\/deploy\/bread.html",
       "oF" : 0
     },
+    "\/deploy\/contact.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/contact.html",
+      "oF" : 0
+    },
     "\/deploy\/crit-hit.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -3679,6 +3687,14 @@
       "oAP" : "\/dev\/components\/bread.html",
       "oF" : 0
     },
+    "\/dev\/components\/contact.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/contact.html",
+      "oF" : 1
+    },
     "\/dev\/components\/crit-hit.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -3693,22 +3709,6 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/components\/crsm.html",
-      "oF" : 0
-    },
-    "\/dev\/components\/details.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/components\/details.html",
-      "oF" : 0
-    },
-    "\/dev\/components\/details.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/components\/details.html",
       "oF" : 0
     },
     "\/dev\/components\/emmelina.kit" : {
@@ -4130,6 +4130,21 @@
       "pg" : 0,
       "sct" : 0
     },
+    "\/dev\/scss\/components\/_contact.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_contact.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
     "\/dev\/scss\/components\/_crit-hit.scss" : {
       "aP" : 0,
       "bl" : 0,
@@ -4155,21 +4170,6 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/scss\/components\/_crsm.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/dev\/scss\/components\/_details.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/scss\/components\/_details.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,

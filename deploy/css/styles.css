@@ -728,18 +728,28 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-.about-icons {
+.icons {
   display: flex;
   flex-direction: row;
   padding-left: 2px;
 }
 
-.email-logop {
+.email {
   width: 35px;
-  margin-bottom: -12px;
+  margin-bottom: -15px;
   margin-right: 10px;
 }
-.email-logop:hover {
+.email:hover {
+  transition: 0.3s ease;
+  filter: brightness(0) saturate(100%) invert(84%) sepia(21%) saturate(5134%) hue-rotate(302deg) brightness(99%) contrast(91%);
+}
+
+.linkedin {
+  width: 20px;
+  margin-bottom: -6px;
+  margin-right: 10px;
+}
+.linkedin:hover {
   transition: 0.3s ease;
   filter: brightness(0) saturate(100%) invert(84%) sepia(21%) saturate(5134%) hue-rotate(302deg) brightness(99%) contrast(91%);
 }
@@ -899,61 +909,14 @@ hr {
 .contact {
   padding-left: 20px;
   padding-top: 30px;
+  padding-bottom: 30px;
   font-size: 20px;
   width: 214px;
-  color: #6e6e6e;
-}
-
-.mail {
-  list-style-type: none;
-  padding-left: 0px;
-  text-decoration: none;
-}
-
-.detail-mail {
-  list-style-type: none;
-  padding-left: 0px;
-  text-decoration: none;
 }
 
 .icons {
   display: flex;
   flex-direction: row;
-}
-
-#copyright {
-  font-size: 15px;
-  width: 360px;
-  padding-top: 8px;
-}
-
-.linkedin {
-  padding-right: 10px;
-}
-
-.linkedin-logo {
-  width: 20px;
-  margin-bottom: -3px;
-}
-.linkedin-logo:hover {
-  transition: 0.3s ease;
-  filter: brightness(0) saturate(100%) invert(84%) sepia(21%) saturate(5134%) hue-rotate(302deg) brightness(99%) contrast(91%);
-}
-
-.insta-logo {
-  width: 20px;
-  margin-bottom: -5px;
-}
-
-.email-logo {
-  margin-right: 5px;
-  width: 35px;
-  margin-top: -3.5px;
-  margin-right: 10px;
-}
-.email-logo:hover {
-  transition: 0.3s ease;
-  filter: brightness(0) saturate(100%) invert(84%) sepia(21%) saturate(5134%) hue-rotate(302deg) brightness(99%) contrast(91%);
 }
 
 .footer-block {

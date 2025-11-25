@@ -65,15 +65,15 @@
     }
 }
 
-.about-icons {
+.icons {
     display: flex;
     flex-direction: row;
     padding-left: 2px;
 }
 
-.email-logop {
+.email {
     width: 35px;
-    margin-bottom: -12px;
+    margin-bottom: -15px;
     margin-right: 10px;
 
     &:hover {
@@ -81,6 +81,18 @@
         filter: brightness(0) saturate(100%) invert(84%) sepia(21%) saturate(5134%) hue-rotate(302deg) brightness(99%) contrast(91%);
     }
 }
+
+.linkedin {
+    width: 20px;
+    margin-bottom: -6px;
+    margin-right: 10px;
+
+    &:hover {
+        transition: .3s ease;
+        filter: brightness(0) saturate(100%) invert(84%) sepia(21%) saturate(5134%) hue-rotate(302deg) brightness(99%) contrast(91%);
+    }
+}
+
 
 hr {
     height: 2px;
