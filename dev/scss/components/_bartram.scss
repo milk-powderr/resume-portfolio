@@ -64,26 +64,26 @@
 //     }
 // }
 
-// .magazine-image1 {
-//     width: 100%;
-//     display: flex;
-//     padding-top: 40px;
-//     padding-bottom: 11px;
-//     justify-content: center;
-// }
+.magazine-image1 {
+    width: 100%;
+    display: flex;
+    padding-top: 40px;
+    padding-bottom: 11px;
+    justify-content: center;
+}
 
-// .oreo-vid {
-//     object-fit: cover;
-//     width: 80%;
-//     margin-left: auto;
-//     margin-right: auto;
-//     display: block;
-//     padding-top: 40px;
+.oreo-vid {
+    object-fit: cover;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding-top: 40px;
 
-//     @include md {
-//         width: 70%;
-//     }
-// }
+    @include md {
+        width: 70%;
+    }
+}
 
 // .accord-image {
 //     width: 80%;
