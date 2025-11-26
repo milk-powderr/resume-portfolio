@@ -93,14 +93,6 @@
       "oAP" : "\/deploy\/emmelina.html",
       "oF" : 0
     },
-    "\/deploy\/exhibition.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/exhibition.html",
-      "oF" : 0
-    },
     "\/deploy\/flushed-hall.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -2711,6 +2703,14 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
+    "\/deploy\/img\/pdf-portfolio.pdf" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/pdf-portfolio.pdf",
+      "oF" : 0
+    },
     "\/deploy\/img\/pill-1.webp" : {
       "ft" : 8388608,
       "iS" : 568836,
@@ -3742,14 +3742,6 @@
       "oAP" : "\/dev\/components\/emmelina.html",
       "oF" : 0
     },
-    "\/dev\/components\/exhibition.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/components\/exhibition.html",
-      "oF" : 0
-    },
     "\/dev\/components\/flushed-hall.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -3892,14 +3884,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/emmelina.html",
-      "oF" : 2
-    },
-    "\/dev\/exhibition.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/exhibition.html",
       "oF" : 2
     },
     "\/dev\/flushed-hall.kit" : {
@@ -4193,21 +4177,6 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/scss\/components\/_emmelina.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/dev\/scss\/components\/_exhibition.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/scss\/components\/_exhibition.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
