@@ -117,28 +117,6 @@
       "oAP" : "\/deploy\/hello-kitty.html",
       "oF" : 0
     },
-    "\/deploy\/img\/1-color-logo.webp" : {
-      "ft" : 8388608,
-      "iS" : 100438,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/1-color-logo.webp",
-      "oF" : 0,
-      "oIPL" : 1,
-      "opt" : 1,
-      "ou" : "lpckwebp-default",
-      "rq" : 75
-    },
-    "\/deploy\/img\/3-color-logo.webp" : {
-      "ft" : 8388608,
-      "iS" : 97980,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/3-color-logo.webp",
-      "oF" : 0,
-      "oIPL" : 1,
-      "opt" : 1,
-      "ou" : "lpckwebp-default",
-      "rq" : 75
-    },
     "\/deploy\/img\/accord-box1.webp" : {
       "ft" : 8388608,
       "iS" : 42326,
@@ -1841,6 +1819,28 @@
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/deploy\/img\/emmelina-1-color-logo.webp" : {
+      "ft" : 8388608,
+      "iS" : 100438,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/emmelina-1-color-logo.webp",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/deploy\/img\/emmelina-3-color-logo.webp" : {
+      "ft" : 8388608,
+      "iS" : 97980,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/emmelina-3-color-logo.webp",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
