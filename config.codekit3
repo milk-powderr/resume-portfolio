@@ -3521,14 +3521,6 @@
       "sC" : 3,
       "tS" : 0
     },
-    "\/deploy\/new-world-symphony.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/new-world-symphony.html",
-      "oF" : 0
-    },
     "\/deploy\/piece-of-cake.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -3782,14 +3774,6 @@
       "oAP" : "\/dev\/components\/intro.html",
       "oF" : 0
     },
-    "\/dev\/components\/new-world-symphony.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/components\/new-world-symphony.html",
-      "oF" : 0
-    },
     "\/dev\/components\/piece-of-cake.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -3953,14 +3937,6 @@
       "oF" : 0,
       "sC" : 3,
       "tS" : 0
-    },
-    "\/dev\/new-world-symphony.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/new-world-symphony.html",
-      "oF" : 2
     },
     "\/dev\/piece-of-cake.kit" : {
       "cB" : 0,
@@ -4282,21 +4258,6 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/scss\/components\/_navigation.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/dev\/scss\/components\/_new-world-symphony.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/scss\/components\/_new-world-symphony.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
