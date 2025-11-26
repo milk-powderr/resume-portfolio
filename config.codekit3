@@ -2165,17 +2165,6 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/deploy\/img\/letter-spread.webp" : {
-      "ft" : 8388608,
-      "iS" : 340306,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/letter-spread.webp",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-default",
-      "rq" : 75
-    },
     "\/deploy\/img\/lime.webp" : {
       "ft" : 8388608,
       "iS" : 279542,
@@ -2950,6 +2939,50 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
+    "\/deploy\/img\/rilke-multi-spread.webp" : {
+      "ft" : 8388608,
+      "iS" : 340306,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/rilke-multi-spread.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/deploy\/img\/rilke-spread-1.webp" : {
+      "ft" : 8388608,
+      "iS" : 137534,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/rilke-spread-1.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/deploy\/img\/rilke-spread-2.webp" : {
+      "ft" : 8388608,
+      "iS" : 210168,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/rilke-spread-2.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/deploy\/img\/rilke-spread-3.webp" : {
+      "ft" : 8388608,
+      "iS" : 175566,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/rilke-spread-3.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
     "\/deploy\/img\/self.webp" : {
       "ft" : 8388608,
       "iS" : 381540,
@@ -3034,39 +3067,6 @@
       "oA" : 0,
       "oAP" : "\/deploy\/img\/slap-vid.mp4",
       "oF" : 0
-    },
-    "\/deploy\/img\/spread-1.webp" : {
-      "ft" : 8388608,
-      "iS" : 137534,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/spread-1.webp",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-default",
-      "rq" : 75
-    },
-    "\/deploy\/img\/spread-2.webp" : {
-      "ft" : 8388608,
-      "iS" : 210168,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/spread-2.webp",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-default",
-      "rq" : 75
-    },
-    "\/deploy\/img\/spread-3.webp" : {
-      "ft" : 8388608,
-      "iS" : 175566,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/spread-3.webp",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-default",
-      "rq" : 75
     },
     "\/deploy\/img\/storyboard.webp" : {
       "ft" : 8388608,
