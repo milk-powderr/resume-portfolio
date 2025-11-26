@@ -351,6 +351,17 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
+    "\/deploy\/img\/augment-back.webp" : {
+      "ft" : 8388608,
+      "iS" : 159080,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/augment-back.webp",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
     "\/deploy\/img\/augment-cover.webp" : {
       "ft" : 8388608,
       "iS" : 136648,
@@ -362,11 +373,33 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/deploy\/img\/augment-new-2.webp" : {
+    "\/deploy\/img\/augment-dieline-mobile.webp" : {
+      "ft" : 8388608,
+      "iS" : 138564,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/augment-dieline-mobile.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/deploy\/img\/augment-dieline-web.webp" : {
+      "ft" : 8388608,
+      "iS" : 144678,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/augment-dieline-web.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/deploy\/img\/augment-isometric-mockup.webp" : {
       "ft" : 8388608,
       "iS" : 273306,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/augment-new-2.webp",
+      "oAP" : "\/deploy\/img\/augment-isometric-mockup.webp",
       "oF" : 0,
       "oIPL" : 1,
       "opt" : 1,
@@ -384,22 +417,11 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/deploy\/img\/augment-new-4.webp" : {
-      "ft" : 8388608,
-      "iS" : 159080,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/augment-new-4.webp",
-      "oF" : 0,
-      "oIPL" : 1,
-      "opt" : 1,
-      "ou" : "lpckwebp-default",
-      "rq" : 75
-    },
-    "\/deploy\/img\/augment-new.webp" : {
+    "\/deploy\/img\/augment-open.webp" : {
       "ft" : 8388608,
       "iS" : 214988,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/augment-new.webp",
+      "oAP" : "\/deploy\/img\/augment-open.webp",
       "oF" : 0,
       "oIPL" : 1,
       "opt" : 1,
@@ -1597,28 +1619,6 @@
       "iS" : 219082,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/cutlcover.webp",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-default",
-      "rq" : 75
-    },
-    "\/deploy\/img\/cutlery-mobile-split.webp" : {
-      "ft" : 8388608,
-      "iS" : 138564,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/cutlery-mobile-split.webp",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-default",
-      "rq" : 75
-    },
-    "\/deploy\/img\/cutlery-web-split.webp" : {
-      "ft" : 8388608,
-      "iS" : 144678,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/cutlery-web-split.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
