@@ -517,6 +517,12 @@ h1, h2, h3, h4, h5, h6 {
   width: 90%;
   padding-left: 30px;
   list-style-type: none;
+  margin-bottom: 65px;
+}
+@media (min-width: 768px) {
+  .project-title-and-text {
+    margin-bottom: 80px;
+  }
 }
 
 .project-title {
@@ -593,7 +599,7 @@ h1, h2, h3, h4, h5, h6 {
     margin-left: auto;
     margin-right: auto;
     display: block;
-    padding-top: 40px;
+    padding-bottom: 35px;
   }
 }
 
@@ -602,7 +608,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-left: auto;
   margin-right: auto;
   display: block;
-  padding-top: 40px;
+  padding-bottom: 35px;
 }
 @media (min-width: 992px) {
   .accord-dieline-mobile {
@@ -615,8 +621,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-left: auto;
   margin-right: auto;
   display: block;
-  padding-top: 85px;
-  padding-bottom: 65px;
+  padding-bottom: 35px;
 }
 @media (min-width: 768px) {
   .project-image-80-perc {
@@ -628,37 +633,12 @@ h1, h2, h3, h4, h5, h6 {
   width: 70%;
   margin-left: auto;
   margin-right: auto;
-  padding-bottom: 50px;
-  padding-top: 50px;
+  padding-bottom: 35px;
   display: block;
 }
 @media (min-width: 768px) {
   .project-image-70-perc {
     width: 35%;
-    padding-bottom: 60px;
-    padding-top: 80px;
-  }
-}
-
-.magazine-image1 {
-  width: 100%;
-  display: flex;
-  padding-top: 40px;
-  padding-bottom: 11px;
-  justify-content: center;
-}
-
-.oreo-vid {
-  object-fit: cover;
-  width: 80%;
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
-  padding-top: 40px;
-}
-@media (min-width: 768px) {
-  .oreo-vid {
-    width: 70%;
   }
 }
 
