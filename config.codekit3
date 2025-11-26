@@ -1133,17 +1133,6 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/deploy\/img\/carsm-tablet.webp" : {
-      "ft" : 8388608,
-      "iS" : 401024,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/carsm-tablet.webp",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-default",
-      "rq" : 75
-    },
     "\/deploy\/img\/chocolate-mobile-split.webp" : {
       "ft" : 8388608,
       "iS" : 99892,
@@ -1473,6 +1462,17 @@
       "iS" : 477806,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/crsm-mobile-twin.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/deploy\/img\/crsm-tablet.webp" : {
+      "ft" : 8388608,
+      "iS" : 401024,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/crsm-tablet.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
