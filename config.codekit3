@@ -1133,6 +1133,17 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
+    "\/deploy\/img\/carsm-tablet.webp" : {
+      "ft" : 8388608,
+      "iS" : 401024,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/carsm-tablet.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
     "\/deploy\/img\/chocolate-mobile-split.webp" : {
       "ft" : 8388608,
       "iS" : 99892,
@@ -1416,6 +1427,14 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
+    "\/deploy\/img\/crsm-cover-vid.mp4" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/crsm-cover-vid.mp4",
+      "oF" : 0
+    },
     "\/deploy\/img\/crsm-cover.webp" : {
       "ft" : 8388608,
       "iS" : 107766,
@@ -1427,21 +1446,49 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/deploy\/img\/crsm-desktop-view.mp4" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
+    "\/deploy\/img\/crsm-mobile-1.webp" : {
+      "ft" : 8388608,
+      "iS" : 412726,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/crsm-desktop-view.mp4",
-      "oF" : 0
+      "oAP" : "\/deploy\/img\/crsm-mobile-1.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
     },
-    "\/deploy\/img\/crsm-tablet-view.mp4" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
+    "\/deploy\/img\/crsm-mobile-2.webp" : {
+      "ft" : 8388608,
+      "iS" : 527470,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/crsm-tablet-view.mp4",
-      "oF" : 0
+      "oAP" : "\/deploy\/img\/crsm-mobile-2.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/deploy\/img\/crsm-mobile-twin.webp" : {
+      "ft" : 8388608,
+      "iS" : 477806,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/crsm-mobile-twin.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/deploy\/img\/crsm-web.webp" : {
+      "ft" : 8388608,
+      "iS" : 461206,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/crsm-web.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
     },
     "\/deploy\/img\/cutl-elements.webp" : {
       "ft" : 8388608,
