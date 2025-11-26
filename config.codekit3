@@ -799,28 +799,6 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/deploy\/img\/big-cake-palette.webp" : {
-      "ft" : 8388608,
-      "iS" : 89510,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/big-cake-palette.webp",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-default",
-      "rq" : 75
-    },
-    "\/deploy\/img\/big-cake.webp" : {
-      "ft" : 8388608,
-      "iS" : 546740,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/big-cake.webp",
-      "oF" : 0,
-      "oIPL" : 1,
-      "opt" : 1,
-      "ou" : "lpckwebp-default",
-      "rq" : 75
-    },
     "\/deploy\/img\/bit-1.webp" : {
       "ft" : 8388608,
       "iS" : 365836,
@@ -1048,6 +1026,28 @@
       "iS" : 148814,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/business-cards.webp",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/deploy\/img\/cake-map-palette.webp" : {
+      "ft" : 8388608,
+      "iS" : 89510,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/cake-map-palette.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/deploy\/img\/cake-map.webp" : {
+      "ft" : 8388608,
+      "iS" : 546740,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/cake-map.webp",
       "oF" : 0,
       "oIPL" : 1,
       "opt" : 1,
@@ -3521,14 +3521,6 @@
       "sC" : 3,
       "tS" : 0
     },
-    "\/deploy\/piece-of-cake.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/piece-of-cake.html",
-      "oF" : 0
-    },
     "\/deploy\/pills.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -3774,14 +3766,6 @@
       "oAP" : "\/dev\/components\/intro.html",
       "oF" : 0
     },
-    "\/dev\/components\/piece-of-cake.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/components\/piece-of-cake.html",
-      "oF" : 0
-    },
     "\/dev\/components\/pills.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -3937,14 +3921,6 @@
       "oF" : 0,
       "sC" : 3,
       "tS" : 0
-    },
-    "\/dev\/piece-of-cake.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/piece-of-cake.html",
-      "oF" : 2
     },
     "\/dev\/pills.kit" : {
       "cB" : 0,
@@ -4258,21 +4234,6 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/scss\/components\/_navigation.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/dev\/scss\/components\/_piece-of-cake.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/scss\/components\/_piece-of-cake.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
