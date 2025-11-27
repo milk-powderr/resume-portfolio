@@ -3561,14 +3561,6 @@
       "oAP" : "\/deploy\/rilke.html",
       "oF" : 0
     },
-    "\/deploy\/sanrio.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/sanrio.html",
-      "oF" : 0
-    },
     "\/deploy\/slap.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -3576,6 +3568,14 @@
       "oA" : 1,
       "oAP" : "\/deploy\/slap.html",
       "oF" : 1
+    },
+    "\/deploy\/valentines-day.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/valentines-day.html",
+      "oF" : 0
     },
     "\/deploy\/wonderfilled.html" : {
       "cB" : 0,
@@ -3778,9 +3778,9 @@
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 0,
+      "oA" : 1,
       "oAP" : "\/dev\/components\/leg-warmers.html",
-      "oF" : 0
+      "oF" : 1
     },
     "\/dev\/components\/nui-clothes.kit" : {
       "cB" : 0,
@@ -3820,6 +3820,14 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/components\/slap.html",
+      "oF" : 1
+    },
+    "\/dev\/components\/valentines-day.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/valentines-day.html",
       "oF" : 1
     },
     "\/dev\/components\/wonderfilled.kit" : {
@@ -3935,7 +3943,7 @@
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/warmers.html",
+      "oAP" : "\/deploy\/leg-warmers.html",
       "oF" : 2
     },
     "\/dev\/nui-clothes.kit" : {
@@ -3943,7 +3951,7 @@
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/sanrio.html",
+      "oAP" : "\/deploy\/nui-clothes.html",
       "oF" : 2
     },
     "\/dev\/pills.kit" : {
@@ -4330,6 +4338,21 @@
       "pg" : 0,
       "sct" : 0
     },
+    "\/dev\/scss\/components\/_valentines-day.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_valentines-day.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
     "\/dev\/scss\/components\/_wonderfilled.scss" : {
       "aP" : 0,
       "bl" : 0,
@@ -4435,6 +4458,14 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/slap.html",
+      "oF" : 2
+    },
+    "\/dev\/valentines-day.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/valentines-day.html",
       "oF" : 2
     },
     "\/dev\/wonderfilled.kit" : {
