@@ -3521,6 +3521,14 @@
       "sC" : 3,
       "tS" : 0
     },
+    "\/deploy\/nui-clothes.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/nui-clothes.html",
+      "oF" : 0
+    },
     "\/deploy\/pills.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -3543,14 +3551,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/rilke.html",
-      "oF" : 0
-    },
-    "\/deploy\/sanrio.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/sanrio.html",
       "oF" : 0
     },
     "\/deploy\/slap.html" : {
@@ -3766,6 +3766,14 @@
       "oAP" : "\/dev\/components\/intro.html",
       "oF" : 0
     },
+    "\/dev\/components\/nui-clothes.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/nui-clothes.html",
+      "oF" : 0
+    },
     "\/dev\/components\/pills.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -3789,14 +3797,6 @@
       "oA" : 1,
       "oAP" : "\/dev\/components\/rilke.html",
       "oF" : 1
-    },
-    "\/dev\/components\/sanrio.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/components\/sanrio.html",
-      "oF" : 0
     },
     "\/dev\/components\/slap.kit" : {
       "cB" : 0,
@@ -3922,6 +3922,14 @@
       "sC" : 3,
       "tS" : 0
     },
+    "\/dev\/nui-clothes.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/sanrio.html",
+      "oF" : 2
+    },
     "\/dev\/pills.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -3944,14 +3952,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/rilke.html",
-      "oF" : 2
-    },
-    "\/dev\/sanrio.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/sanrio.html",
       "oF" : 2
     },
     "\/dev\/scss\/base\/_base.scss" : {
@@ -4224,7 +4224,7 @@
       "pg" : 0,
       "sct" : 0
     },
-    "\/dev\/scss\/components\/_navigation.scss" : {
+    "\/dev\/scss\/components\/_nui-clothes.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -4233,7 +4233,7 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/scss\/components\/_navigation.css",
+      "oAP" : "\/dev\/scss\/components\/_nui-clothes.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
@@ -4279,21 +4279,6 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/scss\/components\/_rilke.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/dev\/scss\/components\/_sanrio.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/scss\/components\/_sanrio.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
