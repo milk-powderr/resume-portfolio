@@ -1,154 +1,22 @@
-// .project-title-and-text {
-//     width: 90%;
-//     padding-left: 30px;
-// }
+.oreo-guidelines {
+    color: #000000;
+    transition: 0.25s;
+    padding: 10px 20px;
+    border-radius: 30px;
+    border: solid 2px #000000;
+    width: fit-content;
+    font-size: 20px;
+    margin-top: 25px;
+    list-style-type: none;
+}
 
-// .project-title {
-//     padding-top: 50px;
-//     font-size: 40px;
-//     font-weight: 450;
-//     color: #f590a1;;
-//     list-style-type: none;
-
-//         @include md {
-//         font-size: 50px;
-//     }
-// }
-
-// .project-type-tools {
-//     font-size: 30px;
-//     color: #000000;
-//     list-style-type: none;
-
-//         @include md {
-//         font-size: 40px;
-//     }
-// }
-
-// .project-objective-title {
-//     padding-top: 50px;
-//     font-size: 30px;
-//     color: #000000;
-//     list-style-type: none;
- 
-//         @include md {
-//         font-size: 40px;
-//     }
-// }
-
-// .project-process-title {
-//     padding-top: 20px;
-//     font-size: 30px;
-//     color: #000000;
-//     list-style-type: none;
- 
-//         @include md {
-//         font-size: 40px;
-//     }
-// }
-
-// .project-body-text {
-//     font-size: 20px;
-//     color: #000000;
-//     list-style-type: none;
-//     width: 100%;
-
-//     @include md {
-//         width: 740px;
-//     font-size: 30px;
-//     font-weight: 350;
-//     }
-
-//         @include lg {
-//     font-weight: 340;
-//     }
-// }
-
-// .oreo-guidelines {
-//     color: #000000;
-//     transition: 0.25s;
-//     padding: 10px 20px;
-//     border-radius: 30px;
-//     border: solid 2px #000000;
-//     width: fit-content;
-//     font-size: 20px;
-//     margin-top: 25px;
-//     list-style-type: none;
-// }
-
-// .oreob {
-//     text-decoration: none;
-//     color: #000000;
-//     font-size: 15px;
-// }
-
-// .accord-image {
-//     width: 80%;
-//     margin-left: auto;
-//     margin-right: auto;
-//     display: block;
-//     padding-top: 40px;
-
-//     @include md {
-//         width: 70%;
-//     }
-// }
-
-// .accord-oreo-image {
-//     width: 80%;
-//     margin-left: auto;
-//     margin-right: auto;
-//     display: block;
-//     padding-top: 40px;
-
-//     @include md {
-//          width: 70%;
-//     }
-
-//     @include lg {
-//         width: 60%;
-//    }
-// }
-
-// .oreo-image {
-//     width: 100%;
-//     margin-left: auto;
-//     margin-right: auto;
-//     display: block;
-//     padding-top: 40px;
-
-//     @include md {
-//     width: 90%;
-//     }
-// }
-
-// .project-video {
-//     width: 100%;
-//     display: flex;
-//     padding-top: 40px;
-//     padding-bottom: 11px;
-//     justify-content: center;
-// }
-
-// .oreo-palette {
-//     display: grid;
-//     grid-template-columns: repeat(1, 1fr);
-//     gap: 11px;
-
-//         @include md {
-//         grid-template-columns: repeat(2, 1fr);
-//     }
-// }
-
-// .oreo-vid {
-//     object-fit: cover;
-//     width: 80%;
-//     margin-left: auto;
-//     margin-right: auto;
-//     display: block;
-//     padding-top: 40px;
-
-//     @include md {
-//         width: 70%;
-//     }
-// }
+.oreo-guidelines-button {
+    color: #000000;
+    transition: 0.25s;
+    padding: 10px 20px;
+    border-radius: 30px;
+    border: solid 2px #000000;
+    width: fit-content;
+    font-size: 20px;
+    margin-top: 20px;
+}
