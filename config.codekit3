@@ -2077,6 +2077,28 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
+    "\/deploy\/img\/leg-warmer-1.webp" : {
+      "ft" : 8388608,
+      "iS" : 617210,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/leg-warmer-1.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/deploy\/img\/leg-warmer-2.webp" : {
+      "ft" : 8388608,
+      "iS" : 516266,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/leg-warmer-2.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
     "\/deploy\/img\/lemon-1.webp" : {
       "ft" : 8388608,
       "iS" : 509616,
@@ -3455,28 +3477,6 @@
       "iS" : 544580,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/u-winter-cover-1.webp",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-default",
-      "rq" : 75
-    },
-    "\/deploy\/img\/warmer1.webp" : {
-      "ft" : 8388608,
-      "iS" : 617210,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/warmer1.webp",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-default",
-      "rq" : 75
-    },
-    "\/deploy\/img\/warmer2.webp" : {
-      "ft" : 8388608,
-      "iS" : 516266,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/warmer2.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
