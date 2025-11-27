@@ -450,14 +450,6 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/deploy\/img\/bartram-animation.mp4" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/bartram-animation.mp4",
-      "oF" : 0
-    },
     "\/deploy\/img\/bartram-bit-1.webp" : {
       "ft" : 8388608,
       "iS" : 122002,
@@ -754,6 +746,14 @@
       "opt" : 1,
       "ou" : "lpckwebp-default",
       "rq" : 75
+    },
+    "\/deploy\/img\/bartram-video.mp4" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/bartram-video.mp4",
+      "oF" : 0
     },
     "\/deploy\/img\/bartram-web-1.webp" : {
       "ft" : 8388608,
@@ -1364,12 +1364,12 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/deploy\/img\/crsm-cover-vid.mp4" : {
+    "\/deploy\/img\/crsm-cover-video.mp4" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/crsm-cover-vid.mp4",
+      "oAP" : "\/deploy\/img\/crsm-cover-video.mp4",
       "oF" : 0
     },
     "\/deploy\/img\/crsm-cover.webp" : {
@@ -1814,12 +1814,12 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/deploy\/img\/emmelina-vid.mp4" : {
+    "\/deploy\/img\/emmelina-video.mp4" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/emmelina-vid.mp4",
+      "oAP" : "\/deploy\/img\/emmelina-video.mp4",
       "oF" : 0
     },
     "\/deploy\/img\/ex-1.webp" : {
@@ -2596,14 +2596,6 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/deploy\/img\/oreo-movie.mp4" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/oreo-movie.mp4",
-      "oF" : 0
-    },
     "\/deploy\/img\/oreo-new-1.webp" : {
       "ft" : 8388608,
       "iS" : 115508,
@@ -2647,6 +2639,14 @@
       "opt" : 0,
       "ou" : "lpckwebp-default",
       "rq" : 75
+    },
+    "\/deploy\/img\/oreo-video.mp4" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/oreo-video.mp4",
+      "oF" : 0
     },
     "\/deploy\/img\/oreo.webp" : {
       "ft" : 8388608,
@@ -3082,12 +3082,12 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/deploy\/img\/slap-vid.mp4" : {
+    "\/deploy\/img\/slap-video.mp4" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/slap-vid.mp4",
+      "oAP" : "\/deploy\/img\/slap-video.mp4",
       "oF" : 0
     },
     "\/deploy\/img\/storyboard.webp" : {
