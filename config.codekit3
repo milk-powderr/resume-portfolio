@@ -1114,17 +1114,6 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/deploy\/img\/cans.webp" : {
-      "ft" : 8388608,
-      "iS" : 172238,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/cans.webp",
-      "oF" : 0,
-      "oIPL" : 1,
-      "opt" : 1,
-      "ou" : "lpckwebp-default",
-      "rq" : 75
-    },
     "\/deploy\/img\/chocolate-mobile-split.webp" : {
       "ft" : 8388608,
       "iS" : 99892,
@@ -1141,39 +1130,6 @@
       "iS" : 99842,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/chocolate-web-split.webp",
-      "oF" : 0,
-      "oIPL" : 1,
-      "opt" : 1,
-      "ou" : "lpckwebp-default",
-      "rq" : 75
-    },
-    "\/deploy\/img\/cit-elements.webp" : {
-      "ft" : 8388608,
-      "iS" : 137728,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/cit-elements.webp",
-      "oF" : 0,
-      "oIPL" : 1,
-      "opt" : 1,
-      "ou" : "lpckwebp-default",
-      "rq" : 75
-    },
-    "\/deploy\/img\/cit-elements2.webp" : {
-      "ft" : 8388608,
-      "iS" : 260640,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/cit-elements2.webp",
-      "oF" : 0,
-      "oIPL" : 1,
-      "opt" : 1,
-      "ou" : "lpckwebp-default",
-      "rq" : 75
-    },
-    "\/deploy\/img\/cit-elements3.webp" : {
-      "ft" : 8388608,
-      "iS" : 138062,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/cit-elements3.webp",
       "oF" : 0,
       "oIPL" : 1,
       "opt" : 1,
@@ -3005,11 +2961,55 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
+    "\/deploy\/img\/slap-assets.webp" : {
+      "ft" : 8388608,
+      "iS" : 260640,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/slap-assets.webp",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/deploy\/img\/slap-cans.webp" : {
+      "ft" : 8388608,
+      "iS" : 172238,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/slap-cans.webp",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
     "\/deploy\/img\/slap-cover.webp" : {
       "ft" : 8388608,
       "iS" : 49380,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/slap-cover.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/deploy\/img\/slap-die-line.webp" : {
+      "ft" : 8388608,
+      "iS" : 138062,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/slap-die-line.webp",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/deploy\/img\/slap-multi-view.webp" : {
+      "ft" : 8388608,
+      "iS" : 311624,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/slap-multi-view.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -3049,14 +3049,14 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/deploy\/img\/slap-new-4.webp" : {
+    "\/deploy\/img\/slap-type-color.webp" : {
       "ft" : 8388608,
-      "iS" : 311624,
+      "iS" : 137728,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/slap-new-4.webp",
+      "oAP" : "\/deploy\/img\/slap-type-color.webp",
       "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
@@ -3551,6 +3551,14 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/rilke.html",
+      "oF" : 0
+    },
+    "\/deploy\/sanrio.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/sanrio.html",
       "oF" : 0
     },
     "\/deploy\/slap.html" : {

@@ -642,6 +642,19 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
+.project-image-90-perc {
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  padding-bottom: 55px;
+}
+@media (min-width: 768px) {
+  .project-image-90-perc {
+    width: 80%;
+  }
+}
+
 .all-play-covers {
   display: grid;
   padding-top: 50px;
