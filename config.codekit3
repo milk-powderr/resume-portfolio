@@ -77,6 +77,14 @@
       "oF" : 0,
       "pg" : 0
     },
+    "\/deploy\/easter.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/easter.html",
+      "oF" : 0
+    },
     "\/deploy\/emmelina.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -1235,28 +1243,6 @@
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
-      "ou" : "lpckwebp-default",
-      "rq" : 75
-    },
-    "\/deploy\/img\/composition-2.webp" : {
-      "ft" : 8388608,
-      "iS" : 149878,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/composition-2.webp",
-      "oF" : 0,
-      "oIPL" : 1,
-      "opt" : 1,
-      "ou" : "lpckwebp-default",
-      "rq" : 75
-    },
-    "\/deploy\/img\/composition.webp" : {
-      "ft" : 8388608,
-      "iS" : 814012,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/composition.webp",
-      "oF" : 0,
-      "oIPL" : 1,
-      "opt" : 1,
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
@@ -2577,11 +2563,22 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/deploy\/img\/oreo-dissection.webp" : {
+    "\/deploy\/img\/oreo-assets.webp" : {
       "ft" : 8388608,
       "iS" : 81724,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/oreo-dissection.webp",
+      "oAP" : "\/deploy\/img\/oreo-assets.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/deploy\/img\/oreo-color-type.webp" : {
+      "ft" : 8388608,
+      "iS" : 71858,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/oreo-color-type.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -2621,14 +2618,14 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/deploy\/img\/oreo-palette.webp" : {
+    "\/deploy\/img\/oreo-tablets.webp" : {
       "ft" : 8388608,
-      "iS" : 71858,
+      "iS" : 149878,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/oreo-palette.webp",
+      "oAP" : "\/deploy\/img\/oreo-tablets.webp",
       "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
@@ -3420,22 +3417,22 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/deploy\/img\/u-usa-1.webp" : {
+    "\/deploy\/img\/u-patriotic-1.webp" : {
       "ft" : 8388608,
       "iS" : 350296,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/u-usa-1.webp",
+      "oAP" : "\/deploy\/img\/u-patriotic-1.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/deploy\/img\/u-usa-cover.webp" : {
+    "\/deploy\/img\/u-patriotic-cover.webp" : {
       "ft" : 8388608,
       "iS" : 829400,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/u-usa-cover.webp",
+      "oAP" : "\/deploy\/img\/u-patriotic-cover.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -3718,6 +3715,14 @@
       "oAP" : "\/dev\/components\/crsm.html",
       "oF" : 0
     },
+    "\/dev\/components\/easter.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/easter.html",
+      "oF" : 1
+    },
     "\/dev\/components\/emmelina.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -3852,6 +3857,14 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/crsm.html",
+      "oF" : 2
+    },
+    "\/dev\/easter.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/easter.html",
       "oF" : 2
     },
     "\/dev\/emmelina.kit" : {
@@ -4130,6 +4143,21 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/scss\/components\/_crsm.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/dev\/scss\/components\/_easter.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_easter.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
