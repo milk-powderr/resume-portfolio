@@ -3566,6 +3566,14 @@
       "oAP" : "\/deploy\/slap.html",
       "oF" : 1
     },
+    "\/deploy\/spring-summer.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/spring-summer.html",
+      "oF" : 0
+    },
     "\/deploy\/valentines-day.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -3842,6 +3850,14 @@
       "oA" : 1,
       "oAP" : "\/dev\/components\/slap.html",
       "oF" : 1
+    },
+    "\/dev\/components\/spring-summer.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/spring-summer.html",
+      "oF" : 0
     },
     "\/dev\/components\/valentines-day.kit" : {
       "cB" : 0,
@@ -4397,6 +4413,21 @@
       "pg" : 0,
       "sct" : 0
     },
+    "\/dev\/scss\/components\/_spring-summer.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_spring-summer.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
     "\/dev\/scss\/components\/_valentines-day.scss" : {
       "aP" : 0,
       "bl" : 0,
@@ -4517,6 +4548,14 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/slap.html",
+      "oF" : 2
+    },
+    "\/dev\/spring-summer.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/spring-summer.html",
       "oF" : 2
     },
     "\/dev\/valentines-day.kit" : {
