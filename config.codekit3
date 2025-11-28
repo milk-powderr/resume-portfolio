@@ -125,14 +125,6 @@
       "oAP" : "\/deploy\/flushed-hall.html",
       "oF" : 0
     },
-    "\/deploy\/graduation-patriotic.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/graduation-patriotic.html",
-      "oF" : 0
-    },
     "\/deploy\/hello-kitty.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -3797,14 +3789,6 @@
       "oAP" : "\/dev\/components\/footer.html",
       "oF" : 1
     },
-    "\/dev\/components\/graduation-patriotic.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/components\/graduation-patriotic.html",
-      "oF" : 1
-    },
     "\/dev\/components\/header.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -3923,14 +3907,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/flushed-hall.html",
-      "oF" : 2
-    },
-    "\/dev\/graduation-patriotic.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/graduation-patriotic.html",
       "oF" : 2
     },
     "\/dev\/hello-kitty.kit" : {
@@ -4298,21 +4274,6 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/scss\/components\/_forms.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/dev\/scss\/components\/_graduation-patriotic.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/scss\/components\/_graduation-patriotic.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
