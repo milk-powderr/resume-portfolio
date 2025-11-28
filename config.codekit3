@@ -49,6 +49,14 @@
       "oAP" : "\/deploy\/bartram.html",
       "oF" : 0
     },
+    "\/deploy\/birthday.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/birthday.html",
+      "oF" : 0
+    },
     "\/deploy\/crit-hit.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -3659,6 +3667,14 @@
       "pg" : 0,
       "sct" : 0
     },
+    "\/dev\/birthday.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/birthday.html",
+      "oF" : 2
+    },
     "\/dev\/components\/about.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -3690,6 +3706,14 @@
       "oA" : 1,
       "oAP" : "\/dev\/components\/bartram.html",
       "oF" : 0
+    },
+    "\/dev\/components\/birthday.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/birthday.html",
+      "oF" : 1
     },
     "\/dev\/components\/contact.kit" : {
       "cB" : 0,
@@ -4083,6 +4107,21 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/scss\/components\/_bartram.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/dev\/scss\/components\/_birthday.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_birthday.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
