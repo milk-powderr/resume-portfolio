@@ -101,14 +101,6 @@
       "oF" : 0,
       "pg" : 0
     },
-    "\/deploy\/easter.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/easter.html",
-      "oF" : 0
-    },
     "\/deploy\/emmelina.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -3600,7 +3592,7 @@
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/birthday.html",
+      "oAP" : "\/deploy\/2025-everyday.html",
       "oF" : 2
     },
     "\/dev\/2025-fall-winter.kit" : {
