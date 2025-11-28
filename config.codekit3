@@ -1813,6 +1813,17 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
+    "\/deploy\/img\/emmelina-logos.webp" : {
+      "ft" : 8388608,
+      "iS" : 64822,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/emmelina-logos.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
     "\/deploy\/img\/emmelina-pattern.webp" : {
       "ft" : 8388608,
       "iS" : 96870,
