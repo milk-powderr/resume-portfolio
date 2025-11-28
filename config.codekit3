@@ -17,6 +17,30 @@
       "oAP" : "\/.gitattributes",
       "oF" : 0
     },
+    "\/deploy\/2025-everyday.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/2025-everyday.html",
+      "oF" : 0
+    },
+    "\/deploy\/2025-fall-winter.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/2025-fall-winter.html",
+      "oF" : 0
+    },
+    "\/deploy\/2026-spring-summer.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/2026-spring-summer.html",
+      "oF" : 0
+    },
     "\/deploy\/about.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -47,14 +71,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/bartram.html",
-      "oF" : 0
-    },
-    "\/deploy\/birthday.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/birthday.html",
       "oF" : 0
     },
     "\/deploy\/crit-hit.html" : {
@@ -3574,22 +3590,6 @@
       "oAP" : "\/deploy\/slap.html",
       "oF" : 1
     },
-    "\/deploy\/spring-summer.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/spring-summer.html",
-      "oF" : 0
-    },
-    "\/deploy\/valentines-day.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/valentines-day.html",
-      "oF" : 0
-    },
     "\/deploy\/wonderfilled.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -3605,6 +3605,30 @@
       "oA" : 0,
       "oAP" : "\/deploy\/work.html",
       "oF" : 0
+    },
+    "\/dev\/2025-everyday.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/birthday.html",
+      "oF" : 2
+    },
+    "\/dev\/2025-fall-winter.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/2025-fall-winter.html",
+      "oF" : 2
+    },
+    "\/dev\/2026-spring-summer.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/2026-spring-summer.html",
+      "oF" : 2
     },
     "\/dev\/about.kit" : {
       "cB" : 0,
@@ -3683,13 +3707,29 @@
       "pg" : 0,
       "sct" : 0
     },
-    "\/dev\/birthday.kit" : {
+    "\/dev\/components\/2025-everyday.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/birthday.html",
-      "oF" : 2
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/2025-everyday.html",
+      "oF" : 1
+    },
+    "\/dev\/components\/2025-fall-winter.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/2025-fall-winter.html",
+      "oF" : 1
+    },
+    "\/dev\/components\/2026-spring-summer.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/2026-spring-summer.html",
+      "oF" : 1
     },
     "\/dev\/components\/about.kit" : {
       "cB" : 0,
@@ -3723,14 +3763,6 @@
       "oAP" : "\/dev\/components\/bartram.html",
       "oF" : 0
     },
-    "\/dev\/components\/birthday.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/components\/birthday.html",
-      "oF" : 1
-    },
     "\/dev\/components\/contact.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -3754,14 +3786,6 @@
       "oA" : 1,
       "oAP" : "\/dev\/components\/crsm.html",
       "oF" : 0
-    },
-    "\/dev\/components\/easter.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/components\/easter.html",
-      "oF" : 1
     },
     "\/dev\/components\/emmelina.kit" : {
       "cB" : 0,
@@ -3867,22 +3891,6 @@
       "oAP" : "\/dev\/components\/slap.html",
       "oF" : 1
     },
-    "\/dev\/components\/spring-summer.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/components\/spring-summer.html",
-      "oF" : 0
-    },
-    "\/dev\/components\/valentines-day.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/components\/valentines-day.html",
-      "oF" : 1
-    },
     "\/dev\/components\/wonderfilled.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -3913,14 +3921,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/crsm.html",
-      "oF" : 2
-    },
-    "\/dev\/easter.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/easter.html",
       "oF" : 2
     },
     "\/dev\/emmelina.kit" : {
@@ -4092,6 +4092,51 @@
       "pg" : 0,
       "sct" : 0
     },
+    "\/dev\/scss\/components\/_2025-everyday.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_2025-everyday.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/dev\/scss\/components\/_2025-fall-winter.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_2025-fall-winter.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/dev\/scss\/components\/_2026-spring-summer.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_2026-spring-summer.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
     "\/dev\/scss\/components\/_about.scss" : {
       "aP" : 0,
       "bl" : 0,
@@ -4152,21 +4197,6 @@
       "pg" : 0,
       "sct" : 0
     },
-    "\/dev\/scss\/components\/_birthday.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/scss\/components\/_birthday.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
     "\/dev\/scss\/components\/_buttons.scss" : {
       "aP" : 0,
       "bl" : 0,
@@ -4222,21 +4252,6 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/scss\/components\/_crsm.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/dev\/scss\/components\/_easter.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/scss\/components\/_easter.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
@@ -4452,36 +4467,6 @@
       "pg" : 0,
       "sct" : 0
     },
-    "\/dev\/scss\/components\/_spring-summer.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/scss\/components\/_spring-summer.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/dev\/scss\/components\/_valentines-day.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/scss\/components\/_valentines-day.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
     "\/dev\/scss\/components\/_wonderfilled.scss" : {
       "aP" : 0,
       "bl" : 0,
@@ -4587,22 +4572,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/slap.html",
-      "oF" : 2
-    },
-    "\/dev\/spring-summer.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/spring-summer.html",
-      "oF" : 2
-    },
-    "\/dev\/valentines-day.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/valentines-day.html",
       "oF" : 2
     },
     "\/dev\/wonderfilled.kit" : {
