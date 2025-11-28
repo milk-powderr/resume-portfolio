@@ -3284,17 +3284,6 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/deploy\/img\/u-grad-2.webp" : {
-      "ft" : 8388608,
-      "iS" : 747332,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/u-grad-2.webp",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-default",
-      "rq" : 75
-    },
     "\/deploy\/img\/u-grad-cover.webp" : {
       "ft" : 8388608,
       "iS" : 472262,
@@ -3374,7 +3363,7 @@
     },
     "\/deploy\/img\/u-love-2.webp" : {
       "ft" : 8388608,
-      "iS" : 265394,
+      "iS" : 135444,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/u-love-2.webp",
       "oF" : 0,
@@ -3396,20 +3385,9 @@
     },
     "\/deploy\/img\/u-love-4.webp" : {
       "ft" : 8388608,
-      "iS" : 428276,
+      "iS" : 205674,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/u-love-4.webp",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-default",
-      "rq" : 75
-    },
-    "\/deploy\/img\/u-love-5.webp" : {
-      "ft" : 8388608,
-      "iS" : 119504,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/u-love-5.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
