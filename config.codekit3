@@ -3168,7 +3168,7 @@
     },
     "\/deploy\/img\/u-easter-3.webp" : {
       "ft" : 8388608,
-      "iS" : 271474,
+      "iS" : 161384,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/u-easter-3.webp",
       "oF" : 0,
@@ -3179,7 +3179,7 @@
     },
     "\/deploy\/img\/u-easter-4.webp" : {
       "ft" : 8388608,
-      "iS" : 541168,
+      "iS" : 109490,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/u-easter-4.webp",
       "oF" : 0,
@@ -3468,6 +3468,17 @@
       "iS" : 829400,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/u-patriotic-cover.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/deploy\/img\/u-religious-1.webp" : {
+      "ft" : 8388608,
+      "iS" : 541168,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/u-religious-1.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
