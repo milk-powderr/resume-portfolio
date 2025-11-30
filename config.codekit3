@@ -3353,6 +3353,17 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
+    "\/deploy\/img\/u-hk-3.webp" : {
+      "ft" : 8388608,
+      "iS" : 220328,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/u-hk-3.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
     "\/deploy\/img\/u-love-1.webp" : {
       "ft" : 8388608,
       "iS" : 388578,
