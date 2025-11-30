@@ -3232,6 +3232,28 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
+    "\/deploy\/img\/u-game-1.webp" : {
+      "ft" : 8388608,
+      "iS" : 262956,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/u-game-1.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/deploy\/img\/u-game-2.webp" : {
+      "ft" : 8388608,
+      "iS" : 236878,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/u-game-2.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
     "\/deploy\/img\/u-game-cover.webp" : {
       "ft" : 8388608,
       "iS" : 263556,
