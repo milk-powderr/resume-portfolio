@@ -3567,6 +3567,14 @@
       "oAP" : "\/deploy\/img\/wonderfilled-design-guidelines.pdf",
       "oF" : 0
     },
+    "\/deploy\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/index.html",
+      "oF" : 0
+    },
     "\/deploy\/js\/scripts-min-min.js" : {
       "bF" : 0,
       "ft" : 64,
@@ -3643,14 +3651,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/wonderfilled.html",
-      "oF" : 0
-    },
-    "\/deploy\/work.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/work.html",
       "oF" : 0
     },
     "\/dev\/2025-everyday.kit" : {
@@ -3874,6 +3874,14 @@
       "oAP" : "\/dev\/components\/hello-kitty.html",
       "oF" : 1
     },
+    "\/dev\/components\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/deploy\/work.html",
+      "oF" : 3
+    },
     "\/dev\/components\/intro.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -3937,14 +3945,6 @@
       "oA" : 1,
       "oAP" : "\/dev\/components\/wonderfilled.html",
       "oF" : 0
-    },
-    "\/dev\/components\/work.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/deploy\/work.html",
-      "oF" : 3
     },
     "\/dev\/crit-hit.kit" : {
       "cB" : 0,
@@ -4015,6 +4015,14 @@
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
+    },
+    "\/dev\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/index.html",
+      "oF" : 2
     },
     "\/dev\/js\/scripts-min.js" : {
       "bF" : 0,
@@ -4378,6 +4386,21 @@
       "pg" : 0,
       "sct" : 0
     },
+    "\/dev\/scss\/components\/_index.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_index.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
     "\/dev\/scss\/components\/_intro.scss" : {
       "aP" : 0,
       "bl" : 0,
@@ -4498,21 +4521,6 @@
       "pg" : 0,
       "sct" : 0
     },
-    "\/dev\/scss\/components\/_work.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/scss\/components\/_work.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
     "\/dev\/scss\/helpers\/_mixins.scss" : {
       "aP" : 0,
       "bl" : 0,
@@ -4596,14 +4604,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/wonderfilled.html",
-      "oF" : 2
-    },
-    "\/dev\/work.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/work.html",
       "oF" : 2
     }
   },
