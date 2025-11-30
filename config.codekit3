@@ -3278,9 +3278,20 @@
     },
     "\/deploy\/img\/u-grad-1.webp" : {
       "ft" : 8388608,
-      "iS" : 704184,
+      "iS" : 240050,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/u-grad-1.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/deploy\/img\/u-grad-2.webp" : {
+      "ft" : 8388608,
+      "iS" : 141444,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/u-grad-2.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
