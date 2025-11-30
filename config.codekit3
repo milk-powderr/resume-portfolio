@@ -287,33 +287,33 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/deploy\/img\/accord-pc-mockup-2.webp" : {
+    "\/deploy\/img\/accord-pc-mock-up-2.webp" : {
       "ft" : 8388608,
       "iS" : 329120,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/accord-pc-mockup-2.webp",
+      "oAP" : "\/deploy\/img\/accord-pc-mock-up-2.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/deploy\/img\/accord-pc-mockup.webp" : {
+    "\/deploy\/img\/accord-pc-mock-up.webp" : {
       "ft" : 8388608,
       "iS" : 319278,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/accord-pc-mockup.webp",
+      "oAP" : "\/deploy\/img\/accord-pc-mock-up.webp",
       "oF" : 0,
       "oIPL" : 1,
       "opt" : 1,
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/deploy\/img\/accord-phone-mockup.webp" : {
+    "\/deploy\/img\/accord-phone-mock-up.webp" : {
       "ft" : 8388608,
       "iS" : 371314,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/accord-phone-mockup.webp",
+      "oAP" : "\/deploy\/img\/accord-phone-mock-up.webp",
       "oF" : 0,
       "oIPL" : 1,
       "opt" : 1,
@@ -419,11 +419,11 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/deploy\/img\/augment-isometric-mockup.webp" : {
+    "\/deploy\/img\/augment-isometric-mock-up.webp" : {
       "ft" : 8388608,
       "iS" : 273306,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/augment-isometric-mockup.webp",
+      "oAP" : "\/deploy\/img\/augment-isometric-mock-up.webp",
       "oF" : 0,
       "oIPL" : 1,
       "opt" : 1,
@@ -2930,11 +2930,11 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/deploy\/img\/rilke-mockup.webp" : {
+    "\/deploy\/img\/rilke-mock-up.webp" : {
       "ft" : 8388608,
       "iS" : 378330,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/rilke-mockup.webp",
+      "oAP" : "\/deploy\/img\/rilke-mock-up.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
