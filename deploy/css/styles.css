@@ -515,13 +515,26 @@ h1, h2, h3, h4, h5, h6 {
 
 .project-image-label {
   text-align: center;
-  margin-bottom: 40px;
   font-size: 25px;
   font-weight: bold;
   color: #808080;
 }
 @media (min-width: 768px) {
   .project-image-label {
+    font-size: 30px;
+  }
+}
+
+.project-image-sublabel {
+  text-align: center;
+  margin-bottom: 40px;
+  font-size: 25px;
+  font-weight: lighter;
+  color: #808080;
+  margin-bottom: 40px;
+}
+@media (min-width: 768px) {
+  .project-image-sublabel {
     font-size: 30px;
   }
 }

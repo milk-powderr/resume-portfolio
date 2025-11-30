@@ -1,9 +1,21 @@
 .project-image-label {
     text-align: center;
-    margin-bottom: 40px;
     font-size: 25px;
     font-weight: bold;
     color: #808080;
+
+    @include md {
+        font-size: 30px;
+    }
+}
+
+.project-image-sublabel {
+    text-align: center;
+    margin-bottom: 40px;
+    font-size: 25px;
+    font-weight: lighter;
+    color: #808080;
+    margin-bottom: 40px;
 
     @include md {
         font-size: 30px;
