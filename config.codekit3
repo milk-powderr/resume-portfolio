@@ -3232,44 +3232,11 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/deploy\/img\/u-game-1.webp" : {
-      "ft" : 8388608,
-      "iS" : 577564,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/u-game-1.webp",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-default",
-      "rq" : 75
-    },
-    "\/deploy\/img\/u-game-2.webp" : {
-      "ft" : 8388608,
-      "iS" : 504192,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/u-game-2.webp",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-default",
-      "rq" : 75
-    },
-    "\/deploy\/img\/u-game-cover-1.webp" : {
-      "ft" : 8388608,
-      "iS" : 464988,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/u-game-cover-1.webp",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-default",
-      "rq" : 75
-    },
-    "\/deploy\/img\/u-game-cover-2.webp" : {
+    "\/deploy\/img\/u-game-cover.webp" : {
       "ft" : 8388608,
       "iS" : 263556,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/u-game-cover-2.webp",
+      "oAP" : "\/deploy\/img\/u-game-cover.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -3314,28 +3281,6 @@
       "iS" : 504284,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/u-halloween.webp",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-default",
-      "rq" : 75
-    },
-    "\/deploy\/img\/u-hbd-cover.webp" : {
-      "ft" : 8388608,
-      "iS" : 484764,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/u-hbd-cover.webp",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-default",
-      "rq" : 75
-    },
-    "\/deploy\/img\/u-hbd.webp" : {
-      "ft" : 8388608,
-      "iS" : 857070,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/u-hbd.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
