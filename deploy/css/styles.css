@@ -412,21 +412,19 @@ h1, h2, h3, h4, h5, h6 {
 .all-work-covers {
   display: grid;
   grid-template-columns: repeat(1, 1fr);
-  grid-template-rows: 300px 300px 300px 300px 300px 300px 300px 300px 1fr;
+  grid-template-rows: auto;
   gap: 15px;
+  margin-left: 15px;
+  margin-right: 15px;
 }
 @media (min-width: 768px) {
   .all-work-covers {
     grid-template-columns: repeat(2, 1fr);
-    grid-template-rows: auto;
-    gap: 15px;
   }
 }
 @media (min-width: 992px) {
   .all-work-covers {
     grid-template-columns: repeat(3, 1fr);
-    grid-template-rows: auto;
-    gap: 15px;
   }
 }
 
@@ -439,7 +437,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 0px;
   color: #ffffff;
   height: 100%;
-  padding-left: 20px; /* key fix */
+  padding-left: 20px;
 }
 .work-cover-titles:hover {
   opacity: 1;
@@ -447,38 +445,27 @@ h1, h2, h3, h4, h5, h6 {
   background-color: rgba(245, 144, 161, 0.8274509804);
   width: 100%;
 }
-@media (min-width: 768px) {
-  .work-cover-titles {
-    height: 550px;
-  }
-}
-@media (min-width: 992px) {
-  .work-cover-titles {
-    width: 100%;
-    height: 100%;
-  }
-}
 
 .work-cover-title-1 {
   padding-top: 20px;
-  font-size: 40px;
+  font-size: 30px;
   font-weight: bold;
   padding-right: 30px;
+  padding-bottom: 10px;
 }
 @media (min-width: 768px) {
   .work-cover-title-1 {
     font-size: 180%;
-    padding-bottom: 5px;
   }
 }
 
 .work-cover-title-2 {
-  font-size: 30px;
+  font-size: 20px;
+  padding-bottom: 4px;
 }
 @media (min-width: 768px) {
   .work-cover-title-2 {
     font-size: 110%;
-    padding-bottom: 4px;
   }
 }
 
@@ -494,16 +481,13 @@ h1, h2, h3, h4, h5, h6 {
   display: block;
   object-fit: cover;
 }
+
 .work-cover {
   max-width: 100%;
   height: auto;
   display: block;
   object-fit: cover;
   position: relative;
-}
-.all-work-covers {
-  margin-left: 15px;
-  margin-right: 15px;
 }
 
 .project-image-label {

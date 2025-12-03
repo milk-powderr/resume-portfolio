@@ -1363,6 +1363,17 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
+    "\/deploy\/img\/crotchet-1-cropped.webp" : {
+      "ft" : 8388608,
+      "iS" : 323172,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/crotchet-1-cropped.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
     "\/deploy\/img\/crotchet-1.webp" : {
       "ft" : 8388608,
       "iS" : 362724,
@@ -1406,6 +1417,14 @@
       "opt" : 0,
       "ou" : "lpckwebp-default",
       "rq" : 75
+    },
+    "\/deploy\/img\/crsm-cover-video-cropped.mp4" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/crsm-cover-video-cropped.mp4",
+      "oF" : 0
     },
     "\/deploy\/img\/crsm-cover-video.mp4" : {
       "cB" : 0,
@@ -2144,6 +2163,17 @@
       "iS" : 617210,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/leg-warmer-1.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/deploy\/img\/leg-warmer-2-cropped.webp" : {
+      "ft" : 8388608,
+      "iS" : 423148,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/leg-warmer-2-cropped.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
