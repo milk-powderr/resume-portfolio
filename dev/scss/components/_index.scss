@@ -10,7 +10,7 @@
 
     @include lg {
         grid-template-columns: repeat(3, 1fr);
-        grid-template-rows: 550px 550px 550px 550px 1fr;
+        grid-template-rows: auto 1fr;
     }
 }
 
@@ -86,7 +86,8 @@
       max-width: 100%;
   height: auto;
   display: block;
-    object-fit: cover;
+  overflow: hidden;
+   // object-fit: cover;
 
     @include md {
         // height: 550px;

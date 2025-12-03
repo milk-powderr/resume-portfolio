@@ -3106,6 +3106,14 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
+    "\/deploy\/img\/slap-video-cropped.mp4" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/slap-video-cropped.mp4",
+      "oF" : 0
+    },
     "\/deploy\/img\/slap-video.mp4" : {
       "cB" : 0,
       "ft" : 8192,
@@ -3256,7 +3264,7 @@
     },
     "\/deploy\/img\/u-game-cover-cropped.webp" : {
       "ft" : 8388608,
-      "iS" : 248644,
+      "iS" : 248236,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/u-game-cover-cropped.webp",
       "oF" : 0,
