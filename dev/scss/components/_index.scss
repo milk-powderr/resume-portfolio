@@ -5,7 +5,10 @@
     gap: 15px;
 
     @include md {
-        grid-template-rows: 550px 550px 550px 550px 550px 550px 550px 550px 1fr;
+      //  grid-template-rows: 550px 550px 550px 550px 550px 550px 550px 550px 1fr;
+              grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: auto;
+        gap: 15px;
     }
 
     @include lg {
