@@ -3254,6 +3254,17 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
+    "\/deploy\/img\/u-game-cover-cropped.webp" : {
+      "ft" : 8388608,
+      "iS" : 248644,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/u-game-cover-cropped.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
     "\/deploy\/img\/u-game-cover.webp" : {
       "ft" : 8388608,
       "iS" : 263556,
@@ -3534,6 +3545,17 @@
       "iS" : 228890,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/u-winter-4.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/deploy\/img\/u-winter-cover-1-cropped.webp" : {
+      "ft" : 8388608,
+      "iS" : 379636,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/u-winter-cover-1-cropped.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
