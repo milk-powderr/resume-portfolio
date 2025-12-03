@@ -221,6 +221,17 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
+    "\/deploy\/img\/accord-cover-cropped.webp" : {
+      "ft" : 8388608,
+      "iS" : 428660,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/accord-cover-cropped.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
     "\/deploy\/img\/accord-cover.webp" : {
       "ft" : 8388608,
       "iS" : 382216,
@@ -782,6 +793,14 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
+    "\/deploy\/img\/bartram-video-cropped.mp4" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/bartram-video-cropped.mp4",
+      "oF" : 0
+    },
     "\/deploy\/img\/bartram-video.mp4" : {
       "cB" : 0,
       "ft" : 8192,
@@ -1288,6 +1307,17 @@
       "oA" : 0,
       "oAP" : "\/deploy\/img\/cow.mp4",
       "oF" : 0
+    },
+    "\/deploy\/img\/crit-hit-cover-cropped.webp" : {
+      "ft" : 8388608,
+      "iS" : 150188,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/crit-hit-cover-cropped.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
     },
     "\/deploy\/img\/crit-hit-cover.webp" : {
       "ft" : 8388608,
@@ -1837,6 +1867,14 @@
       "opt" : 0,
       "ou" : "lpckwebp-default",
       "rq" : 75
+    },
+    "\/deploy\/img\/emmelina-video-cropped.mp4" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/emmelina-video-cropped.mp4",
+      "oF" : 0
     },
     "\/deploy\/img\/emmelina-video.mp4" : {
       "cB" : 0,
@@ -2675,6 +2713,14 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
+    "\/deploy\/img\/oreo-video-cropped.mp4" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/oreo-video-cropped.mp4",
+      "oF" : 0
+    },
     "\/deploy\/img\/oreo-video.mp4" : {
       "cB" : 0,
       "ft" : 8192,
@@ -2935,6 +2981,17 @@
       "iS" : 64148,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/rilke-24.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/deploy\/img\/rilke-mock-up-cropped.webp" : {
+      "ft" : 8388608,
+      "iS" : 375196,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/rilke-mock-up-cropped.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
