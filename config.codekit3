@@ -2046,6 +2046,17 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
+    "\/deploy\/img\/hallway-painting-2-cropped.webp" : {
+      "ft" : 8388608,
+      "iS" : 397398,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/hallway-painting-2-cropped.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
     "\/deploy\/img\/hallway-painting-2.webp" : {
       "ft" : 8388608,
       "iS" : 388498,
@@ -2440,6 +2451,17 @@
       "iS" : 387332,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/medicine-4.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/deploy\/img\/medicine-cover-cropped.webp" : {
+      "ft" : 8388608,
+      "iS" : 325446,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/medicine-cover-cropped.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
