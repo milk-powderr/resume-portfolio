@@ -441,6 +441,17 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
+    "\/deploy\/img\/augment-open-cropped.webp" : {
+      "ft" : 8388608,
+      "iS" : 501370,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/augment-open-cropped.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
     "\/deploy\/img\/augment-open.webp" : {
       "ft" : 8388608,
       "iS" : 214988,
