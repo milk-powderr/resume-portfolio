@@ -423,30 +423,18 @@ h1, h2, h3, h4, h5, h6 {
 @media (min-width: 992px) {
   .all-work-covers {
     grid-template-columns: repeat(3, 1fr);
-    grid-template-rows: auto 1fr;
+    grid-template-rows: 450px 1fr;
+    row-gap: 55px;
   }
 }
 
 .work-cover-titles {
   width: 100%;
-  position: absolute;
-  z-index: 2;
-  opacity: 0;
   list-style-type: none;
   margin-top: 0px;
-  color: #ffffff;
-  height: 300px;
-}
-.work-cover-titles:hover {
-  opacity: 1;
-  transition: 0.3s ease;
-  background-color: rgba(245, 144, 161, 0.7450980392);
-  width: 100%;
-}
-@media (min-width: 992px) {
-  .work-cover-titles:hover {
-    width: 50%;
-  }
+  padding-left: 0%;
+  color: #f590a1;
+  height: auto;
 }
 @media (min-width: 768px) {
   .work-cover-titles {
@@ -455,7 +443,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 @media (min-width: 992px) {
   .work-cover-titles {
-    width: 50%;
+    width: 100%;
   }
 }
 
@@ -463,11 +451,10 @@ h1, h2, h3, h4, h5, h6 {
   padding-top: 20px;
   font-size: 40px;
   font-weight: bold;
-  padding-right: 30px;
 }
 @media (min-width: 768px) {
   .work-cover-title-1 {
-    font-size: 50px;
+    font-size: 25px;
   }
 }
 
@@ -476,7 +463,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 @media (min-width: 768px) {
   .work-cover-title-2 {
-    font-size: 40px;
+    font-size: 20px;
+    padding-top: 5px;
   }
 }
 
@@ -490,7 +478,7 @@ h1, h2, h3, h4, h5, h6 {
   max-width: 100%;
   height: auto;
   display: block;
-  overflow: hidden;
+  object-fit: cover;
 }
 .work-cover {
   max-width: 100%;
