@@ -434,8 +434,9 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 2;
   list-style-type: none;
   margin-top: 0px;
-  color: #ffffff;
-  height: 300px;
+  color: #660b0b;
+  height: 100%;
+  padding-left: 20px; /* key fix */
 }
 .work-cover-titles:hover {
   opacity: 1;
@@ -451,7 +452,7 @@ h1, h2, h3, h4, h5, h6 {
 @media (min-width: 992px) {
   .work-cover-titles {
     width: 100%;
-    height: auto;
+    height: 100%;
   }
 }
 
@@ -463,7 +464,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 @media (min-width: 768px) {
   .work-cover-title-1 {
-    font-size: 50px;
+    font-size: 180%;
   }
 }
 
@@ -472,7 +473,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 @media (min-width: 768px) {
   .work-cover-title-2 {
-    font-size: 40px;
+    font-size: 110%;
   }
 }
 
