@@ -3613,22 +3613,22 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/deploy\/img\/u-sumer-2.webp" : {
+    "\/deploy\/img\/u-summer-1.webp" : {
       "ft" : 8388608,
-      "iS" : 161836,
+      "iS" : 355346,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/u-sumer-2.webp",
+      "oAP" : "\/deploy\/img\/u-summer-1.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/deploy\/img\/u-summer-1.webp" : {
+    "\/deploy\/img\/u-summer-2.webp" : {
       "ft" : 8388608,
-      "iS" : 355346,
+      "iS" : 161836,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/u-summer-1.webp",
+      "oAP" : "\/deploy\/img\/u-summer-2.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
