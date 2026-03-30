@@ -3117,6 +3117,17 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
+    "\/deploy\/img\/slap-concept.webp" : {
+      "ft" : 8388608,
+      "iS" : 309600,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/slap-concept.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
     "\/deploy\/img\/slap-cover.webp" : {
       "ft" : 8388608,
       "iS" : 49380,
@@ -3136,6 +3147,50 @@
       "oF" : 0,
       "oIPL" : 1,
       "opt" : 1,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/deploy\/img\/slap-grapefruit.webp" : {
+      "ft" : 8388608,
+      "iS" : 283920,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/slap-grapefruit.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/deploy\/img\/slap-keylime.webp" : {
+      "ft" : 8388608,
+      "iS" : 281326,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/slap-keylime.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/deploy\/img\/slap-lemon.webp" : {
+      "ft" : 8388608,
+      "iS" : 284812,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/slap-lemon.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/deploy\/img\/slap-mandarin.webp" : {
+      "ft" : 8388608,
+      "iS" : 285894,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/slap-mandarin.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
