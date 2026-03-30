@@ -365,6 +365,50 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
+    "\/deploy\/img\/augment-concept-1.webp" : {
+      "ft" : 8388608,
+      "iS" : 768664,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/augment-concept-1.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/deploy\/img\/augment-concept-2.webp" : {
+      "ft" : 8388608,
+      "iS" : 144680,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/augment-concept-2.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/deploy\/img\/augment-concept-3.webp" : {
+      "ft" : 8388608,
+      "iS" : 114554,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/augment-concept-3.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/deploy\/img\/augment-concept-4.webp" : {
+      "ft" : 8388608,
+      "iS" : 81968,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/augment-concept-4.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
     "\/deploy\/img\/augment-cover.webp" : {
       "ft" : 8388608,
       "iS" : 136648,
