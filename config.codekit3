@@ -1276,6 +1276,17 @@
       "oAP" : "\/deploy\/img\/cow.mp4",
       "oF" : 0
     },
+    "\/deploy\/img\/crit-hit-concept.webp" : {
+      "ft" : 8388608,
+      "iS" : 466942,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/crit-hit-concept.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
     "\/deploy\/img\/crit-hit-cover-cropped.webp" : {
       "ft" : 8388608,
       "iS" : 150188,
