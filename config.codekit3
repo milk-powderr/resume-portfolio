@@ -117,14 +117,6 @@
       "oAP" : "\/deploy\/flushed-hall.html",
       "oF" : 0
     },
-    "\/deploy\/hello-kitty.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/hello-kitty.html",
-      "oF" : 0
-    },
     "\/deploy\/img\/2026-spring-summer-cover-video.mp4" : {
       "cB" : 0,
       "ft" : 8192,
@@ -3701,6 +3693,14 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
+    "\/deploy\/img\/unique-industries-cover-video.mp4" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/unique-industries-cover-video.mp4",
+      "oF" : 0
+    },
     "\/deploy\/img\/Week10-FINAL-Brand Presentation 4.pdf" : {
       "cB" : 0,
       "ft" : 8192,
@@ -3793,6 +3793,14 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/deploy\/slap.html",
+      "oF" : 1
+    },
+    "\/deploy\/unique-industries.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/unique-industries.html",
       "oF" : 1
     },
     "\/deploy\/wonderfilled.html" : {
@@ -4016,14 +4024,6 @@
       "oAP" : "\/dev\/components\/header.html",
       "oF" : 1
     },
-    "\/dev\/components\/hello-kitty.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/components\/hello-kitty.html",
-      "oF" : 1
-    },
     "\/dev\/components\/index.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -4088,6 +4088,14 @@
       "oAP" : "\/dev\/components\/slap.html",
       "oF" : 1
     },
+    "\/dev\/components\/unique-industries.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/unique-industries.html",
+      "oF" : 1
+    },
     "\/dev\/components\/wonderfilled.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -4126,14 +4134,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/flushed-hall.html",
-      "oF" : 2
-    },
-    "\/dev\/hello-kitty.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/hello-kitty.html",
       "oF" : 2
     },
     "\/dev\/helpers\/_mixins.scss" : {
@@ -4521,21 +4521,6 @@
       "pg" : 0,
       "sct" : 0
     },
-    "\/dev\/scss\/components\/_hello-kitty.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/scss\/components\/_hello-kitty.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
     "\/dev\/scss\/components\/_index.scss" : {
       "aP" : 0,
       "bl" : 0,
@@ -4656,6 +4641,21 @@
       "pg" : 0,
       "sct" : 0
     },
+    "\/dev\/scss\/components\/_unique-industries.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_unique-industries.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
     "\/dev\/scss\/components\/_wonderfilled.scss" : {
       "aP" : 0,
       "bl" : 0,
@@ -4746,6 +4746,14 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/slap.html",
+      "oF" : 2
+    },
+    "\/dev\/unique-industries.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/unique-industries.html",
       "oF" : 2
     },
     "\/dev\/wonderfilled.kit" : {
