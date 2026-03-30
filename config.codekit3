@@ -1776,17 +1776,6 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/deploy\/img\/em-8.webp" : {
-      "ft" : 8388608,
-      "iS" : 112344,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/em-8.webp",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-default",
-      "rq" : 75
-    },
     "\/deploy\/img\/em-9.webp" : {
       "ft" : 8388608,
       "iS" : 27018,
@@ -1803,17 +1792,6 @@
       "iS" : 36342,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/em-10.webp",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-default",
-      "rq" : 75
-    },
-    "\/deploy\/img\/em-11.webp" : {
-      "ft" : 8388608,
-      "iS" : 23872,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/em-11.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -1910,11 +1888,33 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
+    "\/deploy\/img\/emmelina-alt-patterns.webp" : {
+      "ft" : 8388608,
+      "iS" : 112344,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/emmelina-alt-patterns.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
     "\/deploy\/img\/emmelina-card.webp" : {
       "ft" : 8388608,
       "iS" : 214696,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/emmelina-card.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/deploy\/img\/emmelina-color-type.webp" : {
+      "ft" : 8388608,
+      "iS" : 23872,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/emmelina-color-type.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
