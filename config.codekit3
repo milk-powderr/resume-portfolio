@@ -3150,6 +3150,14 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
+    "\/deploy\/img\/slap-fold-video.mp4" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/slap-fold-video.mp4",
+      "oF" : 0
+    },
     "\/deploy\/img\/slap-grapefruit.webp" : {
       "ft" : 8388608,
       "iS" : 283920,
@@ -3232,6 +3240,39 @@
       "iS" : 212310,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/slap-new-3.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/deploy\/img\/slap-shelf-back.webp" : {
+      "ft" : 8388608,
+      "iS" : 329312,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/slap-shelf-back.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/deploy\/img\/slap-shelf-front.webp" : {
+      "ft" : 8388608,
+      "iS" : 282446,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/slap-shelf-front.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/deploy\/img\/slap-shelf-oblique.webp" : {
+      "ft" : 8388608,
+      "iS" : 163050,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/slap-shelf-oblique.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
