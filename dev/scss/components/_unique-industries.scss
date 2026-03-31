@@ -97,3 +97,28 @@
         width: 60%;
     }
 }
+
+.rl-project-image-label {
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    color: #808080;
+    margin-bottom: 40px;
+    margin-top: 80px;
+
+    @include md {
+        font-size: 30px;
+    }
+}
+
+.rl-project-image-80-perc {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding-bottom: 10px;
+
+    @include md {
+        width: 60%;
+    }
+}
