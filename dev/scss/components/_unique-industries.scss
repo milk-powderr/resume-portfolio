@@ -31,11 +31,11 @@
     margin-bottom: 40px;
 
     @include md {
-    font-size: 30px;
-    font-size: 25px;
-    font-weight: lighter;
-    color: #808080;
-    margin-bottom: 40px;
+        font-size: 30px;
+        font-size: 25px;
+        font-weight: lighter;
+        color: #808080;
+        margin-bottom: 40px;
     }
 }
 
@@ -48,7 +48,6 @@
 }
 
 .two-col-with-header .product-group {
- //   width: 50%;
     display: flex;
     flex-direction: column;
     gap: 8px;
@@ -56,8 +55,6 @@
 
 .two-col-with-header .product-group img {
     width: 100%;
-   // height: auto;
-  //  max-height: 400px;
     object-fit: cover;
 }
 
@@ -77,13 +74,13 @@
 }
 
 @media (max-width: 768px) {
-  .two-col-with-header {
-    flex-direction: column;
-  }
+    .two-col-with-header {
+        flex-direction: column;
+    }
 
-  .two-col-with-header img {
-    width: 100%;
-  }
+    .two-col-with-header img {
+        width: 100%;
+    }
 }
 
 .hk-project-image-80-perc {
