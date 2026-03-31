@@ -577,6 +577,18 @@ h1, h2, h3, h4, h5, h6 {
     width: 100%;
   }
 }
+.hk-project-image-80-perc {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+@media (min-width: 768px) {
+  .hk-project-image-80-perc {
+    width: 60%;
+  }
+}
+
 .project-title-and-text {
   width: 90%;
   padding-left: 30px;
