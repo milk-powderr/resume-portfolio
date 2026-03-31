@@ -1,0 +1,9 @@
+.project-body-text-2 {
+padding-top: 10px;
+    font-size: 20px;
+    width: 100%;
+
+    @include md {
+        width: 740px;
+    }
+}
