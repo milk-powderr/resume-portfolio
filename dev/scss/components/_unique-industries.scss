@@ -4,6 +4,7 @@
     font-weight: bold;
     color: #808080;
     margin-bottom: 40px;
+    margin-top: 40px;
 
     @include md {
         font-size: 30px;
@@ -38,18 +39,18 @@
     }
 }
 
-.hd-project-image-sublabel {
-    text-align: center;
-    margin-top: 40px;
-    font-size: 25px;
-    font-weight: lighter;
-    color: #808080;
-    margin-bottom: 40px;
+// .hd-project-image-sublabel {
+//     text-align: center;
+//     margin-top: 40px;
+//     font-size: 25px;
+//     font-weight: lighter;
+//     color: #808080;
+//     margin-bottom: 40px;
 
-    @include md {
-    font-size: 30px;
-    font-size: 25px;
-    font-weight: lighter;
-    color: #808080;
-    margin-bottom: 40px;}
-}
+//     @include md {
+//     font-size: 30px;
+//     font-size: 25px;
+//     font-weight: lighter;
+//     color: #808080;
+//     margin-bottom: 40px;}
+// }
