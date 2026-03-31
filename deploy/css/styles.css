@@ -582,6 +582,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-left: auto;
   margin-right: auto;
   display: block;
+  padding-bottom: 20px;
 }
 @media (min-width: 768px) {
   .hk-project-image-80-perc {
