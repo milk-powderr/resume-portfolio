@@ -42,7 +42,7 @@
 .two-col-with-header {
     display: flex;
     gap: 16px;
-    align-items: flex-start;
+    align-items: center;
     width: 80%;
     margin: 0 auto;
 }
@@ -69,7 +69,7 @@
     font-weight: bold;
     color: #808080;
     margin-bottom: 40px;
-    margin-top: 40px;
+    margin-top: 60px;
 
     @include md {
         font-size: 30px;
