@@ -1235,6 +1235,17 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
+    "\/deploy\/img\/cinnamoroll-nui-sketch.webp" : {
+      "ft" : 8388608,
+      "iS" : 45604,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/cinnamoroll-nui-sketch.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
     "\/deploy\/img\/cit-shelf-1.webp" : {
       "ft" : 8388608,
       "iS" : 55770,
@@ -2176,6 +2187,17 @@
       "oAP" : "\/deploy\/img\/heart.mov",
       "oF" : 0
     },
+    "\/deploy\/img\/hello-kitty-nui-sketch.webp" : {
+      "ft" : 8388608,
+      "iS" : 70890,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/hello-kitty-nui-sketch.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
     "\/deploy\/img\/initial-1.ico" : {
       "cB" : 0,
       "ft" : 8192,
@@ -2219,6 +2241,17 @@
       "iS" : 54646,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/insta-logo.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/deploy\/img\/kuromi-nui-sketch.webp" : {
+      "ft" : 8388608,
+      "iS" : 35016,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/kuromi-nui-sketch.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -2639,6 +2672,17 @@
       "iS" : 118800,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/music-poster.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/deploy\/img\/my-melody-nui-sketch.webp" : {
+      "ft" : 8388608,
+      "iS" : 45274,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/my-melody-nui-sketch.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
