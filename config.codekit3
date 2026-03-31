@@ -2854,6 +2854,17 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
+    "\/deploy\/img\/oreo-storyboard.webp" : {
+      "ft" : 8388608,
+      "iS" : 234754,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/oreo-storyboard.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
     "\/deploy\/img\/oreo-tablets.webp" : {
       "ft" : 8388608,
       "iS" : 149878,
