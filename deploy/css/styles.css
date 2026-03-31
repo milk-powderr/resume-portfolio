@@ -734,6 +734,61 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 20px;
 }
 
+.two-col {
+  display: flex;
+  gap: 16px;
+  align-items: flex-start;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.two-col img {
+  width: 50%;
+  height: auto;
+}
+
+@media (max-width: 768px) {
+  .two-col {
+    flex-direction: column;
+  }
+  .two-col img {
+    width: 100%;
+  }
+}
+.two-row {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.two-row img {
+  width: 50%;
+  height: auto;
+}
+
+@media (max-width: 768px) {
+  .two-row {
+    flex-direction: column;
+  }
+  .two-row img {
+    width: 100%;
+  }
+}
+.project-image-60-perc {
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 55px;
+  display: block;
+}
+@media (min-width: 768px) {
+  .project-image-60-perc {
+    width: 35%;
+  }
+}
+
 .all-play-covers {
   display: grid;
   grid-template-columns: repeat(1, 1fr);
