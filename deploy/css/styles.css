@@ -490,6 +490,33 @@ h1, h2, h3, h4, h5, h6 {
   position: relative;
 }
 
+.project-image-90-perc {
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  padding-bottom: 55px;
+}
+@media (min-width: 768px) {
+  .project-image-90-perc {
+    width: 80%;
+  }
+}
+
+.slap-project-image-label {
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+  color: #808080;
+  margin-bottom: 20px;
+  margin-top: 60px;
+}
+@media (min-width: 768px) {
+  .slap-project-image-label {
+    font-size: 30px;
+  }
+}
+
 .hk-project-image-label {
   text-align: center;
   font-size: 25px;

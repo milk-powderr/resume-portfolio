@@ -1605,6 +1605,14 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
+    "\/deploy\/img\/cut_serve_repeat_video.mp4" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/cut_serve_repeat_video.mp4",
+      "oF" : 0
+    },
     "\/deploy\/img\/cutl-elements.webp" : {
       "ft" : 8388608,
       "iS" : 94058,
@@ -4245,6 +4253,14 @@
       "oAP" : "\/deploy\/leg-warmers.html",
       "oF" : 1
     },
+    "\/deploy\/milkys.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/milkys.html",
+      "oF" : 0
+    },
     "\/deploy\/nui-clothes.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -4490,6 +4506,14 @@
       "oAP" : "\/dev\/components\/leg-warmers.html",
       "oF" : 1
     },
+    "\/dev\/components\/milkys.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/milkys.html",
+      "oF" : 1
+    },
     "\/dev\/components\/nui-clothes.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -4644,6 +4668,14 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/leg-warmers.html",
+      "oF" : 2
+    },
+    "\/dev\/milkys.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/milkys.html",
       "oF" : 2
     },
     "\/dev\/nui-clothes.kit" : {
@@ -4958,6 +4990,21 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/scss\/components\/_leg-warmers.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/dev\/scss\/components\/_milkys.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_milkys.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
