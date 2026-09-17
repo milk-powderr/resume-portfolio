@@ -1052,6 +1052,14 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
+    "\/deploy\/img\/black_forest_rotate_video.mp4" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/black_forest_rotate_video.mp4",
+      "oF" : 0
+    },
     "\/deploy\/img\/bologo.ico" : {
       "cB" : 0,
       "ft" : 8192,
@@ -1103,6 +1111,28 @@
       "iS" : 12382,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/bread.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/deploy\/img\/brown_bag.webp" : {
+      "ft" : 8388608,
+      "iS" : 245282,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/brown_bag.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/deploy\/img\/business_cards.webp" : {
+      "ft" : 8388608,
+      "iS" : 332656,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/business_cards.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -1355,6 +1385,14 @@
       "opt" : 0,
       "ou" : "lpckwebp-default",
       "rq" : 75
+    },
+    "\/deploy\/img\/cookie_butter_rotate_video.mp4" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/cookie_butter_rotate_video.mp4",
+      "oF" : 0
     },
     "\/deploy\/img\/cow.mp4" : {
       "cB" : 0,
@@ -2091,6 +2129,44 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
+    "\/deploy\/img\/flavours.webp" : {
+      "ft" : 8388608,
+      "iS" : 537104,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/flavours.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/deploy\/img\/funfetti_folding_video.mp4" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/funfetti_folding_video.mp4",
+      "oF" : 0
+    },
+    "\/deploy\/img\/funfetti_rotate_video.mp4" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/funfetti_rotate_video.mp4",
+      "oF" : 0
+    },
+    "\/deploy\/img\/gift_cards.webp" : {
+      "ft" : 8388608,
+      "iS" : 177728,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/gift_cards.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
     "\/deploy\/img\/half-signature.webp" : {
       "ft" : 8388608,
       "iS" : 479198,
@@ -2370,6 +2446,39 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
+    "\/deploy\/img\/logo_hero.webp" : {
+      "ft" : 8388608,
+      "iS" : 87550,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/logo_hero.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/deploy\/img\/logos_colors_fonts.webp" : {
+      "ft" : 8388608,
+      "iS" : 319204,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/logos_colors_fonts.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/deploy\/img\/loyalty_cards.webp" : {
+      "ft" : 8388608,
+      "iS" : 59500,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/loyalty_cards.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
     "\/deploy\/img\/magazine-cover-spread.webp" : {
       "ft" : 8388608,
       "iS" : 132912,
@@ -2623,6 +2732,33 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
+    "\/deploy\/img\/milky_insta.webp" : {
+      "ft" : 8388608,
+      "iS" : 333742,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/milky_insta.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/deploy\/img\/milky_laptop.mp4" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/milky_laptop.mp4",
+      "oF" : 0
+    },
+    "\/deploy\/img\/milky_phone.mp4" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/milky_phone.mp4",
+      "oF" : 0
+    },
     "\/deploy\/img\/mockup1.webp" : {
       "ft" : 8388608,
       "iS" : 342192,
@@ -2798,6 +2934,14 @@
       "opt" : 0,
       "ou" : "lpckwebp-default",
       "rq" : 75
+    },
+    "\/deploy\/img\/oreo_rotate_video.mp4" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/oreo_rotate_video.mp4",
+      "oF" : 0
     },
     "\/deploy\/img\/oreo-assets.webp" : {
       "ft" : 8388608,
@@ -2998,6 +3142,33 @@
       "opt" : 0,
       "ou" : "lpckwebp-default",
       "rq" : 75
+    },
+    "\/deploy\/img\/rectangle_package_render.webp" : {
+      "ft" : 8388608,
+      "iS" : 72184,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/rectangle_package_render.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/deploy\/img\/red_velvet_fold_video.mp4" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/red_velvet_fold_video.mp4",
+      "oF" : 0
+    },
+    "\/deploy\/img\/red_velvet_rotate_video.mp4" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/red_velvet_rotate_video.mp4",
+      "oF" : 0
     },
     "\/deploy\/img\/resume.pdf" : {
       "cB" : 0,
@@ -3210,6 +3381,17 @@
       "iS" : 175566,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/rilke-spread-3.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/deploy\/img\/round_sign.webp" : {
+      "ft" : 8388608,
+      "iS" : 175040,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/round_sign.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -3449,6 +3631,50 @@
       "oAP" : "\/deploy\/img\/slap-video.mp4",
       "oF" : 0
     },
+    "\/deploy\/img\/slice_package_render.webp" : {
+      "ft" : 8388608,
+      "iS" : 81530,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/slice_package_render.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/deploy\/img\/square_package_render.webp" : {
+      "ft" : 8388608,
+      "iS" : 101664,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/square_package_render.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/deploy\/img\/sticker.webp" : {
+      "ft" : 8388608,
+      "iS" : 1297950,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/sticker.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/deploy\/img\/storefront.webp" : {
+      "ft" : 8388608,
+      "iS" : 528708,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/storefront.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
     "\/deploy\/img\/storyboard.webp" : {
       "ft" : 8388608,
       "iS" : 49246,
@@ -3473,6 +3699,17 @@
       "iS" : 41960,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/symphony-palette.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/deploy\/img\/tote_bag.webp" : {
+      "ft" : 8388608,
+      "iS" : 165818,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/tote_bag.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -3916,6 +4153,33 @@
       "oAP" : "\/deploy\/img\/unique-industries-cover-video.mp4",
       "oF" : 0
     },
+    "\/deploy\/img\/victoria_sponge_fold_video.mp4" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/victoria_sponge_fold_video.mp4",
+      "oF" : 0
+    },
+    "\/deploy\/img\/victoria_sponge_rotate_video.mp4" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/victoria_sponge_rotate_video.mp4",
+      "oF" : 0
+    },
+    "\/deploy\/img\/wall_ad.webp" : {
+      "ft" : 8388608,
+      "iS" : 280212,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/wall_ad.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
     "\/deploy\/img\/Week10-FINAL-Brand Presentation 4.pdf" : {
       "cB" : 0,
       "ft" : 8192,
@@ -3923,6 +4187,17 @@
       "oA" : 0,
       "oAP" : "\/deploy\/img\/Week10-FINAL-Brand Presentation 4.pdf",
       "oF" : 0
+    },
+    "\/deploy\/img\/white_bag.webp" : {
+      "ft" : 8388608,
+      "iS" : 152468,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/white_bag.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
     },
     "\/deploy\/img\/wonderfilled-design-guidelines.pdf" : {
       "cB" : 0,
