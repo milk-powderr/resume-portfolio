@@ -524,11 +524,16 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .milkys-project-image-80-perc {
-  width: 45%;
+  width: 80%;
   margin-left: auto;
   margin-right: auto;
   display: block;
   padding-bottom: 55px;
+}
+@media (min-width: 768px) {
+  .milkys-project-image-80-perc {
+    width: 45%;
+  }
 }
 
 .hk-project-image-label {
