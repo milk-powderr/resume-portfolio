@@ -2148,12 +2148,12 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/deploy\/img\/funfetti_folding_video.mp4" : {
+    "\/deploy\/img\/funfetti_fold_video.mp4" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/funfetti_folding_video.mp4",
+      "oAP" : "\/deploy\/img\/funfetti_fold_video.mp4",
       "oF" : 0
     },
     "\/deploy\/img\/funfetti_rotate_video.mp4" : {
