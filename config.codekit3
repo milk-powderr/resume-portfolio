@@ -3680,12 +3680,28 @@
       "oAP" : "\/deploy\/img\/stivali_cover.mp4",
       "oF" : 0
     },
+    "\/deploy\/img\/stivali_her_day_mobile.mp4" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/stivali_her_day_mobile.mp4",
+      "oF" : 0
+    },
     "\/deploy\/img\/stivali_her_day.mp4" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/stivali_her_day.mp4",
+      "oF" : 0
+    },
+    "\/deploy\/img\/stivali_mothers_day_mobile.mp4" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/stivali_mothers_day_mobile.mp4",
       "oF" : 0
     },
     "\/deploy\/img\/stivali_mothers_day.mp4" : {
@@ -3696,12 +3712,28 @@
       "oAP" : "\/deploy\/img\/stivali_mothers_day.mp4",
       "oF" : 0
     },
+    "\/deploy\/img\/stivali_roja_mobile.mp4" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/stivali_roja_mobile.mp4",
+      "oF" : 0
+    },
     "\/deploy\/img\/stivali_roja.mp4" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/stivali_roja.mp4",
+      "oF" : 0
+    },
+    "\/deploy\/img\/stivali_spring_mobile.mp4" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/stivali_spring_mobile.mp4",
       "oF" : 0
     },
     "\/deploy\/img\/stivali_spring.mp4" : {
@@ -3712,12 +3744,28 @@
       "oAP" : "\/deploy\/img\/stivali_spring.mp4",
       "oF" : 0
     },
+    "\/deploy\/img\/stivali_suede_mobile.mp4" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/stivali_suede_mobile.mp4",
+      "oF" : 0
+    },
     "\/deploy\/img\/stivali_suede.mp4" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/stivali_suede.mp4",
+      "oF" : 0
+    },
+    "\/deploy\/img\/stivali_unstoppable_mobile.mp4" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/stivali_unstoppable_mobile.mp4",
       "oF" : 0
     },
     "\/deploy\/img\/stivali_unstoppable.mp4" : {
