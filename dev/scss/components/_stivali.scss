@@ -1,0 +1,54 @@
+.project-image-90-perc {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding-bottom: 55px;
+
+    @include md {
+        width: 80%;
+    }
+}
+
+.slap-project-image-label {
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    color: #808080;
+    margin-bottom: 20px;
+    margin-top: 60px;
+
+    @include md {
+        font-size: 30px;
+    }
+}
+
+.two-row {
+    align-items: center;
+    width: 45%;
+    height: auto;
+
+    // @include md {
+    //     font-size: 30px;
+    // }
+}
+
+.milkys-project-image-80-perc {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding-bottom: 55px;
+
+    @include md {
+        width: 45%;
+    }
+}
+
+.milkys-project-image-90-perc {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding-bottom: 55px;
+}
