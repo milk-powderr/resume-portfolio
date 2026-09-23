@@ -684,45 +684,36 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-.slap-project-image-label {
-  text-align: center;
-  font-size: 25px;
-  font-weight: bold;
-  color: #808080;
-  margin-bottom: 20px;
-  margin-top: 60px;
-}
-@media (min-width: 768px) {
-  .slap-project-image-label {
-    font-size: 30px;
-  }
-}
-
 .two-row {
   align-items: center;
   width: 45%;
   height: auto;
 }
 
-.milkys-project-image-80-perc {
-  width: 100%;
+.stivali-web {
+  display: none;
+}
+@media (min-width: 768px) {
+  .stivali-web {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding-bottom: 55px;
+  }
+}
+
+.stivali-mobile {
+  width: 80%;
   margin-left: auto;
   margin-right: auto;
   display: block;
   padding-bottom: 55px;
 }
 @media (min-width: 768px) {
-  .milkys-project-image-80-perc {
-    width: 45%;
+  .stivali-mobile {
+    display: none;
   }
-}
-
-.milkys-project-image-90-perc {
-  width: 80%;
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
-  padding-bottom: 55px;
 }
 
 .project-title-and-text {
