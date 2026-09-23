@@ -388,20 +388,19 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 .intro {
-  font-size: 35px;
+  font-size: 25px;
   font-weight: 370;
   width: 90%;
-  padding-left: 30px;
+  padding-left: 15px;
 }
 @media (min-width: 768px) {
   .intro {
-    padding-left: 30px;
-    font-size: 50px;
+    font-size: 30px;
   }
 }
 @media (min-width: 992px) {
   .intro {
-    font-size: 50px;
+    font-size: 40px;
   }
 }
 

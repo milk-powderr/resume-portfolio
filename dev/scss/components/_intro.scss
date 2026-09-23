@@ -1,16 +1,16 @@
 .intro {
-    font-size: 35px;
+    font-size: 25px;
     font-weight: 370;
     width: 90%;
-    padding-left: 30px;
+    padding-left: 15px;
 
     @include md {
-        padding-left: 30px;
-        font-size: 50px;
+      //  padding-left: 30px;
+        font-size: 30px;
     }
 
     @include lg {
-    font-size: 50px;
+    font-size: 40px;
     // padding-left: 110px;
 }
 }
